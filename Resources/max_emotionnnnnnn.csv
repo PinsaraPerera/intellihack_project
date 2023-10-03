@@ -1,0 +1,1871 @@
+,Artist,Title,emotion,calm,sorrow,power,joy,romance
+0,Lauren Daigle,You Say ,calm,0.2,0.75,0.00067515,0.00053577,0.9824197
+1,The Staves,Nothing's Gonna Happen,calm,0.4,0.7282315,0.18349634,0.3,0.05
+2,The War On Drugs,Living Proof,calm,0.8,0.18197379,0.786336,0.1,0.1
+3,Foy Vance,Sapling,calm,0.005520793,0.35,0.1,0.011016911,0.8344274
+4,Birdy,Surrender,calm,0.5,0.25,0.006504874,0.05,0.7464913
+5,SYML,Symmetry,calm,0.85,0.1,0.14759296,0.026161017,0.05
+6,"William Orbit, Polly Scattergood",Colours Colliding,calm,0.028007163,0.03875028,0.75428045,0.4,0.6
+7,JC Stewart,Break My Heart ,calm,0.18768431,0.4659908,0.5,0.25,0.1532691
+8,Jónsi,Exhale,calm,0.5,0.928416,0.024868047,0.4,0.1
+9,Shaefri,Say You'll Be There ,calm,0.006403629,0.16575351,0.4,0.35,0.8085645
+10,Maisie Peters,Feels Like This,calm,0.7,0.25,0.000233578,0.004549823,0.9895421
+11,RY X,Berlin,calm,0.95,0.123987794,0.024560308,0.53893393,0.13022731
+12,Patricia Lalor,13th of January,calm,0.65,0.4996612,0.23151562,0.25,0.032006513
+13,Abraham Marder,Green,calm,0.01534983,0.29149657,0.21815962,0.13283253,0.75
+14,EVER,Counting Flowers,calm,0.15,0.2,0.2,0.4,0.9450577
+15,SYML,Where's My Love,calm,0.65,0.9066516,0.005956597,0.00275827,0.15
+16,Garrett Kato,Distant Land,calm,0.45,0.4,0.038379952,0.06952247,0.77891445
+17,JFDR,Shimmer,calm,0.55,0.3,0.05,0.40638757,0.1
+18,LÉON,Head And Heart On Fire,calm,0.45,0.688058,0.21362798,0.021254087,0.15
+19,Birdy,Loneliness,calm,0.05,0.6,0.1,0.1,0.9226884
+20,The Staves,Nazareth,calm,0.85,0.05,0.09576164,0.7806662,0.1
+21,Ben Howard,Promise,calm,0.55,0.28041378,0.04516386,0.010200419,0.6471717
+22,Sufjan Stevens,Mystery of Love,calm,0.8,0.2,0.39594364,0.24758436,0.037668157
+23,Jasmine Thompson,loyal,calm,0.1,0.1,0.1,0.25,0.9892028
+24,Alice Boman,Waiting,calm,0.9,0.018814988,0.004506507,0.1,0.93024457
+25,Clara Mae,Loved You Once,calm,0.35,0.15,0.002570481,0.5,0.95318615
+26,Delmer Darion,Television,calm,0.14749826,0.1,0.56763554,0.35,0.5
+27,Sam Ryder,Whirlwind,calm,0.65,0.25,0.007762201,0.085923634,0.90167546
+28,Beta Radio,Our Remains,calm,0.9,0.51483244,0.049631998,0.013845312,0.40932432
+29,Damien Rice,The Blower's Daughter,calm,0.9,0.23505276,0.05,0.002379616,0.7543798
+30,The Low Anthem,Charlie Darwin,calm,0.95,0.044929873,0.098801576,0.16865791,0.000872561
+31,The Paper Kites,Arms,calm,0.9,0.05,0.000388825,0.000537104,0.9927926
+32,Christina Perri,A Thousand Years,calm,0.8,0.2,0.003015842,0.001558311,0.9434742
+33,The Staves,Make It Holy,calm,0.95,0.46589142,0.004765396,0.003104231,0.5198009
+34,Coldplay,We Never Change,calm,0.2789562,0.1,0.3,0.36979213,0.55
+35,Wilco,Please Be Patient with Me,calm,0.9,0.1,0.005355617,0.002523791,0.9391597
+36,"Frightened Rabbit, Julien Baker",How It Gets In (feat. Julien Baker),calm,0.113845095,0.5,0.62483925,0.22201484,0.4
+37,Birdy,Skinny Love,calm,0.4,0.45,0.25788262,0.5093469,0.086573675
+38,Harrison Storm,Sense of Home,calm,0.95,0.9439405,0.013934527,0.002465821,0.011067269
+39,Olivia Chaney,IOU,calm,0.45,0.45,0.003105776,0.003311802,0.95671433
+40,Florist,Glowing Brightly,calm,0.25,0.4,0.020782325,0.25,0.45846036
+41,LÉON,Come Home To Me,calm,1,0.36533195,0.003834013,0.002221205,0.6229205
+42,Maisie Peters,Birthday,calm,0.6,0.22455958,0.14355204,0.15,0.12768398
+43,Linying,Self Control,calm,0.8,0.04602876,0.05,0.002030147,0.9486034
+44,Dua Lipa,Homesick,calm,0.8,0.15,0.05,0.005272276,0.8987035
+45,Dan Caplen,Love Me the Same,calm,0.1,0.7,0.1,0.05,0.88758016
+46,Yore,Desperate Measures,calm,0.55,0.062501624,0.88532907,0.05,0.002312268
+47,Sturgill Simpson,Breakers Roar,calm,0.7,0.2,0.016533133,0.14680114,0.4598245
+48,Finn Andrews,My Lotus Flower & Me,calm,0.8,0.003173973,0.08441616,0.8989713,0.2
+49,Monica Heldal,Follow You Anywhere,calm,0.9,0.05,0.034629457,0.3858579,0.50110555
+50,Mountain Man,Baby Where You Are,calm,1,0.006901394,0.34063816,0.04365595,0.6060195
+51,Johanna Warren,Black Moss,calm,0.9,0.1,0.001810238,0.001556644,0.9892021
+52,Dido,Give You Up,calm,0.4,0.89311683,0.05,0.002913831,0.25
+53,Neil Young,Heart of Gold - 2009 Remaster,calm,0.428571429,0.071428571,0.142857143,0.9802986,0.071428571
+54,RY X,YaYaYa,calm,0.7,0.2,0.030674323,0.75713074,0.12569983
+55,The Sweeplings,Across the Sea,calm,0.55,0.45,0.002801685,0.1446162,0.78951186
+56,Rosemary & Garlic,Old Now,calm,0.75,0.1561807,0.05,0.1,0.75215334
+57,Aisha Badru,Waiting Around - Acoustic,calm,0.95,0.05,0.024022017,0.9661311,0.003075759
+58,Lake Street Dive,I Can Change,calm,0.55,0.69391453,0.055452574,0.05,0.3
+59,Mountain Man,"Take Me Home, Country Roads",calm,0.75,0.05,0.011570351,0.6913059,0.032033205
+60,The Low Anthem,To Ohio,calm,0.8,0.003932265,0.05,0.9620361,0.15
+61,Brandi Carlile,Every Time I Hear That Song,calm,0.35,0.45,0.1,0.05,0.9541111
+62,Brett Dennen,Where We Left Off,calm,0.85,0.087369904,0.00064279,0.05,0.89770013
+63,Jeff Tweedy,In A Future Age,calm,0.59073955,0.3,0.23961207,0.16596265,0.2
+64,Old Sea Brigade,Tidal Wave ,calm,0.7,0.28793603,0.009614781,0.25,0.3990996
+65,Aisha Badru,Bridges ,calm,0.5,0.1,0.004622805,0.05,0.97220695
+66,Gem Club,Twins,calm,0.6,0.4,0.000471557,0.001394235,0.9836457
+67,Ben Platt,Grow As We Go,calm,0.6,0.3,0.011075346,0.07843791,0.88004357
+68,Charlie Cunningham,Headlights,calm,0.65,0.05,0.004065962,0.18094376,0.7898413
+69,Matt Maeson,I Just Don't Care That Much - Stripped,calm,0.24000584,0.35,0.64508265,0.057049368,0.3
+70,Winnie Raeder,Don't You Dare,calm,0.7,0.5299062,0.17276335,0.15,0.2789569
+71,Meadowlark,May I Have This Dance,calm,0.85,0.05,0.000375321,0.00437607,0.99114615
+72,"The Staves, yMusic",Trouble on My Mind,calm,0.9,0.91414255,0.04198596,0.003350841,0.05
+73,Lomelda,Bust,calm,0.85,0.10097611,0.020538928,0.004146011,0.8730181
+74,The Woodlands,Sudden Love - Acoustic,calm,0.2,0.05,0.7027762,0.25232142,0.25
+75,Eddie Berman,Untamed,calm,0.45141053,0.55,0.22379161,0.024174538,0.05
+76,Mahalia,Grateful,calm,0.15,0.55,0.000779704,0.15,0.95697093
+77,Sam Amidon,I Wish I Wish,calm,0.75,0.12393297,0.1,0.016494365,0.83188593
+78,Quiet Arrows,Find a Way,calm,0.85,0.1,0.008912304,0.65092015,0.2649117
+79,RY X,Body Sun,calm,0.55,0.3,0.09233339,0.03306143,0.8707493
+80,Lights,Same Sea,calm,0.85,0.1,0.17513369,0.30300432,0.06901619
+81,The Staves,I'm on Fire,calm,0.95,0.05,0.015435161,0.19250144,0.7813824
+82,Birdy,Not About Angels,calm,0.85,0.014140816,0.38917375,0.28763747,0.1
+83,Devendra Banhart,Middle Names,calm,0.85,0.15,0.008920338,0.004263658,0.9144441
+84,Lianne La Havas,Wonderful - Solo,calm,0.85,0.05,0.1,0.1919793,0.7471068
+85,Damien Rice,9 Crimes,calm,0.55,0.31166935,0.19675638,0.05,0.44185758
+86,Wilco,The Lonely 1,calm,0.85,0.007583299,0.002991817,0.6999153,0.25956348
+87,Brent Cobb,Shine On Rainy Day,calm,0.36421195,0.1,0.023075914,0.548061,0.45
+88,Eminem,Walk on Water,calm,0.05,0.3,0.9723697,0.2,0.15
+89,Eminem,Not Afraid,calm,0.074722275,0.3,0.6,0.6098726,0.16033855
+90,Eminem,Sing for the Moment,calm,0.2,0.002451237,0.89468706,0.07382886,0.2
+91,Eminem,Infinite,calm,0.005948588,0.1,0.45,0.95848185,0.25
+92,Eminem,So Far...,calm,0.3,0.1,0.19282079,0.76256293,0.05
+93,Eminem,Normal,calm,0.3,0.21439467,0.6,0.2515058,0.05138682
+94,Eminem,8 Mile,calm,0.6,0.03859019,0.676408,0.2608085,0.000756213
+95,Eminem,8 Mile: Lotto vs B-Rabbit,calm,0.2,0.001778617,0.60389996,0.4,0.1
+96,Eminem,8 Mile: Lyckety-Splyt vs B-Rabbit,calm,0.1,0.001875363,0.81442505,0.6,0.3
+97,Eminem,Talkin’ 2 Myself,calm,0.2683308,0.2,0.7,0.46398574,0.05
+98,Eminem,Under the Influence,calm,0.05,0.001194289,0.9,0.8852981,0.001188112
+99,Eminem,Underground,calm,0.05,0.9,0.60391074,0.33237413,0.05
+100,Eminem,Book of Rhymes,calm,0.30228698,0.05,0.6,0.564328,0.001051651
+101,Eminem,Untitled,calm,0.059553083,0.1,0.9,0.7906044,0.000633433
+102,Eminem,Don’t Front,calm,0.03768814,0.05,0.95,0.4279474,0.000480084
+103,Eminem,Hello,calm,0.05,0.9,0.22151291,0.28554305,0.14714938
+104,Eminem,Must Be the Ganja,calm,0.013968648,0.001256469,0.8,0.9603159,0.05
+105,Eminem,Elevator,calm,0.0319546,0.05,0.75,0.9012706,0.1
+106,Eminem,Revival (Interlude),calm,0.13565287,0.833333333,0.09295656,0.7639845,0.111111111
+107,Eminem,Lose Yourself (Original Demo Version),calm,0.35,0.05,0.9556125,0.1,0.05
+108,Eminem,Session One,calm,0.026682543,0.001881688,0.2,0.9070728,0.35
+109,Eminem,Alfred (Interlude),calm,0.4,0.001672411,0.2,0.62754977,0.2
+110,Eminem,It’s O.K.,calm,0.6410456,0.15,0.75,0.208534,0.1
+111,Eminem,Bad Influence,calm,0.028615607,0.005924275,0.85,0.59249026,0.000963076
+112,Eminem,Weed Lacer,calm,0.026686843,0.006106223,0.7,0.8019686,0.3
+113,Eminem,Greg,calm,0.25353187,0.470588235,0.3306757,0.529411765,0.000618247
+114,Eminem,8 Mile Background Music,calm,0.03292944,0.002803752,0.65,0.93752533,0.004149487
+115,Eminem,Our House,calm,0.25,0.001834404,0.65,0.9446633,0.1
+116,Eminem,Intro (Curtain Call),calm,0.006198912,0.272727273,0.181818182,0.9788625,0.363636364
+117,Eminem,Alfred (Intro),calm,0.5363613,0.15,0.55,0.16747321,0.05
+118,Eminem,50 Ways,calm,0.00610724,0.2,0.25,0.45,0.7582687
+119,Eminem,W.E.G.O. (Interlude),calm,0.011095561,0.000624728,0.0625,0.94635,0.6875
+120,Eminem,8 Mile: D’Phuzion vs B-Rabbit,calm,0.028213805,0.001206002,0.6031742,0.36643654,0.000969383
+121,Eminem,Thus Far (Interlude),calm,0.15683348,0.003187957,0.75960195,0.666666667,0.00068747
+122,Eminem,8 Mile: Lily’s Lullaby,calm,0.004779604,0.15,0.75,0.42716253,0.47010985
+123,Eminem,God Is Cleaning Out My Closet,calm,0.013165287,0.25,0.45,0.6396196,0.05
+124,Eminem,Eminem’s Tattoos,calm,0.036431607,0.001681542,0.42358297,0.5372046,0.6
+125,Eminem,Whether or Not,calm,0.3,0.038721763,0.6,0.28448623,0.05
+126,Eminem,Infinite (F.B.T. Remix),calm,0.013266073,0.6,0.2,0.8360176,0.003954785
+127,Eminem,1999,calm,0.008172612,0.0023973,0.55,0.5710637,0.001925413
+128,Eminem,The Way I Am (Danny Lohner Remix),calm,0.103254735,0.002358745,0.45,0.81318873,0.1
+129,Eminem,’97 Blazer,calm,0.05166842,0.003208844,0.7,0.8425415,0.3
+130,Eminem,Ghost Stories,calm,0.007530843,0.021613643,0.8989607,0.65,0.35
+131,Eminem,Lose Yourself (Drum & Bass Remix),calm,0.060370702,0.26987648,0.53250915,0.2,0.2
+132,Eminem,What Colour Is Soul,calm,0.006386411,0.05,0.45,0.9709645,0.5
+133,Eminem,Don’t Chew With Your Mouth Full,calm,0.06872598,0.000984796,0.6,0.8552597,0.3
+134,Eminem,"Eminem, Paul Rosenberg Intro",calm,0.04708323,0.003473264,0.2,0.8777514,0.3
+135,Eminem,"Open Mic Feb. 17, 1996",calm,0.1,0.1,0.47532317,0.5110449,0.25
+136,Eminem,Ode To Detroit,calm,0.11712411,0.002125035,0.9,0.7331571,0.00323308
+137,Eminem,Don’t Call Me Marshall (Intro),calm,0.2145495,0.25,0.74211794,0.25,0.05
+138,Eminem,Hot 100 Chart History,calm,0.24210279,0.025500648,0.75,0.4401074,0.000821938
+139,Eminem,Lose Yourself (Live at the 92nd Academy Awards),calm,0.15,0.33965647,0.49173766,0.3,0.1
+140,Eminem,Eminem Full Discography,calm,0.4,0.15,0.35,0.9622729,0.001750321
+141,Eminem,Cannon for nick,calm,0.07127701,0.055001847,0.2,0.75,0.6603883
+142,Eminem,Rolling Stone Q/A Exclusive 2013,calm,0.1078761,0.05,0.45,0.73371834,0.5
+143,Eminem,NOT KEYS TO THE CITY,calm,0.3,0.12460645,0.738576,0.05,0.05
+144,Eminem,Ghost,calm,0.013649387,0.12528245,0.85,0.21283317,0.05
+145,Eminem,One Chance,calm,0.1,0.1,0.42881116,0.36738214,0.11598655
+146,Eminem,I’m A Ghost,calm,0.013649387,0.12528245,0.85,0.21283317,0.05
+147,Eminem,Public Service Announcement 2013,calm,0.28027546,0.15,0.7,0.25795698,0.05
+148,Justin Bieber,Love Yourself,calm,0.05,0.35,0.35,0.05,0.9185189
+149,Justin Bieber,I’ll Show You,calm,0.809828,0.45,0.13806233,0.45,0.05
+150,Justin Bieber,Company,calm,0.005906485,0.25,0.001974623,0.35,0.8566919
+151,Justin Bieber,No Pressure,calm,0.6622885,0.15,0.35,0.1,0.4
+152,Justin Bieber,Habitual,calm,0.2,0.05,0.2,0.45,0.6961593
+153,Justin Bieber,All Around Me,calm,0.003110504,0.2,0.05,0.15,0.99193853
+154,Justin Bieber,Be Alright,calm,0.05,0.15,0.6,0.05,0.9596717
+155,Justin Bieber,Get Used to It,calm,0.05,0.1,0.2,0.1,0.9528841
+156,Justin Bieber,Trust,calm,0.29713428,0.1,0.4,0.45537308,0.3
+157,Justin Bieber,One Life,calm,0.2,0.2,0.05,0.25,0.9846052
+158,Justin Bieber,Available,calm,0.009107342,0.1,0.005060631,0.1,0.87623596
+159,Justin Bieber,Roller Coaster,calm,0.01027206,0.10546769,0.15,0.5,0.83598953
+160,Justin Bieber,Pray,calm,0.58437735,0.25,0.35,0.35479382,0.35
+161,Justin Bieber,Christmas Eve,calm,0.05,0.4,0.25,0.26959333,0.7191243
+162,Justin Bieber,It’s All Gonna Be Okay,calm,0.25,0.25,0.2,0.05,0.9785412
+163,Justin Bieber,Yellow Raincoat,calm,0.55,0.08102951,0.014117725,0.44803014,0.40198672
+164,Justin Bieber,Oxygen,calm,0.05,0.15,0.25,0.4,0.91233873
+165,Justin Bieber,Angels Speak Like This,calm,0.35,0.3,0.15,0.19733894,0.7754428
+166,Justin Bieber,The Intro,calm,0.00509171,0.00062172,0.35,0.98130393,0.1
+167,Justin Bieber,Long Way Home,calm,0.2,0.15,0.3,0.96254945,0.3
+168,Justin Bieber,Bigger,calm,0.017890662,0.05,0.65,0.13601322,0.7976275
+169,Justin Bieber,Christmas Love,calm,0.07311218,0.001805331,0.5,0.8165114,0.25
+170,Justin Bieber,The Christmas Song (Chestnuts Roasting on An Open Fire),calm,0.3,0.05,0.15,0.90163624,0.45
+171,Justin Bieber,Instagram of Batman Vs. Superman Script,calm,0.04935817,0.35,0.8395073,0.2,0.3
+172,Justin Bieber,Celebrities Counting Down To “What Do You Mean?”,calm,0.005716434,0.05,0.55,0.9476776,0.35
+173,Justin Bieber,Patient,calm,0.15,0.45,0.05,0.001760674,0.9915978
+174,Justin Bieber,Just Like Them,calm,0.01281941,0.17841804,0.15,0.003036831,0.85
+175,Justin Bieber,Be Alright (Acoustic),calm,0.24899273,0.25964692,0.6,0.05,0.4349347
+176,Justin Bieber,Justin Bieber’s Tattoos,calm,0.032057736,0.05,0.70746845,0.7,0.2
+177,Justin Bieber,Beauty and a Beat (Acoustic),calm,0.5,0.15,0.05,0.6685482,0.31783563
+178,Justin Bieber,Look At The Stars,calm,0.05,0.15,0.6,0.05,0.9864716
+179,Justin Bieber,Silent Night,calm,0.7110717,0.1,0.11041551,0.16114438,0.25
+180,Justin Bieber,Blend,calm,0.058973953,0.1,0.2,0.915336,0.45
+181,Justin Bieber,Home This Christmas,calm,0.87859327,0.15,0.1,0.25,0.25
+182,Justin Bieber,Turn to You (Mother’s Day Dedication),calm,0.15,0.19297178,0.5,0.15,0.77232254
+183,Justin Bieber,Someday At Christmas,calm,0.05,0.05,0.45,0.9466848,0.05
+184,Justin Bieber,All Around the World (Acoustic),calm,0.1,0.1,0.05,0.8492465,0.55
+185,Justin Bieber,Blowin’ In The Wind*,calm,0.5553263,0.7,0.027655834,0.40277663,0.3
+186,Justin Bieber,Wash Away,calm,0.37171528,0.05,0.4,0.58321553,0.35
+187,Justin Bieber,Never Say Never (Acoustic),calm,0.7347398,0.2,0.55,0.05,0.2
+188,Justin Bieber,What Do You Mean? (Acoustic),calm,0.1,0.2,0.9179011,0.05,0.65
+189,Justin Bieber,Down to Earth (Acoustic),calm,0.2,0.6299397,0.2,0.15,0.19475146
+190,Justin Bieber,Antidepressant,calm,0.20435175,0.25,0.2,0.25,0.64017874
+191,Justin Bieber,Trust Me,calm,0.001764173,0.01009203,0.1,0.1,0.9616356
+192,Justin Bieber,U Smile (Acoustic),calm,0.002198329,0.65,0.000426853,0.002109121,0.9911048
+193,Justin Bieber,For Sure,calm,0.020221151,0.13656482,0.095010996,0.15,0.8
+194,Justin Bieber,Let It Be (Cover),calm,0.066451974,0.5,0.6879377,0.15784821,0.2
+195,Justin Bieber,Set A Place At Your Table,calm,0.30731994,0.2,0.1,0.60030824,0.45
+196,Lady Gaga,Just Another Day,calm,0.014315372,0.001642024,0.15,0.9524161,0.8
+197,Lady Gaga,Red and Blue,calm,0.2,0.1,0.1,0.25,0.9724505
+198,Lady Gaga,Living on the Radio,calm,0.45,0.34941262,0.05,0.3,0.2
+199,Lady Gaga,Sire,calm,0.037131045,0.76469654,0.2,0.4,0.18006939
+200,Lady Gaga,Ribbons,calm,0.020257886,0.001703988,0.5,0.9677862,0.35
+201,Lady Gaga,Changing Skies,calm,0.01976285,0.001279487,0.05,0.9372363,0.9
+202,Lady Gaga,Deep Blue,calm,0.01029106,0.6,0.18123029,0.15,0.66699594
+203,Lady Gaga,Gaze,calm,0.1,0.05,0.7991519,0.25,0.45
+204,Lady Gaga,Imagine,calm,0.6,0.15,0.11677225,0.8079439,0.2
+205,Lady Gaga,Reel Cool,calm,0.005761468,0.000569544,0.3,0.98275006,0.65
+206,Lady Gaga,Feels So Good*,calm,0.2,0.1,0.225306,0.72475916,0.35
+207,Lady Gaga,Chances*,calm,0.21046382,0.05,0.30177686,0.44644928,0.45
+208,Lady Gaga,Chromatica 1 (Concept),calm,0.22522143,0.012588326,0.9,0.5041279,0.002541846
+209,Lady Gaga,Optimist,calm,0.356498,0.0923567,0.30127493,0.25,0.65
+210,Lady Gaga,LG6 SONG,calm,0.05179945,0.4914049,0.4299656,0.05,0.75
+211,Lady Gaga,Crystal Paint,calm,0.055500366,0.85,0.8925729,0.043792125,0.05
+212,Lady Gaga,Fountain Of Truth,calm,0.15,0.15,0.060882386,0.8984678,0.5
+213,Lady Gaga,Weather Girl (Demo),calm,0.05,0.3623242,0.15,0.15,0.62029594
+214,Lady Gaga,ROOM 06,calm,0.42188498,0.6,0.2785051,0.19191252,0.15
+215,Lady Gaga,Prelude to Exodus,calm,0.6586705,0.003883083,0.26360196,0.15,0.7
+216,Lady Gaga,Lady Gaga takes tea with Mr Fry,calm,0.15,0.15,0.06601677,0.9057008,0.5
+217,Lady Gaga,To Be Announced,calm,0.15678357,0.6,0.74927706,0.15,0.15
+218,Lady Gaga,Orlando speech,calm,0.4488158,0.05,0.15,0.41760454,0.5
+219,Lady Gaga,Are you friendly with her?,calm,0.6,0.15,0.8568962,0.009475044,0.2
+220,Maroon 5,Wait,calm,0.1,0.3,0.25,0.35,0.92550725
+221,Maroon 5,Sunday Morning,calm,0.041319385,0.45,0.002496165,0.6196425,0.33557203
+222,Maroon 5,Nobody’s Love,calm,0.2,0.5418396,0.05,0.002093211,0.4318374
+223,Maroon 5,Daylight,calm,0.15,0.003799062,0.55,0.05,0.97448015
+224,Maroon 5,Who I Am,calm,0.05,0.15,0.4,0.3,0.9910795
+225,Maroon 5,Wait (Remix),calm,0.1,0.3,0.25,0.35,0.89969784
+226,Maroon 5,Closure,calm,0.007852669,0.3,0.45,0.15,0.92227304
+227,Maroon 5,Feelings,calm,0.000709883,0.006234638,0.5,0.25,0.9899968
+228,Maroon 5,Denim Jacket,calm,0.2,0.6077719,0.027563112,0.15,0.35562873
+229,Maroon 5,Secret,calm,0.45,0.05,0.1,0.3186958,0.6335734
+230,Maroon 5,Goodnight Goodnight,calm,0.51624274,0.5,0.15,0.1,0.2
+231,Maroon 5,The Sun,calm,0.11417606,0.18291827,0.30550674,0.36691654,0.35
+232,Maroon 5,Leaving California,calm,0.1,0.55,0.028869985,0.1,0.8917454
+233,Maroon 5,How,calm,0.1,0.15,0.011268805,0.2,0.9475594
+234,Maroon 5,Come Away to the Water,calm,0.3,0.5895986,0.045072783,0.4,0.30026886
+235,Maroon 5,The Air That I Breathe (iTunes Exclusive),calm,0.058020633,0.777897,0.25,0.05,0.45
+236,Maroon 5,Wait (Chromeo Remix),calm,0.027088568,0.15,0.2,0.55,0.8916023
+237,Maroon 5,Pure Imagination,calm,0.42916986,0.8,0.18996884,0.34905264,0.05
+238,Maroon 5,The Sun (Alternate Mix),calm,0.11417606,0.18291827,0.30550674,0.45,0.2
+239,Maroon 5,The Sun (Demo),calm,0.11417606,0.2,0.6,0.36691654,0.1
+240,Maroon 5,Memories (Cut Copy Remix),calm,0.1,0.45,0.174043,0.6330979,0.05
+241,Maroon 5,The sun - acoustic,calm,0.07501399,0.05,0.6,0.31520054,0.6063011
+242,Maroon 5,Pure Imagination (2009 Version),calm,0.08045241,0.05,0.45,0.767196,0.5
+243,Nicki Minaj,Sir,calm,0.25,0.1,0.15,0.9412694,0.4
+244,Nicki Minaj,Inspirations Outro,calm,0.002161971,0.000584856,0.777777778,0.9852883,0.055555556
+245,Nicki Minaj,Young Forever,calm,0.005717197,0.25,0.25,0.05,0.8351831
+246,Nicki Minaj,Automatic,calm,0.24104953,0.2,0.63668895,0.3,0.15
+247,Nicki Minaj,Keys Under Palm Trees,calm,0.009293424,0.15,0.55,0.74115795,0.25
+248,Nicki Minaj,25 Things You Don't Know About Me,calm,0.018191544,0.000823557,0.75,0.97524124,0.25
+249,Nicki Minaj,Good Luck,calm,0.004328466,0.05,0.55,0.913836,0.25
+250,Nicki Minaj,Dilly Dally,calm,0.03286955,0.003010197,0.95,0.490315,0.05
+251,Nicki Minaj,Ease Up,calm,0.015003622,0.001270193,0.35727414,0.65,0.2
+252,Nicki Minaj,Nicki Minaj Discography,calm,0.013505275,0.001191348,0.2,0.93714625,0.8
+253,Nicki Minaj,Zonin',calm,0.001991462,0.05,0.75,0.9584644,0.05
+254,Nicki Minaj,Intro,calm,0.046098042,0.10721558,0.11459099,0.85,0.32465756
+255,Nicki Minaj,Nicki Minaj Speaks,calm,0.006607461,0.05,0.8226115,0.16292179,0.65
+256,Nicki Minaj,Nicki Minaj Speaks #2,calm,0.008027365,0.25,0.65,0.90858096,0.1
+257,Nicki Minaj,Nicki Minaj Speaks #3,calm,0.176470588,0.000472289,0.294117647,0.95532733,0.033805188
+258,Nicki Minaj,Outro,calm,0.004460624,0.000520446,0.55,0.9614575,0.45
+259,Nicki Minaj,President Carter Speaks,calm,0.037394624,0.15,0.38783532,0.5638163,0.55
+260,Nicki Minaj,I Just Borrow,calm,0.019215714,0.002238197,0.894736842,0.54400146,0.002395688
+261,Nicki Minaj,Feel Free,calm,0.008090166,0.1875,0.5,0.9820624,0.25
+262,Nicki Minaj,Brief & Beautiful,calm,0.00202676,0.05,0.3,0.006331219,0.98816866
+263,Nicki Minaj,Perfect Day,calm,0.45,0.965353,0.05,0.3,0.2
+264,Nicki Minaj,Queen Radio Archive,calm,0.35,0.1,0.7708344,0.20008539,0.45
+265,Nicki Minaj,Tagliati I Capelli,calm,0.2,0.2,0.38031784,0.5532655,0.45
+266,Nicki Minaj,Nicki Minaj Speaks (Jae Millz),calm,0.004149469,0.00066072,0.67403585,0.3165272,0.2
+267,Nicki Minaj,Finale,calm,0.008342054,0.001515486,0.35,0.8597967,0.45
+268,Post Malone,Go Flex,calm,0.2,0.004398191,0.4684111,0.4751716,0.35
+269,Post Malone,Internet,calm,0.1,0.2,0.35,0.85758567,0.05
+270,Post Malone,Spaceships on Sunsets,calm,0.006260512,0.15,0.15,0.9671,0.05
+271,Post Malone,Stoned,calm,0.011491937,0.5,0.3,0.9723974,0.1
+272,Post Malone,No Reason (Version 2),calm,0.015114156,0.15,0.4,0.912792,0.05
+273,Post Malone,Overtones,calm,0.25,0.25,0.10054374,0.8196124,0.15
+274,Post Malone,Japanese,calm,0.05,0.1,0.3,0.8093762,0.2
+275,Post Malone,Another Cup,calm,0.05,0.25,0.35,0.81656575,0.3
+276,Post Malone,Santa Fe,calm,0.15,0.1,0.5,0.8862604,0.01871156
+277,Post Malone,Honest,calm,0.003278303,0.05,0.7,0.978663,0.25
+278,Post Malone,Whatever,calm,0.023493638,0.001736531,0.5560997,0.41840363,0.65
+279,Post Malone,Guacamole Carpet,calm,0.2,0.051498722,0.6419904,0.22799793,0.7
+280,Post Malone,Stoned (Diplo Remix),calm,0.029953936,0.5,0.3,0.88087976,0.1
+281,Post Malone,In The Air,calm,0.0561888,0.003107213,0.3,0.9154022,0.45
+282,Post Malone,Post Malone's Tattoos,calm,0.038449813,0.5,0.35,0.68387836,0.000593983
+283,Post Malone,Rooftops,calm,0.00515104,0.001665349,0.1,0.6181714,0.65
+284,Post Malone,Untitled Leon Thomas III Collab*,calm,0.1,0.2,0.5418462,0.5,0.05
+285,Selena Gomez,Bad Liar,calm,0.1,0.1,0.1,0.3,0.9370813
+286,Selena Gomez,Let Me Get Me,calm,0.24611029,0.014656106,0.25063837,0.55,0.35
+287,Selena Gomez,She,calm,0.20667733,0.04108709,0.2,0.7095284,0.55
+288,Selena Gomez,Cologne,calm,0.003254301,0.05,0.3,0.35,0.9854671
+289,Selena Gomez,Kill Em With Kindness (Acoustic),calm,0.15132807,0.7,0.783738,0.03476639,0.2
+290,Selena Gomez,Out Of My Head,calm,0.1,0.55,0.001680139,0.35,0.82647383
+291,Selena Gomez,Magical,calm,0.004448393,0.1,0.4,0.15,0.9419912
+292,Selena Gomez,A Year Without Rain (Dave Audio Radio Remix),calm,0.001195174,0.15,0.15,0.55,0.9923267
+293,Selena Gomez,Trust In Me,calm,0.9390146,0.1,0.3,0.35,0.25
+294,Selena Gomez,Great Escape,calm,0.68855125,0.15,0.11117059,0.10470556,0.7
+295,Selena Gomez,Back to You (Anki Remix),calm,0.000945463,0.3,0.4,0.15,0.9806435
+296,Selena Gomez,Hope For Love,calm,0.030782167,0.000738843,0.2,0.96268266,0.55
+297,Selena Gomez,My World,calm,0.15,0.45,0.011559155,0.35,0.65599775
+298,Selena Gomez,Wildest dreams,calm,0.004226417,0.009646417,0.05,0.25,0.9454116
+299,Selena Gomez,De una vez psrsian English,calm,0.015143734,0.53986865,0.4,0.3,0.42455342
+300,Taylor Swift,invisible string,calm,0.45,0.2,0.002995789,0.80339247,0.1
+301,Taylor Swift,Delicate,calm,0.1,0.05,0.15,0.3,0.9837599
+302,Taylor Swift,Call It What You Want,calm,0.1249833,0.1,0.35,0.7312295,0.4
+303,Taylor Swift,seven,calm,0.4,0.4,0.000618859,0.05,0.98835075
+304,Taylor Swift,evermore,calm,0.14651772,0.95,0.22450794,0.621218,0.00096666
+305,Taylor Swift,peace,calm,0.8,0.2,0.12145133,0.22670618,0.473355
+306,Taylor Swift,mirrorball,calm,0.05,0.6,0.004384786,0.8271847,0.2
+307,Taylor Swift,Cornelia Street,calm,0.25,0.94224083,0.15,0.15,0.25
+308,Taylor Swift,Daylight,calm,0.006768571,0.40492672,0.016991861,0.006080515,0.5652323
+309,Taylor Swift,the lakes,calm,0.864494,0.3,0.25,0.038410366,0.15
+310,Taylor Swift,New Year's Day,calm,0.6,0.05,0.003541334,0.3,0.9469544
+311,Taylor Swift,dorothea,calm,0.45,0.35,0.05,0.79136914,0.15
+312,Taylor Swift,Clean,calm,0.101958245,0.0864126,0.009945648,0.79619646,0.2
+313,Taylor Swift,It's Nice to Have a Friend,calm,0.25,0.55,0.001694369,0.9249199,0.004167927
+314,Taylor Swift,Safe & Sound,calm,0.9349323,0.3,0.05,0.05,0.1
+315,Taylor Swift,If You're Anything Like Me [Poem],calm,0.021761933,0.6821856,0.4,0.1,0.4
+316,Taylor Swift,Untouchable,calm,0.35,0.2,0.000713639,0.3,0.9929537
+317,Taylor Swift,Unreleased Songs [Discography List],calm,0.2178998,0.15,0.6,0.64476,0.1
+318,Taylor Swift,A Place In This World,calm,0.12131055,0.4,0.052749783,0.2,0.447701
+319,Taylor Swift,Sweet Tea and God's Graces,calm,0.25,0.1,0.2,0.6780308,0.35
+320,Taylor Swift,Clean Speeches,calm,0.010813949,0.55,0.2,0.8436889,0.2
+321,Taylor Swift,Silent Night,calm,0.3522021,0.001793305,0.21462935,0.42862552,0.002749653
+322,Taylor Swift,White Christmas,calm,0.098039216,0.274509804,0.019607843,0.9704212,0.039215686
+323,Taylor Swift,Never Mind,calm,0.028571429,0.6,0.228571429,0.114285714,0.9335541
+324,Taylor Swift,Delicate Speeches,calm,0.25,0.12779416,0.4910416,0.3120885,0.3
+325,Taylor Swift,30 Things I Learned Before Turning 30,calm,0.011043444,0.25,0.7,0.8531044,0.08253291
+326,Taylor Swift,The Diary of Me,calm,0.84110755,0.05,0.018129736,0.65,0.15
+327,Taylor Swift,Welcome Distraction,calm,0.4376296,0.19182567,0.3,0.115231544,0.5
+328,Taylor Swift,You Don't Have To Call  Me,calm,0.25,0.6463533,0.1,0.004586241,0.3166288
+329,Taylor Swift,The Trick to Holding On [Poem],calm,0.83023155,0.07292298,0.2,0.1,0.65
+330,Taylor Swift,Your Anything,calm,0.15,0.45,0.020080717,0.119543225,0.85163444
+331,Taylor Swift,All Night Diner,calm,0.5830071,0.3,0.5,0.20421818,0.044891108
+332,Taylor Swift,Am I Ready for Love,calm,0.019732594,0.25,0.25,0.4,0.9055704
+333,Taylor Swift,Tell Me,calm,0.002979761,0.1675115,0.05,0.25,0.81116885
+334,Taylor Swift,Folklore [Foreword],calm,0.35,0.2,0.035248816,0.6918276,0.45
+335,Taylor Swift,Monologue Song (La La La),calm,0.19899337,0.037202965,0.25,0.70826334,0.65
+336,Taylor Swift,cardigan (cabin in candlelight version),calm,0.75,0.25,0.009654501,0.36802357,0.55770344
+337,Taylor Swift,The Making Of A Song - Gorgeous',calm,0.003716244,0.1,0.45,0.32092834,0.66485167
+338,Taylor Swift,Writing Songs About You,calm,0.1,0.4,0.2,0.25,0.96253246
+339,Taylor Swift,Just South of Knowing Why,calm,0.22666743,0.5001782,0.05,0.15,0.2
+340,Taylor Swift,Ten Dollars And A Six Pack,calm,0.9,0.004712238,0.006727525,0.11600255,0.86813486
+341,Taylor Swift,Smokey Black Nights,calm,0.02962282,0.15,0.1,0.55,0.8497785
+342,Taylor Swift,Better Off,calm,0.3,0.55,0.05,0.5881831,0.3819196
+343,Taylor Swift,Gracie,calm,0.65,0.012787256,0.25,0.85061634,0.10008411
+344,Taylor Swift,A Place In This World (Live from SoHo),calm,0.024778698,0.05,0.05,0.9,0.07483283
+345,Taylor Swift,My Turn To Be Me,calm,0.05062192,0.2946247,0.027317671,0.4,0.59480375
+346,Taylor Swift,The Future of Music Is a Love Story,calm,0.75503683,0.3,0.0951051,0.3,0.4
+347,Taylor Swift,You Do,calm,0.002451774,0.25,0.1,0.65,0.97939634
+348,Taylor Swift,My Cure,calm,0.017620472,0.6,0.3,0.1,0.8955603
+349,Taylor Swift,Firefly,calm,0.1,0.002463971,0.5,0.1,0.9930264
+350,Taylor Swift,Honey Baby,calm,0.85,0.15,0.000639288,0.01251897,0.98093057
+351,Taylor Swift,Riptide,calm,0.2,0.7,0.05,0.96510726,0.05
+352,Taylor Swift,Breathless,calm,0.05,0.75,0.05,0.1,0.5772396
+353,Taylor Swift,What To Wear,calm,0.1947597,0.25,0.15,0.73788846,0.6
+354,Taylor Swift,Closest To A Cowboy,calm,0.05,0.09896562,0.038345646,0.5678682,0.55
+355,Taylor Swift,Point of View,calm,0.181818182,0.090909091,0.181818182,0.8770174,0.090909091
+356,Taylor Swift,Who I've Always Been,calm,0.11078931,0.25,0.25,0.4802203,0.33739135
+357,Taylor Swift,That's Life,calm,0.5054071,0.1,0.15,0.7,0.11687561
+358,Taylor Swift,I Used To Fly,calm,0.01718132,0.54608023,0.14968115,0.65,0.2818468
+359,Taylor Swift,I Forgot That You Existed (Piano/Vocal),calm,0.45497867,0.2,0.05,0.4723494,0.5
+360,Taylor Swift,Nothin' New,calm,0.4,0.55,0.118047096,0.050348777,0.716611
+361,Taylor Swift,Mandolin,calm,0.35,0.05,0.001966491,0.99150544,0.2
+362,Taylor Swift,I'm Looking Out For You,calm,0.45,0.5,0.009888658,0.005309534,0.8316903
+363,Taylor Swift,Rain Song,calm,0.5,0.35,0.000882587,0.05,0.98031104
+364,Taylor Swift,This Here Guitar,calm,0.060293738,0.25,0.15182105,0.65,0.29911423
+365,Taylor Swift,Clean/Long Live/New Year's Day,calm,0.082697056,0.2,0.35,0.8920514,0.25
+366,Taylor Swift,Cornelia Street (Live from Paris),calm,0.3,0.94224083,0.05,0.5,0.05
+367,Taylor Swift,Daylight (Live from Paris),calm,0.45,0.4073553,0.1,0.05,0.558082
+368,Taylor Swift,the lakes (the long pond studio sessions),calm,0.584499,0.3130066,0.3,0.25,0.002890303
+369,Taylor Swift,mirrorball (the long pond studio sessions),calm,0.15,0.8,0.05,0.8271847,0.12209636
+370,Taylor Swift,invisible string (the long pond studio sessions),calm,0.45,0.2,0.002995789,0.80339247,0.1
+371,Taylor Swift,peace (the long pond studio sessions),calm,0.25,0.75,0.046108544,0.25819638,0.65217036
+372,Taylor Swift,Untouchable (Live from Clear  Channel Stripped 2008),calm,0.6,0.15,0.000943513,0.15,0.9888165
+373,Taylor Swift,Find you,calm,0.7454399,0.25,0.15,0.16537459,0.6
+374,Lady Gaga,"Retro, Dance, Freak",joy,0.016666667,0.316666667,0.55,0.97249484,0.033333333
+375,Post Malone,Git Wit U,joy,0.016438382,0.020833333,0.354166667,0.87725234,0.166666667
+376,Selena Gomez,Praise You,joy,0.016666667,0.216666667,0.066666667,0.433333333,0.9596605
+377,Selena Gomez,Bidi Bidi Bom Bom,joy,0.005380006,0.066666667,0.233333333,0.86571956,0.383333333
+378,Nicki Minaj,Beam Me Up Scotty,joy,0.008443555,0.06831897,0.55,0.48258215,0.1
+379,Selena Gomez,Birthday,joy,0.004797773,0.014172478,0.383333333,0.383333333,0.8627062
+380,Justin Bieber,Love Me,joy,0.016666667,0.008586628,0.1,0.266666667,0.98791677
+381,Eminem,Shake That,joy,0.008975999,0.116666667,0.616666667,0.9630117,0.05
+382,Maroon 5,New Love,joy,0.00203841,0.016666667,0.216666667,0.683333333,0.992949
+383,Selena Gomez,Souvenir,joy,0.070614085,0.148148148,0.074074074,0.537037037,0.5178316
+384,Eminem,2012 Something From Nothing: Art of Rap Freestyle,joy,0.008354347,0.000979337,0.071428571,0.9782613,0.142857143
+385,Justin Bieber,What’s Hatnin’,joy,0.00925581,0.15,0.016666667,0.9748377,0.116666667
+386,Lady Gaga,Orange Colored Sky (Live),joy,0.016841607,0.001321164,0.05,0.9635841,0.55
+387,Lady Gaga,Love Game/Poker Face - Medley - Live at MMVA 09,joy,0.007354508,0.009335725,0.116666667,0.8,0.7805075
+388,Eminem,I Get Money,joy,0.017177658,0.003069842,0.80000824,0.566666667,0.133333333
+389,Eminem,First Word Freestyle,joy,0.058983337,0.004103423,0.57125217,0.953488372,0.000713912
+390,Taylor Swift,Here You Come Again,joy,0.066666667,0.083333333,0.066666667,0.75,0.96874636
+391,Maroon 5,Don’t Wanna Know,joy,0.004753078,0.15,0.116666667,0.616666667,0.8984431
+392,Eminem,Pooh Butt Day,joy,0.166666667,0.007310895,0.15598918,0.833333333,0.000456154
+393,Selena Gomez,Come & Get It (DJ M3 Mixshow Extended Remix),joy,0.9168045,0.003425435,0.083333333,0.383333333,0.533333333
+394,Eminem,The Real Slim Shady,joy,0.037975073,0.31704566,0.6,0.35,0.05
+395,Lady Gaga,HIGH NIGHT,joy,0.055620015,0.033333333,0.666666667,0.37227112,0.1
+396,Taylor Swift,Our Song,joy,0.005719625,0.133333333,0.4,0.183333333,0.90936035
+397,Eminem,Mancow (Freestyle),joy,0.006863224,0.2,0.58836687,0.583333333,0.05
+398,Eminem,Off The Dome Freestyle,joy,0.017372807,0.02,0.68554586,0.86,0.1
+399,Selena Gomez,All Night Long,joy,0.033333333,0.016666667,0.216666667,0.8371865,0.6
+400,Eminem,8 Mile: Sweet Home Alabama Freestyle,joy,0.010443686,0.045790464,0.21645851,0.807017544,0.175438596
+401,Nicki Minaj,Pound the Alarm (music video),joy,0.016666667,0.05,0.15,0.9704836,0.383333333
+402,Eminem,Eminem Freestyle (Hollywood Homicide),joy,0.005661707,0.083333333,0.81391,0.6,0.066666667
+403,Selena Gomez,Congratulations to Me,joy,0.008674406,0.060606061,0.363636364,0.93891853,0.212121212
+404,Nicki Minaj,Woohoo,joy,0.016666667,0.016666667,0.516666667,0.97207075,0.366666667
+405,Lady Gaga,Do What U Want (Steven Redant Barcelona Remix),joy,0.016112506,0.016666667,0.6161359,0.36010742,0.633333333
+406,Justin Bieber,Intentions,joy,0.19100153,0.038454093,0.083333333,0.833333333,0.49300152
+407,Taylor Swift,Happy Voting! 🗳😃🌈,joy,0.26397336,0.233333333,0.183333333,0.54965955,0.15
+408,Nicki Minaj,Easy,joy,0.00384746,0.016666667,0.466666667,0.95816684,0.066666667
+409,Eminem,Crackers And Cheese,joy,0.012431451,0.05,0.7949553,0.18576711,0.033333333
+410,Lady Gaga,Grigio Girls,joy,0.119007014,0.14240849,0.033333333,0.6974851,0.633333333
+411,Eminem,Kurt Loder Car Freestyle,joy,0.058529995,0.016666667,0.37626037,0.933333333,0.000691405
+412,Maroon 5,Lovely Day,joy,0.583333333,0.016666667,0.000952767,0.4,0.986912
+413,Taylor Swift,Speak Now (Live/2011),joy,0.8741681,0.166666667,0.183333333,0.216666667,0.433333333
+414,Maroon 5,Love Somebody,joy,0.016666667,0.033333333,0.066666667,0.45,0.9815715
+415,Eminem,FACK,joy,0.009952446,0.001783116,0.36893374,0.6155176,0.283333333
+416,Eminem,Hip Hop,joy,0.133333333,0.05,0.65,0.9837577,0.000943023
+417,Nicki Minaj,Pound the Alarm,joy,0.016666667,0.05,0.15,0.97771454,0.383333333
+418,Eminem,Without Me (A Cappella),joy,0.019942874,0.033333333,0.018813392,0.9555981,0.1
+419,Taylor Swift,Sugar,joy,0.30872023,0.016666667,0.005679639,0.916666667,0.12609641
+420,Eminem,My Dad’s Gone Crazy,joy,0.09261105,0.033333333,0.38866258,0.7,0.083333333
+421,Taylor Swift,Ours,joy,0.133333333,0.283333333,0.033333333,0.5,0.8753093
+422,Eminem,Just Lose It,joy,0.004828752,0.016666667,0.016666667,0.98812973,0.05
+423,Billie Eilish,​another stupid song*,joy,0.066666667,0.93999106,0.002944877,0.916666667,0.04229293
+424,Justin Bieber,Baby’s In Love,joy,0.015945297,0.004583993,0.220338983,0.491525424,0.8537093
+425,Eminem,Without Me,joy,0.015703216,0.002257263,0.733333333,0.9242254,0.083333333
+426,Selena Gomez,Come & Get It (Dave Audio Club Remix),joy,0.7859584,0.033333333,0.11359123,0.3,0.583333333
+427,Selena Gomez,Same Old Love (Romos Remix),joy,0.09144409,0.7133296,0.166666667,0.433333333,0.233333333
+428,Justin Bieber,Yummy (Country Remix),joy,0.02865653,0.05,0.166666667,0.94746417,0.1
+429,Taylor Swift,Sweeter Than Fiction,joy,0.08938445,0.29672876,0.4,0.25,0.333333333
+430,Billie Eilish,Hostage[aporia remix],joy,0.001137949,0.266666667,0.2,0.383333333,0.9893959
+431,Eminem,DJ Fashion Freestyle,joy,0.020569595,0.083333333,0.25,0.8883906,0.066666667
+432,Eminem,Eminem Music Videos,joy,0.216666667,0.12481181,0.183333333,0.72104996,0.08937557
+433,Lady Gaga,Filthy Pop (Rob Fusari Version),joy,0.001256326,0.000203416,0.6,0.9945819,0.083333333
+434,Eminem,Rhyme Time With Eminem,joy,0.037038565,0.027027027,0.459459459,0.9347105,0.000910175
+435,Nicki Minaj,Pound the Alarm (Nicole Chen mix),joy,0.005492192,0.016666667,0.15,0.9704836,0.016666667
+436,Taylor Swift,Dancing In The Dark / Livin' On A Prayer,joy,0.08380672,0.283333333,0.233333333,0.8238148,0.283333333
+437,Post Malone,Wow. (Remix),joy,0.003128714,0.003216373,0.045550846,0.94574857,0.002355483
+438,Nicki Minaj,Intro (Barbie World),joy,0.230769231,0.000622978,0.076923077,0.9655168,0.076923077
+439,Eminem,Radio Freestyle 2,joy,0.017140444,0.009562668,0.233333333,0.9176424,0.266666667
+440,Lady Gaga,Little Monsters,joy,0.116666667,0.016666667,0.216666667,0.8681811,0.2
+441,Taylor Swift,Fearless (Live From Clear Channel Stripped 2008),joy,0.016666667,0.1,0.002980056,0.866666667,0.7703243
+442,Eminem,Rap City Freestyle (Keeping It Raw),joy,0.016666667,0.083333333,0.9224522,0.666666667,0.016666667
+443,Taylor Swift,Holy Ground,joy,0.05275471,0.05,0.05,0.927951,0.15
+444,Maroon 5,It Was Always You,joy,0.016666667,0.166666667,0.066666667,0.433333333,0.9301984
+445,Taylor Swift,I Forgot That You Existed,joy,0.003137702,0.105263158,0.280701754,0.175438596,0.9406781
+446,Lady Gaga,Just Dance - Live at Cherrytree House Stripped Down Version,joy,0.007034174,0.048780488,0.003456933,0.9850463,0.12195122
+447,Nicki Minaj,NickiWRLDTour (Visual Intro Europe),joy,0.005702061,0.00198758,0.1475701,0.916666667,0.033333333
+448,Taylor Swift,Nashville (Live/2011),joy,0.08127059,0.25370517,0.31734434,0.7,0.03658946
+449,Taylor Swift,Fifteen,joy,0.5798766,0.216666667,0.33972976,0.666666667,0.116666667
+450,Post Malone,Drippin,joy,0.014158379,0.033333333,0.9312464,0.55,0.2
+451,Eminem,1996 Underground Freestyle,joy,0.023255814,0.001429508,0.15833631,0.953488372,0.001282598
+452,Selena Gomez,Slow Down (Chew Fu Refix),joy,0.031098215,0.05,0.166666667,0.8542532,0.5
+453,Maroon 5,Girls Like You (Remix Live),joy,0.033333333,0.033333333,0.283333333,0.5,0.972423
+454,Justin Bieber,One Dance (Remix),joy,0.003098606,0.05,0.133333333,0.666666667,0.9466911
+455,Taylor Swift,happiness,joy,0.25,0.266666667,0.06765734,0.366666667,0.6973176
+456,Taylor Swift,You Need To Calm Down,joy,0.034003135,0.2061704,0.48126546,0.25574735,0.589285714
+457,Selena Gomez,Shake It Up (Theme Song) [Cole Plante Reboot Remix],joy,0.096866734,0.001019381,0.133333333,0.88569885,0.35
+458,Eminem,Real Slim Shady (EDIT),joy,0.037298795,0.3908414,0.50834984,0.272727273,0.272727273
+459,Taylor Swift,You Need To Calm Down (Live from Paris),joy,0.034003135,0.233333333,0.48126546,0.35,0.183333333
+460,Eminem,My Name Is (Radio Edit),joy,0.00106997,0.000818294,0.233333333,0.9866961,0.033333333
+461,Taylor Swift,I'm Only Me When I'm with You,joy,0.008487377,0.116666667,0.55,0.233333333,0.967992
+462,Lady Gaga,Superstar (The Simpsons Song),joy,0.05655888,0.037037037,0.222222222,0.9014538,0.592592593
+463,Eminem,Ass Like That,joy,0.008403542,0.001377725,0.15106341,0.833675,0.005480372
+464,Selena Gomez,Same Old Love (Filous Remix),joy,0.20111117,0.116666667,0.166666667,0.5363237,0.383333333
+465,Nicki Minaj,Pound the alarm - album edit,joy,0.004476849,0.153846154,0.010092098,0.9837372,0.538461538
+466,Eminem,2004 Tim Westwood Freestyle,joy,0.02040223,0.083333333,0.8952268,0.583333333,0.05
+467,Justin Bieber,Still Can’t Get Enough,joy,0.0046076,0.257142857,0.003511559,0.742857143,0.89018345
+468,Taylor Swift,Stay Stay Stay / Ho Hey,joy,0.019446677,0.25475878,0.003822988,0.01076866,0.71120286
+469,Selena Gomez,Slow Down (Paolo Ortelli & Luke Degree Remix),joy,0.028075013,0.083333333,0.016666667,0.66584146,0.383333333
+470,Lady Gaga,Love Me Right,joy,0.053571429,0.196428571,0.089285714,0.267857143,0.82165146
+471,Lady Gaga,Panty Party,joy,0.05,0.000362137,0.016666667,0.98826337,0.016666667
+472,Nicki Minaj,2 Lit 2 Late Interlude,joy,0.018031728,0.2536806,0.160714286,0.5,0.36362782
+473,Selena Gomez,Me & The Rhythm,joy,0.018694771,0.083333333,0.216666667,0.9281106,0.366666667
+474,Selena Gomez,Same Old Love (Wuki Remix),joy,0.17146897,0.27184153,0.166666667,0.433333333,0.24440299
+475,Eminem,We Made You (Digital Single Version),joy,0.05244451,0.05,0.733333333,0.92600083,0.15
+476,Eminem,Wee Wee,joy,0.017857143,0.25,0.642857143,0.959543,0.001811961
+477,Selena Gomez,Come & Get It (Cosmic Dawn Club Remix),joy,0.6493888,0.58490566,0.320754717,0.075471698,0.2957394
+478,Lady Gaga,Million Reasons (Andrelli Remix),joy,0.033333333,0.31107202,0.233333333,0.15,0.66941935
+479,Taylor Swift,London Boy,joy,0.002220902,0.05,0.466666667,0.9843007,0.216666667
+480,Lady Gaga,What's Up (Live),joy,0.4142947,0.166666667,0.3172434,0.18988657,0.216666667
+481,Eminem,Stuff To Never Rhyme (The Don’ts),joy,0.010362948,0.133333333,0.95476747,0.6,0.15
+482,Eminem,Just Rhymin’ with Proof,joy,0.012041989,0.3,0.895607,0.08262255,0.3
+483,Taylor Swift,"Fearless / I'm Yours / Hey, Soul Sister (Live/2011)",joy,0.08012271,0.05,0.3,0.8224865,0.183333333
+484,Eminem,My Name Is (Snippet),joy,0.002389493,0.005222829,0.3,0.91477543,0.066666667
+485,Eminem,Facebook Q&A,joy,0.1,0.016666667,0.1075362,0.8105112,0.183333333
+486,Nicki Minaj,Barbie World (Intro),joy,0.011746407,0.2,0.05,0.964259,0.516666667
+487,Taylor Swift,Thug Story,joy,0.005549489,0.001413086,0.714285714,0.9545806,0.178571429
+488,Justin Bieber,We Were Born For This,joy,0.48264858,0.183333333,0.3342584,0.17486347,0.45
+489,Justin Bieber,Love Yourself (Brynny x Teddy Cream Bootleg),joy,0.00266997,0.09454846,0.283333333,0.083333333,0.89177936
+490,Nicki Minaj,Favorite,joy,0.033333333,0.316666667,0.45,0.8970979,0.07277266
+491,Maroon 5,Don’t Wanna Know (Solo),joy,0.05,0.3529022,0.1,0.466666667,0.6330037
+492,Lady Gaga,Applause (Purity Ring Remix),joy,0.017569888,0.016666667,0.216666667,0.9410978,0.766666667
+493,Eminem,Canibus Impression Freestyle,joy,0.009068284,0.848484848,0.9877779,0.060606061,0.060606061
+494,Lady Gaga,Galera,joy,0.79296553,0.05,0.083333333,0.483333333,0.316666667
+495,Lady Gaga,Just dance - Love Game - Telephone (ACT III),joy,0.066666667,0.05,0.25,0.97629195,0.516666667
+496,Justin Bieber,Fa La La (Acapella),joy,0.073669896,0.25,0.083333333,0.51239824,0.41108993
+497,Eminem,What Time You Sucking It*,joy,0.25,0.000761505,0.683333333,0.7115918,0.028730536
+498,Selena Gomez,Slow Down (DJLW Remix),joy,0.028075013,0.05,0.133333333,0.66584146,0.5
+499,Maroon 5,Everyday People,joy,0.05187406,0.8445342,0.533333333,0.030972596,0.1
+500,Billie Eilish,​bellyache,joy,0.166666667,0.4,0.07839055,0.8602607,0.233333333
+501,Eminem,Eminem Freestyles on Tim Westwood | 2009,joy,0.025018733,0.052631579,0.4845139,0.48870686,0.385964912
+502,Taylor Swift,Delicate (Radio Disney Version),joy,0.166666667,0.1,0.15,0.183333333,0.99376065
+503,Maroon 5,Three Little Birds,joy,0.07384269,0.016666667,0.35,0.8729801,0.483333333
+504,Justin Bieber,Old School Flow,joy,0.03975368,0.066666667,0.616666667,0.8730605,0.166666667
+505,Maroon 5,What Lovers Do (Slushii Remix),joy,0.016666667,0.033333333,0.333333333,0.533333333,0.9436345
+506,Nicki Minaj,Get Silly,joy,0.006069768,0.083333333,0.783333333,0.95346856,0.083333333
+507,Lady Gaga,Wundaland (Demo),joy,0.004625218,0.047619048,0.428571429,0.9868374,0.380952381
+508,Nicki Minaj,Trini Dem Girls,joy,0.017857143,0.053571429,0.5,0.99296546,0.267857143
+509,Post Malone,Iâam Gonna Be,joy,0.010083298,0.002718281,0.105925545,0.8667315,0.014541248
+510,Justin Bieber,Baby,joy,0.07086683,0.26964533,0.616666667,0.052164827,0.60219604
+511,Nicki Minaj,Everywhere We Go,joy,0.008638414,0.001800027,0.142857143,0.90455675,0.119047619
+512,Eminem,Fubba U Cubba Cubba,joy,0.010719642,0.033333333,0.5,0.9370168,0.116666667
+513,Nicki Minaj,Pound the Alarm (Nick Lees mix),joy,0.016666667,0.05,0.15,0.9704836,0.383333333
+514,Eminem,MC Hammer vs. Vanilla Ice,joy,0.0549257,0.2,0.316666667,0.7113498,0.016666667
+515,Billie Eilish,​when the party’s over (Live at Third Man Records),joy,0.683333333,0.2,0.044297304,0.879572,0.05
+516,Eminem,Crack a Bottle,joy,0.07695709,0.05,0.75,0.5901794,0.033333333
+517,Eminem,Just the Two of Us,joy,0.018736243,0.066666667,0.516666667,0.416666667,0.7591103
+518,Lady Gaga,Christmas Tree,joy,0.018518519,0.111111111,0.277777778,0.95725924,0.5
+519,Eminem,Em360 Rapcity Backroom Freestyle,joy,0.07491316,0.016666667,0.17101592,0.916666667,0.033333333
+520,Taylor Swift,gold rush,joy,0.38405502,0.616666667,0.3177786,0.2871813,0.3
+521,Justin Bieber,Been You,joy,0.004217987,0.8208428,0.166666667,0.116666667,0.683333333
+522,Selena Gomez,Slow Down,joy,0.033333333,0.016666667,0.216666667,0.60746324,0.6
+523,Taylor Swift,I Heart ?,joy,0.033333333,0.233333333,0.6,0.02453418,0.7843952
+524,Justin Bieber,Yummy,joy,0.009673198,0.066666667,0.116666667,0.9692452,0.25
+525,Taylor Swift,Sparks Fly,joy,0.016666667,0.166666667,0.25,0.1,0.97827667
+526,Eminem,My Name Is (Original),joy,0.00209665,0.003230593,0.316666667,0.9527838,0.066666667
+527,Eminem,Radio Freestyle 3,joy,0.24954109,0.017537054,0.263157895,0.684210526,0.052631579
+528,Maroon 5,Bet My Heart,joy,0.003520814,0.09209342,0.3,0.216666667,0.8996817
+529,Lady Gaga,The DJ Vice Megamix,joy,0.066666667,0.633333333,0.133333333,0.985898,0.066666667
+530,Lady Gaga,The Cure,joy,0.05,0.15,0.266666667,0.266666667,0.9931126
+531,Selena Gomez,Boyfriend,joy,0.037037037,0.092592593,0.185185185,0.425925926,0.9251646
+532,Justin Bieber,Believe,joy,0.12559418,0.14326967,0.4979581,0.06765019,0.533333333
+533,Taylor Swift,Check Out This View,joy,0.010310889,0.216666667,0.1,0.2,0.96124786
+534,Taylor Swift,I Wish You Would (Voice Memo),joy,0.093023256,0.279069767,0.023255814,0.9506431,0.395348837
+535,Post Malone,White Iverson (Remix),joy,0.216666667,0.133333333,0.25,0.99159825,0.116666667
+536,Post Malone,In Bloom,joy,0.083333333,0.183333333,0.516666667,0.98394334,0.183333333
+537,Lady Gaga,"Eh, Eh (Nothing Else I Can Say) - Piano and Human Beat Box Version",joy,0.055054378,0.1930823,0.116666667,0.32835022,0.766666667
+538,Lady Gaga,Just Dance,joy,0.004470822,0.016666667,0.366666667,0.9875799,0.433333333
+539,Selena Gomez,Higher Or Heaven*,joy,0.075538516,0.316666667,0.233333333,0.3,0.82717294
+540,Taylor Swift,ME! (Live from Paris),joy,0.033333333,0.116666667,0.05,0.35,0.90604943
+541,Maroon 5,Girls Like You (Cray Remix),joy,0.016666667,0.033333333,0.3,0.466666667,0.95605934
+542,Maroon 5,In Your Pocket,joy,0.033333333,0.6848422,0.1,0.383333333,0.28850502
+543,Eminem,Radio Freestyle 1,joy,0.031053904,0.021276596,0.12868412,0.83616376,0.425531915
+544,Eminem,8 Mile: Trailer Freestyle,joy,0.1,0.033333333,0.283333333,0.8012003,0.116666667
+545,Eminem,The Slim Shady Show Freestyle,joy,0.016666667,0.73199,0.516666667,0.416666667,0.036245722
+546,Justin Bieber,Drummer Boy,joy,0.005890726,0.066666667,0.383333333,0.98138475,0.433333333
+547,Justin Bieber,Only Thing I Ever Get for Christmas,joy,0.10410558,0.1,0.233333333,0.3469447,0.5349912
+548,Post Malone,"Takin, Shots",joy,0.033333333,0.066666667,0.75,0.97480017,0.05
+549,Selena Gomez,Slow Down (Smash Mode Remix),joy,0.01307719,0.000527485,0.1,0.8298349,0.7
+550,Nicki Minaj,I Love My Range Rover,joy,0.002160144,0.225,0.4,0.95769703,0.2
+551,Lady Gaga,I Wanna Be With U,joy,0.5315674,0.15,0.116666667,0.43893382,0.533333333
+552,Eminem,The Real Slim Shady (Murda Mixtape Version),joy,0.266666667,0.033333333,0.666666667,0.94557756,0.002304076
+553,Lady Gaga,Do What U Want (Steven Redant Madrid Radio Remix),joy,0.016666667,0.133333333,0.1,0.80582494,0.5
+554,Selena Gomez,Rare (80's Version),joy,0.016666667,0.283333333,0.166666667,0.216666667,0.7527164
+555,Lady Gaga,Summerboy,joy,0.017450815,0.012033666,0.466666667,0.5335073,0.4326899
+556,Eminem,My Mom,joy,0.016666667,0.016666667,0.8,0.9068225,0.066666667
+557,Maroon 5,Hello,joy,0.018192068,0.9204734,0.566666667,0.183333333,0.1
+558,Justin Bieber,Mistletoe,joy,0.005723967,0.233333333,0.416666667,0.86524004,0.266666667
+559,Lady Gaga,Why Did You Do That?,joy,0.066666667,0.05,0.13468935,0.8240225,0.316666667
+560,Selena Gomez,New Classic (Single Version),joy,0.29557532,0.066666667,0.733333333,0.6243013,0.15
+561,Eminem,My Name Is (Original Version),joy,0.001876407,0.002457708,0.55,0.96759105,0.016666667
+562,Justin Bieber,One Time,joy,0.001576716,0.01970952,0.65,0.283333333,0.97637856
+563,Eminem,Role Model (Clean Version),joy,0.006994679,0.016666667,0.7,0.90985835,0.233333333
+564,Nicki Minaj,Starships,joy,0.01424254,0.083333333,0.466666667,0.90901464,0.366666667
+565,Justin Bieber,Pick Me,joy,0.000807835,0.000940428,0.433333333,0.4,0.9860534
+566,Post Malone,Crazy Little Thing Called Love,joy,0.051724138,0.482758621,0.086206897,0.94731545,0.120689655
+567,Nicki Minaj,Freedom,joy,0.05,0.047577783,0.46686354,0.45060572,0.55
+568,Lady Gaga,Smile (One World: Together At Home),joy,0.12244898,0.020408163,0.102040816,0.857358,0.591836735
+569,Eminem,Those Kinda Nights,joy,0.00887337,0.118644068,0.559322034,0.8296233,0.169491525
+570,Maroon 5,Sunday Morning (Demo),joy,0.08459067,0.183333333,0.083333333,0.65,0.5790198
+571,Billie Eilish,​come out and play (live),joy,0.45,0.283333333,0.002675917,0.18565434,0.7296752
+572,Justin Bieber,U Smile,joy,0.066666667,0.116666667,0.266666667,0.1,0.9864558
+573,Lady Gaga,Wonderful,joy,0.116666667,0.14401187,0.216666667,0.116666667,0.82064575
+574,Maroon 5,Goodnight Goodnight (Deerhoof Remix),joy,0.08474074,0.89655167,0.066666667,0.166666667,0.15
+575,Eminem,The Conspiracy Freestyle,joy,0.029331168,0.003811338,0.7643492,0.20193738,0.375
+576,Eminem,Tim Westwood Freestyle,joy,0.01466277,0.052631579,0.122807018,0.9184084,0.385964912
+577,Eminem,Freestyle (Gone Crazy),joy,0.004148293,0.00072837,0.5,0.98647004,0.166666667
+578,Taylor Swift,Umbrella (Live from SoHo),joy,0.001088238,0.387096774,0.000228484,0.516129032,0.9930623
+579,Taylor Swift,One Way Ticket,joy,0.533333333,0.383333333,0.088785715,0.82515174,0.083333333
+580,Nicki Minaj,Super Bass (Edited),joy,0.014014365,0.016666667,0.3268854,0.6564781,0.8
+581,Lady Gaga,The Sound of Music Medley,joy,0.45884332,0.283333333,0.133333333,0.5150746,0.283333333
+582,Eminem,I’m Shady (Snippet),joy,0.017896926,0.083333333,0.833333333,0.9422872,0.000520028
+583,Taylor Swift,Begin Again,joy,0.17141677,0.283333333,0.005821088,0.55,0.4197726
+584,Eminem,We Made You,joy,0.05244451,0.05,0.733333333,0.92600083,0.15
+585,Lady Gaga,Applause - Come To Mama - Edge Of Glory - Born This Way (ACT IV),joy,0.020543518,0.016666667,0.216666667,0.5749631,0.766666667
+586,Eminem,Rap City 2013 Acapella,joy,0.029411765,0.441176471,0.029411765,0.9790779,0.029411765
+587,Lady Gaga,Highway Unicorn (Road to Love),joy,0.033333333,0.003103299,0.066666667,0.9046792,0.783333333
+588,Eminem,Baruch College Session,joy,0.193548387,0.548387097,0.1512451,0.66430026,0.000982533
+589,Taylor Swift,Stay Stay Stay,joy,0.018437695,0.422179,0.066666667,0.333333333,0.54596746
+590,Taylor Swift,ME! (feat. Brendon Urie of Panic! At The Disco) (Live From The Billboard Music Awards),joy,0.14241746,0.166666667,0.333333333,0.5154382,0.3044149
+591,Justin Bieber,What Do You Mean? (Capital Kings Remix),joy,0.05,0.416666667,0.74028033,0.15,0.09431429
+592,Taylor Swift,Sparks Fly (Live/2011),joy,0.033333333,0.012276238,0.583333333,0.133333333,0.97886467
+593,Nicki Minaj,Peppermint,joy,0.005455364,0.000701594,0.1,0.9660664,0.783333333
+594,Selena Gomez,Magic,joy,0.14430627,0.075471698,0.471698113,0.8100228,0.358490566
+595,Taylor Swift,Lucky You,joy,0.033333333,0.15,0.15,0.9486122,0.333333333
+596,Taylor Swift,The Sweet Escape (Live/2011),joy,0.137254902,0.176470588,0.029336166,0.607843137,0.8549496
+597,Taylor Swift,Fearless,joy,0.005664336,0.066666667,0.216666667,0.25,0.7703243
+598,Taylor Swift,I Wished On A Plane,joy,0.033333333,0.1,0.8,0.066666667,0.86155874
+599,Eminem,It’s the real slim shady,joy,0.014705366,0.104102224,0.7855606,0.15,0.666666667
+600,Lady Gaga,Christmas Tree (Demo),joy,0.00295557,0.047619048,0.428571429,0.90748274,0.380952381
+601,Taylor Swift,ME!,joy,0.14241746,0.083333333,0.2,0.5154382,0.383333333
+602,Taylor Swift,Til Brad Pitt Comes Along,joy,0.001834235,0.083333333,0.066666667,0.55,0.9783635
+603,Lady Gaga,Super Lover,joy,0.00646702,0.000456996,0.066666667,0.9841792,0.75
+604,Lady Gaga,Boys Boys Boys,joy,0.000838509,0.000311793,0.55,0.9931386,0.316666667
+605,Taylor Swift,Paper Rings,joy,0.002020974,0.233333333,0.3,0.35,0.99094546
+606,Justin Bieber,It’s Working,joy,0.1,0.89318913,0.066666667,0.1,0.316666667
+607,Justin Bieber,Peaches*,joy,0.016744647,0.4,0.33596754,0.6435693,0.15
+608,Taylor Swift,You Need To Calm Down (Clean Bandit Remix),joy,0.034003135,0.2061704,0.48126546,0.383333333,0.216666667
+609,Taylor Swift,Santa Baby,joy,0.010705014,0.2,0.15,0.97805756,0.35
+610,Billie Eilish,​bitches broken hearts,joy,0.389830508,0.9086446,0.016949153,0.033898305,0.203389831
+611,Taylor Swift,Permanent Marker,joy,0.016666667,0.59922314,0.25,0.15,0.36597294
+612,Lady Gaga,LoveGame - Robots To Mars Remix,joy,0.017580854,0.005262818,0.65,0.5517985,0.42315215
+613,Lady Gaga,New York Girls,joy,0.233333333,0.466666667,0.09161899,0.5426882,0.266666667
+614,Selena Gomez,Everything Is Not As It Seems,joy,0.111235134,0.0967149,0.6269514,0.576271186,0.186440678
+615,Taylor Swift,long story short,joy,0.2527087,0.52113897,0.5,0.16781479,0.033333333
+616,Lady Gaga,Again Again,joy,0.233333333,0.466666667,0.033333333,0.00364574,0.9840546
+617,Selena Gomez,Stars Dance,joy,0.002190996,0.000385136,0.083333333,0.75,0.97891927
+618,Lady Gaga,Hey Girl,joy,0.05,0.083333333,0.4,0.15,0.86546475
+619,Eminem,Eminem Freestyle On The Farmclub,joy,0.005062632,0.083333333,0.25,0.9529084,0.066666667
+620,Post Malone,Congratulations (Remix),joy,0.016666667,0.15,0.516666667,0.97033083,0.166666667
+621,Eminem,So Many Styles,joy,0.006451717,0.040816327,0.836734694,0.9657137,0.081632653
+622,Maroon 5,What Lovers Do,joy,0.016666667,0.05,0.533333333,0.233333333,0.9436345
+623,Eminem,Food Stamp (Phone Tap Freestyle),joy,0.010320924,0.001721535,0.13130413,0.8556894,0.333333333
+624,Lady Gaga,Sophie Produced Song,joy,0.47831467,0.092934154,0.339622642,0.08411627,0.58490566
+625,Taylor Swift,Welcome to New York,joy,0.08349359,0.066666667,0.266666667,0.9036351,0.55
+626,Selena Gomez,Save the Day,joy,0.011409833,0.05,0.233333333,0.4,0.94966227
+627,Lady Gaga,Putash,joy,0.016666667,0.004821712,0.1,0.9298664,0.766666667
+628,Taylor Swift,How You Get the Girl,joy,0.033333333,0.083333333,0.383333333,0.1,0.8588458
+629,Taylor Swift,The Best Day,joy,0.016666667,0.35,0.033333333,0.4,0.5991188
+630,Taylor Swift,Playlist by ME!,joy,0.08612917,0.083333333,0.2,0.8225976,0.383333333
+631,Nicki Minaj,Pound the Alarm (Liam Keegan mix),joy,0.005492192,0.000469196,0.516666667,0.9704836,0.283333333
+632,Taylor Swift,Sunshine,joy,0.27493927,0.137931034,0.11270359,0.482758621,0.28798455
+633,Eminem,1998 Wake Up Show Freestyle,joy,0.057902798,0.005293201,0.333333333,0.87209105,0.133333333
+634,Justin Bieber,Got Me One*,joy,0.07841661,0.002886708,0.57403904,0.566666667,0.25
+635,Justin Bieber,Intentions (Acoustic),joy,0.19644523,0.240740741,0.018518519,0.15266594,0.62057054
+636,Justin Bieber,Can’t Wait,joy,0.011247982,0.016666667,0.216666667,0.333333333,0.96415806
+637,Eminem,Take The World With Me,joy,0.02967656,0.033333333,0.8,0.7133045,0.166666667
+638,Maroon 5,Little of Your Time (Bloodshy & Avant Remix),joy,0.015012906,0.67653245,0.716666667,0.083333333,0.29749024
+639,Lady Gaga,Do What U Want (Steven Redant Madrid Club Remix),joy,0.016666667,0.133333333,0.10991041,0.8384109,0.5
+640,Lady Gaga,Dancin' in Circles,joy,0.21199284,0.016666667,0.583333333,0.7567678,0.15
+641,Justin Bieber,Infectious,joy,0.094339623,0.169811321,0.70056206,0.264150943,0.132075472
+642,Lady Gaga,Replay,joy,0.233333333,0.8096457,0.12231424,0.007838809,0.266666667
+643,Nicki Minaj,Fly (Super Clean Edit),joy,0.028273694,0.083333333,0.85632426,0.216666667,0.65
+644,Lady Gaga,"Go, Go, Go (Demo)",joy,0.016666667,0.133333333,0.633333333,0.942016,0.116666667
+645,Taylor Swift,Shake It Off,joy,0.073563986,0.014827983,0.7,0.7292324,0.233333333
+646,Justin Bieber,Up,joy,0.05,0.002946808,0.15,0.116666667,0.8543563
+647,Eminem,Beautiful,joy,0.02763129,0.883333333,0.083333333,0.029308222,0.30162045
+648,Lady Gaga,Boys Boys Boys (Manhattan Clique),joy,0.000639409,0.116666667,0.416666667,0.98748326,0.133333333
+649,Nicki Minaj,Va Va Voom,joy,0.016666667,0.35,0.233333333,0.770026,0.333333333
+650,Maroon 5,Don’t Wanna Know (Fareoh Remix),joy,0.005104817,0.6007449,0.283333333,0.266666667,0.38931146
+651,Lady Gaga,"Eh, Eh (Nothing Else I Can Say)",joy,0.025802374,0.3487729,0.333333333,0.416666667,0.57651585
+652,Eminem,Step Right Up,joy,0.066666667,0.15,0.65,0.93919194,0.116666667
+653,Nicki Minaj,It's My Party,joy,0.05,0.1,0.283333333,0.93914306,0.4
+654,Justin Bieber,Beauty and a Beat,joy,0.604166667,0.125,0.020833333,0.9001176,0.25
+655,Maroon 5,Sugar (Remix),joy,0.033333333,0.183333333,0.283333333,0.93844604,0.216666667
+656,Post Malone,Magic,joy,0.033333333,0.233333333,0.166666667,0.9768952,0.15
+657,Eminem,Drop It Like It’s Hot Freestyle,joy,0.009422855,0.016666667,0.433333333,0.94678587,0.05
+658,Eminem,My Name Is,joy,0.00209665,0.003230593,0.4,0.9527838,0.05
+659,Justin Bieber,Hotline Bling (Remix),joy,0.033898305,0.09238345,0.237288136,0.288135593,0.8994062
+660,Eminem,Any Word Freestyle,joy,0.006326393,0.043478261,0.130434783,0.9331386,0.001708996
+661,Eminem,XL Show Freestyle,joy,0.023255814,0.00099278,0.17773515,0.953488372,0.002443298
+662,Lady Gaga,Rain On Me (Demo Solo),joy,0.025779847,0.03366935,0.23233573,0.704396,0.066666667
+663,Selena Gomez,Everything Is Not What It Seems (Wizards of Waverly Place Full Theme Song),joy,0.06717374,0.46113566,0.38344035,0.576271186,0.186440678
+664,Eminem,My Fault (Pizza Mix),joy,0.05,0.52374035,0.166666667,0.616666667,0.166666667
+665,Eminem,Shade 45 Freestyle,joy,0.022832405,0.783333333,0.05854106,0.9154514,0.083333333
+666,Taylor Swift,American Girl,joy,0.13200626,0.4446177,0.27718776,0.233333333,0.466666667
+667,Justin Bieber,Beauty And A Beat  (Wideboys Club Mix),joy,0.013450222,0.166666667,0.316666667,0.8678205,0.4
+668,Eminem,Freestyle (Light Speed),joy,0.04628203,0.016666667,0.816666667,0.24958627,0.000404139
+669,Lady Gaga,"Eh, Eh (Nothing Else I Can Say) (Pet Shop Boys Radio Mix)",joy,0.011209035,0.25862069,0.293103448,0.87656116,0.100649774
+670,Lady Gaga,Starstruck,joy,0.004121801,0.00031581,0.056603774,0.988648,0.830188679
+671,Nicki Minaj,Pound the alarm - album version (edited),joy,0.004476849,0.1,0.466666667,0.9837372,0.116666667
+672,Eminem,The Half-Time Show Freestyle,joy,0.05214451,0.001453625,0.6468299,0.2991816,0.616666667
+673,Selena Gomez,Music Feels Better,joy,0.033333333,0.016666667,0.266666667,0.266666667,0.99358517
+674,Post Malone,Feel (Demo),joy,0.45300817,0.35,0.22032148,0.2951407,0.35
+675,Nicki Minaj,Wheel of Freestyle,joy,0.007145838,0.016666667,0.06712049,0.9231498,0.866666667
+676,Post Malone,Easier,joy,0.043967456,0.15,0.183333333,0.89458513,0.166666667
+677,Taylor Swift,Everything Has Changed,joy,0.083333333,0.2,0.016666667,0.133333333,0.96342975
+678,Selena Gomez,Shake It Up,joy,0.09854397,0.033333333,0.25,0.8656573,0.3
+679,Justin Bieber,Meet Me At The Club*,joy,0.005413556,0.066666667,0.35,0.8737323,0.416666667
+680,Eminem,"1997 Freestyle Live at Wetlands, NYC",joy,0.016666667,0.083333333,0.10921258,0.87564296,0.133333333
+681,Eminem,Rap City Freestyle,joy,0.210526316,0.122807018,0.43017584,0.43250164,0.157894737
+682,Eminem,C’mon Everybody,joy,0.083333333,0.216666667,0.079587124,0.910408,0.183333333
+683,Lady Gaga,Dirty Ice Cream,joy,0.19827898,0.16275387,0.307692308,0.365384615,0.5350958
+684,Justin Bieber,California Cruisin’,joy,0.05,0.2,0.5,0.9698174,0.25
+685,Lady Gaga,So Happy I Could Die,joy,0.03841225,0.2,0.066666667,0.683333333,0.5275097
+686,Nicki Minaj,Pound the Alarm (Jelfa mix),joy,0.005492192,0.000469196,0.02202231,0.9704836,0.001532675
+687,Eminem,Starting To Look Like An M&M!,joy,0.010068871,0.001053392,0.6,0.8258596,0.066666667
+688,Nicki Minaj,I Get Crazy,joy,0.007381124,0.083333333,0.783333333,0.72942626,0.083333333
+689,Lady Gaga,Oh Baby (Demo),joy,0.15,0.116666667,0.483333333,0.85655797,0.166666667
+690,Maroon 5,This Summer,joy,0.016666667,0.116666667,0.266666667,0.76517475,0.45
+691,Justin Bieber,Rockin’ Around The Christmas Tree,joy,0.017039448,0.431818182,0.090909091,0.97585547,0.136363636
+692,Lady Gaga,Just Dance (Trevor Simpson Edit),joy,0.001971535,0.083333333,0.316666667,0.99115115,0.45
+693,Post Malone,SoFlo Like Antonio,joy,0.683333333,0.15,0.2922765,0.54571253,0.057228863
+694,Justin Bieber,Turn Up,joy,0.019607843,0.000667255,0.156862745,0.97071606,0.509803922
+695,Eminem,Rap City,joy,0.0058483,0.157894737,0.210526316,0.77555716,0.035087719
+696,Justin Bieber,Somebody to Love (J-Stax Remix),joy,0.004570982,0.002161765,0.4,0.022222222,0.98219705
+697,Maroon 5,Crazy Little Thing Called Love (Acoustic Version),joy,0.056298044,0.7,0.05,0.91987884,0.05
+698,Maroon 5,Moves Like Jagger (Remix),joy,0.012533527,0.2,0.8,0.95343226,0.0023391
+699,Eminem,PhatBeats Prank Call,joy,0.16144414,0.055555556,0.7665812,0.833333333,0.055555556
+700,Selena Gomez,Bang A Drum,joy,0.007080836,0.033333333,0.866666667,0.9791022,0.066666667
+701,Selena Gomez,Lover In Me,joy,0.05,0.9,0.016666667,0.000628249,0.99105763
+702,Eminem,Freestyle (The Watcher),joy,0.016941853,0.166666667,0.5819335,0.433333333,0.2
+703,Eminem,Rap City Freestyle (I’m a Big Deal),joy,0.008141018,0.157894737,0.210526316,0.9631648,0.035087719
+704,Maroon 5,Don’t Wanna Know (Extended Version),joy,0.01896901,0.933333333,0.033333333,0.007577875,0.70327866
+705,Taylor Swift,Live For The Little Things,joy,0.78094834,0.033333333,0.183333333,0.316666667,0.466666667
+706,Maroon 5,Lucky Strike,joy,0.019207627,0.183333333,0.433333333,0.63104165,0.333333333
+707,Justin Bieber,Santa Claus Is Coming to Town,joy,0.061990105,0.016666667,0.433333333,0.89600515,0.3
+708,Lady Gaga,Lush Life,joy,0.466666667,0.7447239,0.015958099,0.1064013,0.2
+709,Selena Gomez,Forget Forever,joy,0.016666667,0.9759443,0.004023642,0.066666667,0.016666667
+710,Selena Gomez,Dance Again,joy,0.6883663,0.142857143,0.160714286,0.22808239,0.607142857
+711,Nicki Minaj,Pound the Alarm (Kitz Looper mix),joy,0.005492192,0.016666667,0.316666667,0.9704836,0.55
+712,Lady Gaga,White Christmas (Live),joy,0.1,0.433333333,0.183333333,0.96402276,0.233333333
+713,Lady Gaga,Stupid Love,joy,0.05156132,0.7898,0.533333333,0.116666667,0.183333333
+714,Maroon 5,Don’t Wanna Know (Total Ape Remix),joy,0.016666667,0.2,0.166666667,0.416666667,0.8984431
+715,Taylor Swift,Welcome Back Grunwald,joy,0.006402693,0.183333333,0.266666667,0.9855408,0.483333333
+716,Selena Gomez,I Believe I Can Fly (Cover),joy,0.29342082,0.416666667,0.257421,0.3588766,0.15
+717,Lady Gaga,Do What U Want (Red Ant & Amp Lexvas Deep House Remix),joy,0.007707092,0.000794346,0.9244459,0.316666667,0.416666667
+718,Maroon 5,Sugar,joy,0.033333333,0.522225,0.166666667,0.4,0.45343655
+719,Selena Gomez,Come & Get It (Fred Falke Club Remix),joy,0.68663806,0.316666667,0.05,0.383333333,0.22048374
+720,Justin Bieber,What Do You Mean? [Angelika Vee Cover] - Justin Caruso Remix,joy,0.06030704,0.516666667,0.8372628,0.066666667,0.1
+721,Lady Gaga,Musicland,joy,0.2,0.65,0.033333333,0.968573,0.066666667
+722,Eminem,My Salsa,joy,0.083333333,0.033333333,0.066666667,0.97464097,0.8
+723,Taylor Swift,Starlight,joy,0.15283927,0.15,0.116666667,0.82498586,0.533333333
+724,Lady Gaga,Do Me Right,joy,0.071428571,0.178571429,0.089285714,0.8808248,0.339285714
+725,Eminem,8 Mile: Cheddar Bob Freestyle,joy,0.1,0.033333333,0.59616923,0.466666667,0.116666667
+726,Justin Bieber,What Do You Mean (90's Remix),joy,0.05,0.5,0.8696594,0.266666667,0.033333333
+727,Lady Gaga,Retro Physical,joy,0.017896844,0.133333333,0.7,0.95843345,0.133333333
+728,Selena Gomez,Slow Down (Danny Verde Remix),joy,0.26033032,0.000641612,0.233333333,0.70084983,0.65
+729,Maroon 5,Be Nice,joy,0.11043039,0.283333333,0.7081401,0.2,0.366666667
+730,Nicki Minaj,Starships [Edited Version] [Edit] by Nicki Minaj,joy,0.009003357,0.000489547,0.333333333,0.96527374,0.533333333
+731,Taylor Swift,Christmas Must Be Something More,joy,0.6440362,0.2,0.366666667,0.316666667,0.116666667
+732,Taylor Swift,Christmas Tree Farm (Recorded Live at the 2019 iHeartRadio Jingle Ball),joy,0.15988447,0.583333333,0.05,0.7710267,0.166666667
+733,Taylor Swift,ME! (Billboard Music Awards Live Rehearsal Audio),joy,0.14241746,0.166666667,0.333333333,0.5154382,0.3044149
+734,Nicki Minaj,Mi Casa,joy,0.002440011,0.216666667,0.9252203,0.116666667,0.433333333
+735,Maroon 5,Give a Little More,joy,0.010453059,0.94632554,0.283333333,0.583333333,0.133333333
+736,Nicki Minaj,Super Bass,joy,0.007487456,0.133333333,0.683333333,0.6123924,0.15
+737,Lady Gaga,Disco Heaven,joy,0.009923452,0.15,0.55,0.9815611,0.266666667
+738,Maroon 5,Little of Your Time,joy,0.02622995,0.43156442,0.555555556,0.266666667,0.52518654
+739,Justin Bieber,Happy New Year,joy,0.005872548,0.2,0.45,0.98417467,0.2
+740,Nicki Minaj,Lollipop (Remix),joy,0.002052368,0.1,0.216666667,0.9865268,0.366666667
+741,Lady Gaga,Applause,joy,0.02215356,0.016666667,0.216666667,0.20583199,0.766666667
+742,Justin Bieber,Fa La La,joy,0.06467181,0.001069443,0.283333333,0.5843544,0.4
+743,Justin Bieber,Somebody to Love,joy,0.029509198,0.001420074,0.016666667,0.08188817,0.983333333
+744,Post Malone,Congratulations,joy,0.028040688,0.15,0.516666667,0.95415974,0.166666667
+745,Nicki Minaj,Barbie Girl,joy,0.008262325,0.2,0.05,0.9678218,0.516666667
+746,Eminem,Berzerk Explained,joy,0.033333333,0.033333333,0.533333333,0.9651316,0.216666667
+747,Nicki Minaj,Sunshine (2007),joy,0.002111251,0.000732235,0.921568627,0.9876286,0.078431373
+748,Ariana Grande,My Everything,power,0.035714286,0.8858203,0.875,0.000887779,0.103104375
+749,Lady Gaga,Tokyo,power,0.033333333,0.001830738,0.4,0.066666667,0.994009
+750,Eminem,Rap Game (Bump Heads),power,0.021218697,0.006287712,0.333333333,0.75135666,0.633333333
+751,Taylor Swift,...Ready for It? (BloodPop® Remix),power,0.028115328,0.1,0.45,0.64312977,0.316666667
+752,Lady Gaga,I Like It Rough,power,0.030764822,0.05,0.65,0.233333333,0.75470644
+753,Eminem,Jimmy Crack Corn,power,0.005321432,0.009110577,0.866666667,0.13498254,0.005535974
+754,Ariana Grande,"Thank u, next (Jennifer Coolidge and Ariana Grande conversation)",power,0.001528987,0.116666667,0.616666667,0.9108238,0.2
+755,Nicki Minaj,Gettin Cake,power,0.006169552,0.001147465,0.409090909,0.9435612,0.409090909
+756,Ariana Grande,Why Try,power,0.020678949,0.1,0.4,0.3,0.30713537
+757,Taylor Swift,Getaway Car,power,0.01367784,0.923611,0.533333333,0.233333333,0.216666667
+758,Eminem,Hell Breaks Loose,power,0.02,0.000745271,0.92,0.3614193,0.06
+759,Selena Gomez,Same Old Love,power,0.11320278,0.316666667,0.233333333,0.54915017,0.15
+760,Taylor Swift,R.E.V.E.N.G.E.,power,0.22205864,0.41201276,0.716666667,0.23754546,0.11072292
+761,Justin Bieber,Break It Down,power,0.17636111,0.166666667,0.416666667,0.66506624,0.35
+762,Eminem,Godzilla,power,0.034419216,0.066666667,0.7,0.39877093,0.016666667
+763,Taylor Swift,Don't Blame Me,power,0.094157875,0.3953912,0.44497168,0.216666667,0.183333333
+764,Lady Gaga,Fashion!,power,0.012618345,0.035714286,0.464285714,0.972329,0.428571429
+765,Maroon 5,Wake Up Call (David Banner Remix),power,0.004650967,0.10898244,0.733333333,0.05,0.82768553
+766,Ariana Grande,Be Alright (Demo),power,0.08899735,0.05,0.616666667,0.4357764,0.1
+767,Lady Gaga,Out of Control,power,0.033333333,0.072666265,0.466666667,0.116666667,0.9045779
+768,"League of Legends, Against The Current",Legends Never Die,power,0.21772623,0.083333333,0.72339123,0.1,0.1
+769,Nicki Minaj,Naked,power,0.008039494,0.25379413,0.196428571,0.089285714,0.7348602
+770,Avicii,Hey Brother,power,0.73876804,0.383333333,0.416666667,0.133333333,0.08051858
+771,Eminem,Berzerk,power,0.054860253,0.066666667,0.8,0.44194505,0.05
+772,Taylor Swift,Only The Young,power,0.018565888,0.038461538,0.915541,0.06280474,0.884615385
+773,Lady Gaga,The Fame (Glam As You Remix) [Radio Edit Version],power,0.09183163,0.01919488,0.516666667,0.65445846,0.333333333
+774,Taylor Swift,Look What You Made Me Do,power,0.021565266,0.083333333,0.67498684,0.16636723,0.45
+775,BeyoncÃ©,Check on It (Homecoming Live),power,0.010908798,0.033333333,0.5,0.89922786,0.4
+776,Lady Gaga,Sinner's Prayer,power,0.036829636,0.3,0.433333333,0.7290189,0.233333333
+777,Eminem,Cinderella Man,power,0.006996617,0.001932931,0.983333333,0.8440313,0.016666667
+778,"League of Legends, PVRIS",Burn It All Down,power,0.066666667,0.001006818,0.5619295,0.4173325,0.616666667
+779,Lady Gaga,The Fierce Mama-Gaga,power,0.007449622,0.05,0.733333333,0.97688895,0.05
+780,Selena Gomez,Cruella De Vil,power,0.031144345,0.016666667,0.86924547,0.2,0.35
+781,Cardi B,Sick 16 (Freestyle),power,0.004881516,0.222222222,0.7821509,0.20807408,0.222222222
+782,Selena Gomez,Good For You (Nebbra Remix),power,0.58994573,0.166666667,0.466666667,0.30338386,0.133333333
+783,Taylor Swift,Cruel Summer,power,0.13897616,0.389830508,0.423728814,0.29389054,0.5380791
+784,Lady Gaga,LoveGame,power,0.013564611,0.00440039,0.65,0.7482062,0.3
+785,Lady Gaga,Marry the Night,power,0.32032475,0.033333333,0.666666667,0.31203878,0.116666667
+786,Billie Eilish,​ocean eyes (Cautious Clay Remix),power,0.047473717,0.6810869,0.816666667,0.066666667,0.2376412
+787,Eminem,Discombobulated,power,0.03290334,0.15,0.833333333,0.6448586,0.016666667
+788,Maroon 5,Memories (Dillon Francis Remix),power,0.017232388,0.203703704,0.203703704,0.222222222,0.53979456
+789,Nicki Minaj,Warning - 97663,power,0.004405073,0.041962333,0.65017736,0.566666667,0.283333333
+790,Taylor Swift,1989 World Tour Dates,power,0.010813949,0.066666667,0.516666667,0.8436889,0.35
+791,Nicki Minaj,Good Form,power,0.056311406,0.001189433,0.85,0.20132083,0.15
+792,Billie Eilish,Six Feet Under (Aire Atlantica Remix),power,0.003607306,0.083333333,0.566666667,0.2,0.95295763
+793,Eminem,3 Verses,power,0.016666667,0.1,0.683333333,0.50567454,0.083333333
+794,Nicki Minaj,Chun-Li,power,0.05,0.066666667,0.733333333,0.4407682,0.1
+795,Nicki Minaj,Roman's Revenge 2.0,power,0.01051103,0.05,0.883333333,0.80407,0.016666667
+796,Eminem,Slim Shady,power,0.003465241,0.000595965,0.95013416,0.35,0.05
+797,Taylor Swift,Long Time Coming,power,0.083333333,0.41234285,0.166666667,0.233333333,0.52126557
+798,"David Guetta, Sia",Titanium (feat. Sia),power,0.018757947,0.083333333,0.9598889,0.1,0.266666667
+799,Lady Gaga,Bad Romance (Skrillex Remix),power,0.004527419,0.1,0.5,0.2,0.8998843
+800,Billie Eilish,NOT MY RESPONSIBILITY,power,0.025814494,0.3463752,0.916666667,0.066666667,0.46803698
+801,Cardi B,Lick (Remix),power,0.016666667,0.002715606,0.85,0.514962,0.133333333
+802,Lady Gaga,The Fame,power,0.20696825,0.095618494,0.733333333,0.3585978,0.166666667
+803,Eminem,Crack A Bottle (Shady Remix),power,0.04787436,0.05,0.75,0.8645063,0.033333333
+804,BeyoncÃ©,Top Off (Homecoming Live),power,0.014012703,0.001080253,0.433333333,0.94674057,0.416666667
+805,Eminem,Drop the Bomb on ’Em,power,0.009018041,0.002232359,0.9,0.32507572,0.033333333
+806,Eminem,Rhyme or Reason,power,0.009987997,0.216666667,0.683333333,0.92655545,0.066666667
+807,Nicki Minaj,Want Some More (Remix),power,0.016666667,0.05,0.216666667,0.94821966,0.7
+808,Maroon 5,Best 4 U,power,0.007273973,0.70808357,0.7,0.15,0.28002104
+809,Sia,Unstoppable,power,0.28991768,0.016666667,0.61527747,0.25,0.3
+810,Lady Gaga,Bad Romance (Grum Remix),power,0.00166285,0.059677135,0.233333333,0.083333333,0.9341736
+811,Justin Bieber,Ride,power,0.133333333,0.066666667,0.55,0.15,0.98870426
+812,Eminem,Hate Me Now Freestyle,power,0.016666667,0.016666667,0.99114907,0.003943257,0.533333333
+813,Selena Gomez,Do It,power,0.025335606,0.054545455,0.290909091,0.52654463,0.654545455
+814,Nicki Minaj,Roman's Revenge (Busta Rhymes Remix),power,0.07996473,0.05,0.883333333,0.8214566,0.016666667
+815,Post Malone,Thatâ It,power,0.066666667,0.016666667,0.8,0.9630432,0.1
+816,Sam Tinnesz,Legends Are Made,power,0.09910745,0.107142857,0.7325585,0.16581513,0.035714286
+817,Nicki Minaj,I'm Legit,power,0.006714594,0.032542676,0.783783784,0.81987196,0.135135135
+818,Taylor Swift,"Sugar, We're Going Down",power,0.02890587,0.166666667,0.683333333,0.066666667,0.81652683
+819,Eminem,Verse 3,power,0.033333333,0.004096074,0.7173684,0.24717264,0.2
+820,Ariana Grande,Be Alright [Justin Bieber Cover],power,0.033333333,0.166666667,0.45,0.083333333,0.92562735
+821,Lady Gaga,The Edge of Glory - Foster The People Remix,power,0.016666667,0.018533722,0.1,0.116666667,0.9556739
+822,BeyoncÃ©,Single Ladies (Put a Ring on It) [Live],power,0.009347967,0.11511169,0.35,0.46627644,0.633333333
+823,Justin Bieber,Running Over (Original Version),power,0.041129973,0.007869614,0.745762712,0.90486586,0.13559322
+824,Lady Gaga,Bad Romance (DJ Dan Remix),power,0.002142352,0.066666667,0.533333333,0.033333333,0.97599095
+825,Ariana Grande,Santa Tell Me,power,0.05257741,0.066666667,0.333333333,0.7975537,0.266666667
+826,Eminem,WJLB 1998 Promo,power,0.015451415,0.031072881,0.966666667,0.6140508,0.053734176
+827,Ariana Grande,​started*,power,0.007556681,0.035087719,0.210526316,0.92547905,0.736842105
+828,"Flo Rida, Sage The Gemini, Lookas",GDFR (feat. Sage the Gemini & Lookas),power,0.033333333,0.016666667,0.716666667,0.95389205,0.15
+829,Eminem,The Equalizer : Soundtrack,power,0.01975181,0.15,0.8,0.92658496,0.033333333
+830,Lady Gaga,Heal Me,power,0.15627274,0.5176475,0.283333333,0.216666667,0.266666667
+831,Eminem,Evil Twin,power,0.4967491,0.08210355,0.883333333,0.30419433,0.05
+832,Lady Gaga,Hair,power,0.05619963,0.133333333,0.733333333,0.7578598,0.066666667
+833,Nicki Minaj,Barbie Dreams,power,0.006299391,0.2,0.26004755,0.731842,0.516666667
+834,Eminem,G.O.A.T.,power,0.008458895,0.083333333,0.9,0.9413345,0.016666667
+835,BeyoncÃ©,New Shoes,power,0.12,0.14,0.54,0.9542876,0.2
+836,Eminem,"Murder, Murder",power,0.039139558,0.016666667,0.85,0.27294394,0.083333333
+837,Taylor Swift,Better Than Revenge (Live/2011),power,0.019460693,0.44369742,0.95,0.048189156,0.40224093
+838,Lady Gaga,Trigger (Demo),power,0.029411765,0.176470588,0.47723624,0.48288396,0.323529412
+839,Nicki Minaj,Gettin' Paid,power,0.027136274,0.016666667,0.766666667,0.66363364,0.216666667
+840,Nicki Minaj,Tempo,power,0.007028615,0.05,0.85,0.25275823,0.72603846
+841,Eminem,Gnat,power,0.02739208,0.016666667,0.933333333,0.25646216,0.000381625
+842,BeyoncÃ©,Halo (Hope for Haiti Now),power,0.183333333,0.033333333,0.766666667,0.02542877,0.9595935
+843,Post Malone,Ball For Me,power,0.016666667,0.066666667,0.666666667,0.98612183,0.133333333
+844,Post Malone,Playboy Bunny,power,0.033333333,0.15,0.6,0.56240755,0.116666667
+845,Cardi B,The Good (Unreleased),power,0.009379337,0.9667291,0.516666667,0.033333333,0.433333333
+846,Taylor Swift,Red (Original Demo Recording),power,0.08081757,0.14662154,0.616666667,0.133333333,0.7135133
+847,Lady Gaga,Retrosexual,power,0.010154991,0.016666667,0.783333333,0.97478795,0.083333333
+848,Nicki Minaj,Put You in a Room,power,0.016949153,0.65310806,0.07497067,0.355932203,0.508474576
+849,Eminem,Quitter (Everlast Diss),power,0.050808012,0.2841112,0.416666667,0.483333333,0.1
+850,Eminem,Remember Me?,power,0.024383768,0.001653931,0.8457976,0.12758452,0.133333333
+851,Maroon 5,Better That We Break (Ali Shaheed Muhammad & Doc Remix),power,0.033333333,0.6299907,0.433333333,0.066666667,0.32008693
+852,Maroon 5,Ladykiller,power,0.037037037,0.89431083,0.12962963,0.203703704,0.462962963
+853,BeyoncÃ©,Ring the Alarm,power,0.014218733,0.013390551,0.038983233,0.060015965,1
+854,Lady Gaga,Artpop (artRAVE paris version),power,0.106489435,0.133333333,0.11949644,0.3476897,0.766666667
+855,Eminem,Just Don’t Give a Fuck,power,0.00825932,0.083333333,0.1,0.9426325,0.616666667
+856,Cardi B,Drip,power,0.007685861,0.002661083,0.11483246,0.8737783,0.8
+857,Ariana Grande,​raindrops (an angel cried) [live],power,0.010523508,0.8726654,0.016852407,0.003289344,0.928571429
+858,BeyoncÃ©,Lift Every Voice and Sing (Homecoming Live),power,0.22652978,0.001433573,0.54342824,0.2256752,0.966666667
+859,Post Malone,Fuck The Internet,power,0.12195122,0.341463415,0.390243902,0.9597226,0.073170732
+860,Maroon 5,Animals (Sammy Bananas Remix),power,0.166666667,0.366666667,0.5914115,0.3,0.15744416
+861,Nicki Minaj,I Endorse These Strippers,power,0.005016971,0.001282211,0.641025641,0.9429245,0.333333333
+862,Eminem,Nail in the Coffin,power,0.031934462,0.183333333,0.80800575,0.01562314,0.066666667
+863,Eminem,Rabbit Run,power,0.24536078,0.27899307,0.883333333,0.04900732,0.001178804
+864,Nicki Minaj,Miami,power,0.006548002,0.05,0.716666667,0.9646587,0.15
+865,Lady Gaga,Diamond Heart,power,0.083333333,0.366666667,0.166666667,0.98501354,0.333333333
+866,Justin Bieber,Runaway Love,power,0.10099542,0.28128317,0.416666667,0.25,0.333333333
+867,Lady Gaga,The Edge of Glory (Live),power,0.1,0.033333333,0.083333333,0.38848874,0.666666667
+868,Eminem,8 Mile: Maurice Grant vs B-Rabbit,power,0.03247695,0.05,0.7422418,0.22265306,0.233333333
+869,Ariana Grande,​love me harder (live),power,0.00185103,0.111111111,0.185185185,0.333333333,0.99295515
+870,Nicki Minaj,Jumpoff / Jump-off,power,0.007148222,0.00124463,0.777777778,0.9547128,0.185185185
+871,Post Malone,Killing in the Name,power,0.016666667,0.366666667,0.97979945,0.133333333,0.033333333
+872,Nicki Minaj,I'm Back,power,0.002251333,0.05,0.166666667,0.941947,0.75
+873,Eminem,Just Don’t Give a Fuck (A Cappella),power,0.009159174,0.366666667,0.04619945,0.9411129,0.001323717
+874,Justin Bieber,Purpose,power,0.15,0.35,0.000418913,0.05,0.9471345
+875,Cardi B,Trust Issues,power,0.033333333,0.15686454,0.69735044,0.216666667,0.55
+876,Eminem,Ridaz,power,0.020142375,0.002787454,0.95,0.350864,0.001577808
+877,Nicki Minaj,BE GONE BITCH,power,0.016950713,0.000814437,0.933333333,0.21565665,0.033333333
+878,Eminem,Lucky You,power,0.00922528,0.05,0.466666667,0.7482725,0.383333333
+879,Taylor Swift,I Did Something Bad (Reputation Tour Remix),power,0.033333333,0.116666667,0.45,0.8044355,0.266666667
+880,BeyoncÃ©,FREEDOM (2016 BET Awards),power,0.113293156,0.016666667,0.6,0.46369448,0.333333333
+881,Eminem,I Will,power,0.216666667,0.066666667,0.6665105,0.516666667,0.016666667
+882,Eminem,Role Model,power,0.006338283,0.033333333,0.766666667,0.8150013,0.00679134
+883,Eminem,Keys To The City,power,0.049420547,0.09272621,0.831481,0.266666667,0.116666667
+884,Ariana Grande,Right There (Ralphi Rosario Radio),power,0.009420574,0.166666667,0.166666667,0.216666667,0.8894867
+885,Selena Gomez,Kill Em with Kindness (Felix Cartal Remix),power,0.11476034,0.25,0.82520366,0.15,0.35
+886,BeyoncÃ©,Dreamgirls,power,0.166666667,0.283333333,0.033333333,0.95253706,0.25
+887,Cardi B,Trick,power,0.148148148,0.092592593,0.71805876,0.22985573,0.462962963
+888,Ariana Grande,Side to Side (Slushii Remix),power,0.01298435,0.016666667,0.5,0.7167949,0.316666667
+889,BeyoncÃ©,Whatâs It Gonna Be,power,0.216666667,0.002552156,0.083333333,0.043883685,0.9462609
+890,Camila Cabello,Million To One,power,0.033333333,0.55,0.9609905,0.116666667,0.016666667
+891,Nicki Minaj,Black Barbies,power,0.010159013,0.133333333,0.65,0.7834746,0.183333333
+892,Eminem,Kings Never Die,power,0.51519907,0.166666667,0.666666667,0.18950452,0.116666667
+893,Nicki Minaj,Chun Swae,power,0.009319964,0.05,0.416666667,0.65242785,0.4
+894,Nicki Minaj,"Bossed Up, Pickle Juice",power,0.11271808,0.057692308,0.23071784,0.6454086,0.634615385
+895,Nicki Minaj,I'm Cumin,power,0.006369455,0.001289258,1,0.7058849,0.002630518
+896,Imagine Dragons,Demons,power,0.72240824,0.576271186,0.288135593,0.055299733,0.084745763
+897,Maroon 5,Harder to Breathe,power,0.042057857,0.8330157,0.827586207,0.086206897,0.068965517
+898,Ariana Grande,Love Me Harder (DJ Class Remix),power,0.023308434,0.22946301,0.23312356,0.416666667,0.36581314
+899,Maroon 5,The Man Who Never Lied,power,0.7289008,0.333333333,0.266666667,0.116666667,0.233333333
+900,Eminem,Not Afraid,power,0.06341727,0.15,0.75,0.48055217,0.06485717
+901,Justin Bieber,Vatican,power,0.00190904,0.066666667,0.1,0.416666667,0.985802
+902,Lady Gaga,MANiCURE (Swinefest Demo),power,0.059732333,0.183333333,0.283333333,0.116666667,0.8631248
+903,Nicki Minaj,Barbie Goin Bad,power,0.011222678,0.016666667,0.72191167,0.2647224,0.533333333
+904,Justin Bieber,Going Down,power,0.21303801,0.004669393,0.483333333,0.6827439,0.085666105
+905,Taylor Swift,I Know Places (Voice Memo),power,0.183333333,0.483333333,0.033333333,0.9064026,0.233333333
+906,BeyoncÃ©,Apathy,power,0.230769231,0.65522027,0.26794654,0.017462712,0.205128205
+907,Taylor Swift,Style,power,0.033333333,0.2,0.4,0.5575911,0.40598843
+908,Eminem,Still Number One,power,0.116666667,0.016666667,0.6,0.79411465,0.083333333
+909,The Chainsmokers,Paris,power,0.062453266,0.183333333,0.033333333,0.86585003,0.316666667
+910,Lady Gaga,Shut Up (Demo),power,0.03742556,0.59021163,0.216666667,0.1,0.683333333
+911,Billie Eilish,​all the good girls go to hell (Live at Third Man Records),power,0.083333333,0.000617441,0.06478467,0.9055125,0.466666667
+912,Nicki Minaj,Baddest Bitch,power,0.016295595,0.065217391,0.4034891,0.5762238,0.413043478
+913,Lady Gaga,Do What U Want (Solo Version),power,0.017601054,0.083333333,0.6700892,0.466666667,0.316666667
+914,Selena Gomez,Good for You (Single Version),power,0.14678827,0.416666667,0.15,0.41710603,0.42255712
+915,Ariana Grande,​west side,power,0.022727273,0.136363636,0.045454545,0.068181818,0.96810025
+916,Maroon 5,Cold (Remix),power,0.001504455,0.142857143,0.428571429,0.214285714,0.736108
+917,Eminem,Killshot,power,0.17704384,0.1,0.683333333,0.59779835,0.083333333
+918,BeyoncÃ©,Gift from Virgo,power,0.290909091,0.127272727,0.054545455,0.236363636,0.9906606
+919,Ariana Grande,​on top of everything*,power,0.27014592,0.035087719,0.210526316,0.5437048,0.736842105
+920,Justin Bieber,Humble (Remix),power,0.13763638,0.216666667,0.23008882,0.61269873,0.283333333
+921,Nicki Minaj,Playtime Is Over,power,0.006122567,0.114285714,0.542857143,0.9528293,0.285714286
+922,Nicki Minaj,Yikes,power,0.013287691,0.00094773,0.480769231,0.79758656,0.288461538
+923,BeyoncÃ©,Flaws and All (BeyoncÃ© Experience Live),power,0.033448387,0.42392957,0.133333333,0.283333333,0.5244404
+924,Taylor Swift,Wildest Dreams (R3hab Remix),power,0.166666667,0.183333333,0.033333333,0.583333333,0.9266242
+925,Eminem,Rain Man,power,0.109403186,0.005568877,0.8484142,0.15,0.016666667
+926,Lady Gaga,The Edge of Glory (Porter Robinson Remix),power,0.002973332,0.00366809,0.02,0.22,0.9896785
+927,Taylor Swift,End Game (Solo Version),power,0.002002632,0.117647059,0.490196078,0.039215686,0.980681
+928,Maroon 5,Hands All Over,power,0.001085543,0.066666667,0.583333333,0.3,0.9895125
+929,BeyoncÃ©,World Wide Woman,power,0.033333333,0.1,0.033333333,0.9222206,0.783333333
+930,Eminem,Breaking News (Intro),power,0.404923,0.2,0.4,0.4,0.001067604
+931,"Neoni, burnboy",Champion,power,0.34377512,0.1,0.56084466,0.08793418,0.416666667
+932,Lady Gaga,Do What U Want (DJWS Remix),power,0.016666667,0.000392619,0.266666667,0.9782305,0.283333333
+933,Maroon 5,Doin’ Dirt,power,0.006907536,0.2,0.433333333,0.366666667,0.96324116
+934,Justin Bieber,Confirmation,power,0.22000213,0.719298246,0.070175439,0.14744909,0.52697504
+935,BeyoncÃ©,"Baby, Youâre The Only Man",power,0.001291185,0.001541807,0.216666667,0.25,0.9926117
+936,Ariana Grande,7 rings,power,0.118644068,0.254237288,0.13559322,0.9738762,0.355932203
+937,Selena Gomez,Fetish (Galantis Remix),power,0.02534786,0.050658062,0.433333333,0.233333333,0.89206755
+938,Eminem,Who Knew,power,0.033333333,0.37483606,0.65,0.183333333,0.083333333
+939,Lady Gaga,Born This Way (Michael Woods Remix),power,0.7972991,0.05,0.366666667,0.12476181,0.433333333
+940,Avicii,The Nights,power,0.29109082,0.379310345,0.275862069,0.43023184,0.09338565
+941,Nicki Minaj,Sticks In My Bun,power,0.014494698,0.00178991,0.272727273,0.82714146,0.472727273
+942,BeyoncÃ©,Irreplaceable (Trina Remix),power,0.083333333,0.033333333,0.183333333,0.98054147,0.616666667
+943,Lady Gaga,The Edge of Glory (Funkagenda Remix),power,0.003935415,0.05,0.133333333,0.333333333,0.98606175
+944,Nicki Minaj,Biggest Freak,power,0.003353421,0.052631579,0.912280702,0.97207344,0.01754386
+945,Lady Gaga,Black Jesus + Amen Fashion,power,0.08759982,0.1,0.566666667,0.67344564,0.166666667
+946,Lady Gaga,Government Hooker,power,0.016666667,0.05,0.666666667,0.73523927,0.216666667
+947,Lady Gaga,Do What U Want (Kronic Remix),power,0.009591347,0.116666667,0.15,0.730957,0.3
+948,Taylor Swift,End Game,power,0.016666667,0.05,0.433333333,0.88231075,0.416666667
+949,Maroon 5,Cold (Sak Noel Remix),power,0.008615841,0.4555669,0.183333333,0.216666667,0.5310223
+950,Ariana Grande,Daydreamin’,power,0.002382999,0.216666667,0.033333333,0.25,0.9921858
+951,Nicki Minaj,Swish Swish (Rap Version),power,0.009183047,0.2,0.8795064,0.183333333,0.3
+952,Eminem,We As Americans,power,0.066666667,0.133333333,0.98714733,0.233333333,0.033333333
+953,Lady Gaga,Electric Chapel - Two Door Cinema Club Remix,power,0.00410363,0.083333333,0.55,0.166666667,0.9007155
+954,Post Malone,Take What You Want,power,0.066666667,0.55948174,0.466666667,0.2,0.2
+955,Ariana Grande,Problem (Spanglish Version),power,0.05,0.061701205,0.2,0.133333333,0.9154022
+956,Nicki Minaj,Hood Story,power,0.012077057,0.051282051,0.538461538,0.9630497,0.333333333
+957,Nicki Minaj,SaInT RoMaN,power,0.009963404,0.033333333,0.8694634,0.11956513,0.416666667
+958,Ariana Grande,Knew Better / Forever Boy [DWT Version],power,0.033333333,0.183333333,0.083333333,0.25,0.92131865
+959,Lady Gaga,Greatest,power,0.233333333,0.466666667,0.033333333,0.001861799,0.88255167
+960,Lady Gaga,Glamour Zombie,power,0.006162309,0.033333333,0.8689329,0.316666667,0.333333333
+961,Eminem,Detroit vs. Everybody,power,0.006154927,0.111111111,0.611111111,0.41906142,0.000851359
+962,Selena Gomez,Come & Get It,power,0.9168045,0.016666667,0.2,0.233333333,0.55
+963,Eminem,Wanksta (Eminem’s Version),power,0.04039785,0.001189425,0.477967,0.839285714,0.089285714
+964,Selena Gomez,Kill Em with Kindness (Young Bombs Remix),power,0.11476034,0.25,0.82520366,0.366666667,0.2
+965,Eminem,ShadyXV,power,0.133333333,0.033333333,0.733333333,0.7890036,0.016666667
+966,Naomi Scott,Speechless (Full),power,0.3803479,0.5687212,0.032018967,0.116666667,0.366666667
+967,Justin Bieber,Somebody to Love (Remix),power,0.050742816,0.008427134,0.166666667,0.183333333,0.88929325
+968,Lady Gaga,You and I / born this way (artRAVE paris version),power,0.024004707,0.133333333,0.066666667,0.6499525,0.766666667
+969,Lady Gaga,Burqa,power,0.059020925,0.133333333,0.15,0.433333333,0.60715526
+970,"Eminem, Nate Dogg",Till I Collapse,power,0.01986933,0.033333333,0.9,0.10995338,0.003577943
+971,Selena Gomez,Look At Her Now,power,0.018518519,0.35436675,0.12962963,0.277777778,0.59186023
+972,Taylor Swift,State of Grace,power,0.037951466,0.4915218,0.25,0.133333333,0.483333333
+973,Lady Gaga,Bad Romance - The Cure ( ACT VI),power,0.005529335,0.05,0.65,0.74114937,0.22497287
+974,Nicki Minaj,Roman Reloaded,power,0.004344255,0.016666667,0.6,0.7531821,0.333333333
+975,Nicki Minaj,Wamables,power,0.016666667,0.083333333,0.06218423,0.92893434,0.55
+976,Lady Gaga,Black Jesus + Amen Fashion - Michael Woods Remix,power,0.036683656,0.35,0.116666667,0.8781703,0.15
+977,Taylor Swift,A Monster In My Closet!,power,0.421052632,0.001915864,0.42314142,0.578947368,0.015005204
+978,Post Malone,Psycho,power,0.083333333,0.266666667,0.183333333,0.8796955,0.002215511
+979,Nicki Minaj,Saxon,power,0.030474372,0.142857143,0.464285714,0.9274277,0.267857143
+980,Ariana Grande,Greedy,power,0.003257732,0.1,0.316666667,0.283333333,0.9172414
+981,Taylor Swift,Wonderland,power,0.079028465,0.083333333,0.516666667,0.34051406,0.5368115
+982,Justin Bieber,Fearless,power,0.84478724,0.127272727,0.218181818,0.381818182,0.254545455
+983,Nicki Minaj,Get It All,power,0.010712467,0.11399214,0.912280702,0.5690282,0.23490845
+984,Taylor Swift,We Are Never Ever Getting Back Together,power,0.003032293,0.14183252,0.2,0.166666667,0.8515946
+985,Eminem,Right for Me,power,0.06668728,0.020825317,0.6,0.6305282,0.066666667
+986,Nicki Minaj,I Get Money (Remix),power,0.017716302,0.016666667,0.766666667,0.81095284,0.216666667
+987,Eminem,Ballin’ Uncontrollably,power,0.014268872,0.166666667,0.81561005,0.3,0.083333333
+988,Maroon 5,Figure It Out,power,0.033333333,0.031230833,0.266666667,0.45,0.95458907
+989,Lady Gaga,Paper Gangsta,power,0.008140372,0.216666667,0.333333333,0.87714905,0.3
+990,Post Malone,God Damn,power,0.05,0.183333333,0.2,0.9243908,0.25
+991,Eminem,The Sauce,power,0.016666667,0.033333333,0.773704,0.3,0.001826285
+992,Nicki Minaj,Ain't Gone Do It,power,0.018622687,0.004659297,0.13770345,0.83288276,0.683333333
+993,"B.o.B, Hayley Williams",Airplanes (feat. Hayley Williams of Paramore),power,0.033333333,0.1,0.8,0.9760467,0.001800089
+994,Post Malone,Hit This Hard,power,0.016697858,0.4,0.9469865,0.133333333,0.35
+995,Maroon 5,Animals (Remix),power,0.005358024,0.283333333,0.45,0.216666667,0.4334895
+996,Billie Eilish,Ocean Eyes (That Loud & Neblo Remix),power,0.047473717,0.6810869,0.216666667,0.3,0.283333333
+997,Zoe Wees,Control,power,0.751428,0.3,0.15727894,0.1,0.25
+998,Eminem,Marsh,power,0.011625709,0.08734821,0.85,0.08555938,0.05
+999,Taylor Swift,The Man,power,0.014321872,0.05,0.8917655,0.06346967,0.35
+1000,Lady Gaga,"Beautiful, Dirty, Rich",power,0.01754386,0.122807018,0.421052632,0.9941127,0.385964912
+1001,Ariana Grande,​my hair,power,0.056603774,0.113207547,0.226415094,0.20754717,0.9639737
+1002,Nicki Minaj,Lookin Ass (Lookin Ass Nigga),power,0.008951216,0.156862745,0.490196078,0.90664315,0.333333333
+1003,Sabrina Carpenter,Blueberries,power,0.95,0.05,0.01254828,0.63732386,0.006957134
+1004,Selena Gomez,Outta My Hands (Loco),power,0.003930849,0.05,0.216666667,0.266666667,0.81380284
+1005,Ariana Grande,Put Your Hearts Up,power,0.2155333,0.266666667,0.15,0.521373,0.516666667
+1006,Selena Gomez,Pose,power,0.05239885,0.216666667,0.066666667,0.433333333,0.5258983
+1007,Cardi B,Sauce Boyz,power,0.00743797,0.033333333,0.483333333,0.5116188,0.433333333
+1008,Maroon 5,Cold (VAR!N Remix),power,0.017272219,0.333333333,0.116666667,0.49045184,0.415767
+1009,Warriyo,Mortals,power,0.34231663,0.3,0.62270856,0.166666667,0.3
+1010,Maroon 5,Runaway,power,0.05,0.8715821,0.1,0.004188989,0.116666667
+1011,Ariana Grande,Moonlight,power,0.000686911,0.133333333,0.083333333,0.283333333,0.9950389
+1012,Taylor Swift,Picture to Burn (Live From SoHo),power,0.016483735,0.7860138,0.15,0.116666667,0.283333333
+1013,Nicki Minaj,Talking that  stuff,power,0.002349573,0.089285714,0.8585541,0.11711992,0.625
+1014,Nicki Minaj,Blow Ya Mind,power,0.001734798,0.048780488,0.731707317,0.5873374,0.12195122
+1015,Eminem,Rap Battle (1994),power,0.2,0.3,0.5212994,0.45878068,0.1
+1016,Ariana Grande,One last time_Ariana_Grande_(2014),power,0.05,0.30549937,0.133333333,0.466666667,0.6746825
+1017,Eminem,Slim Shady (Intro),power,0.27628976,0.238095238,0.6501413,0.142857143,0.142857143
+1018,Lady Gaga,Sexy Ugly,power,0.05,0.066666667,0.15,0.97074234,0.2
+1019,Selena Gomez,Forget Forever (STÂ£FAN Remix),power,0.033333333,0.973006,0.15,0.233333333,0.516666667
+1020,Billie Eilish,Eres Tú,power,0.162162162,0.034577373,0.108108108,0.675675676,0.7895211
+1021,Lady Gaga,The Manifesto of Mother Monster,power,0.116666667,0.083333333,0.81069607,0.14398274,0.466666667
+1022,Avicii,Wake Me Up,power,0.05153416,0.183333333,0.44483668,0.40706807,0.4
+1023,Nicki Minaj,Regular Degular,power,0.004834745,0.071428571,0.160714286,0.9393705,0.678571429
+1024,Taylor Swift,Let's Go (Battle),power,0.016666667,0.166666667,0.8496922,0.233333333,0.483333333
+1025,Nicki Minaj,Still I Rise,power,0.005128011,0.083333333,0.47323498,0.50950193,0.45
+1026,BeyoncÃ©,Ave Maria,power,0.133333333,0.266666667,0.033333333,0.033333333,0.9209649
+1027,Nicki Minaj,Queen Radio - The Cardi B Drag,power,0.016666667,0.133333333,0.41981888,0.5571636,0.366666667
+1028,Eminem,Eminem - Get You Mad (Türkçe Çeviri),power,0.15,0.001526835,0.633333333,0.8534733,0.083333333
+1029,Nicki Minaj,Encore '07,power,0.06861625,0.4,0.433333333,0.5900504,0.05
+1030,Nicki Minaj,1-900-Ms-Minaj,power,0.006440964,0.033333333,0.683333333,0.94567585,0.25
+1031,Selena Gomez,Kill Em With Kindness,power,0.166666667,0.6,0.82520366,0.021531446,0.233333333
+1032,BeyoncÃ©,Grown Woman,power,0.1358309,0.033333333,0.5,0.6191589,0.4
+1033,Eminem,Still Don’t Give a Fuck,power,0.166666667,0.5,0.18685389,0.7773713,0.001330461
+1034,Lady Gaga,Marry the Night - The Weeknd & Illangelo Remix,power,0.1,0.066666667,0.35,0.7896033,0.2
+1035,Ariana Grande,Zero to Hero (From ”Hercules”),power,0.018518519,0.203703704,0.185185185,0.9592782,0.296296296
+1036,Taylor Swift,Bad Blood,power,0.009781986,0.15059812,0.70516086,0.266666667,0.35
+1037,Nicki Minaj,Anaconda,power,0.005139654,0.001088124,0.45,0.940919,0.466666667
+1038,Nicki Minaj,The Pinkprint Freestyle,power,0.066666667,0.116666667,0.516666667,0.89448553,0.25
+1039,Cardi B,Automatic*,power,0.008892013,0.033333333,0.9618503,0.116666667,0.633333333
+1040,Eminem,Yah Yah,power,0.003087925,0.05,0.916666667,0.9568315,0.000360706
+1041,Eminem,Higher,power,0.026996912,0.001927629,0.42306334,0.566666667,0.116666667
+1042,Maroon 5,Secret (Premier 5 Remix),power,0.028635327,0.566666667,0.366666667,0.3186958,0.6335734
+1043,Eminem,W.T.P.,power,0.011546697,0.001068155,0.95,0.22771129,0.033333333
+1044,Lady Gaga,Bad romance / Applause / Swine / Gyspy (artRAVE paris version),power,0.05,0.066666667,0.133333333,0.9730541,0.6
+1045,Cardi B,Thru Your Phone (Clean),power,0.033333333,0.1,0.1,0.89676905,0.55
+1046,Taylor Swift,Macavity,power,0.05,0.116666667,0.56109655,0.41802847,0.383333333
+1047,Lady Gaga,Cake Like Lady Gaga,power,0.021172173,0.00149184,0.283333333,0.8078983,0.366666667
+1048,Eminem,Rap God (Lyrics on Genius),power,0.018991424,0.15,0.3147368,0.6617308,0.316666667
+1049,Lady Gaga,Free Woman,power,0.014828061,0.1,0.5259341,0.383333333,0.3134857
+1050,Eminem,Alfred’s Theme,power,0.093417004,0.033333333,0.533333333,0.82150733,0.2
+1051,Eminem,2.0 Boys,power,0.00879629,0.116666667,0.7,0.85959667,0.016666667
+1052,BeyoncÃ©,Black Parade (Remix),power,0.004039181,0.008614461,0.97793543,0.008902874,1
+1053,Selena Gomez,Fetish,power,0.02534786,0.066666667,0.116666667,0.216666667,0.89206755
+1054,Nicki Minaj,Roman In Moscow,power,0.096153846,0.211538462,0.269230769,0.8639482,0.019230769
+1055,Taylor Swift,Blank Space,power,0.003129202,0.183333333,0.266666667,0.066666667,0.9183548
+1056,Nicki Minaj,Massive Attack,power,0.006956378,0.033333333,0.25,0.9517586,0.483333333
+1057,Lady Gaga,Judas - Hurts Remix,power,0.009924329,0.066666667,0.15,0.7918993,0.55
+1058,Lady Gaga,Fashion (2009),power,0.007823143,0.035714286,0.464285714,0.94675446,0.428571429
+1059,Ariana Grande,Open Letter Critiquing Sexism,power,0.5259118,0.016666667,0.12524861,0.32712936,0.65
+1060,Nicki Minaj,Win Again,power,0.016666667,0.033333333,0.9386434,0.055080157,0.8
+1061,Taylor Swift,Bette Davis Eyes (Live/2011),power,0.05,0.266666667,0.2,0.973597,0.116666667
+1062,"Martin Garrix, Bonn",No Sleep (feat. Bonn),power,0.066666667,0.533333333,0.05,0.9395055,0.316666667
+1063,Eminem,Greatest,power,0.133333333,0.05,0.65,0.39164162,0.000255504
+1064,Eminem,Mosh,power,0.4690834,0.616666667,0.45644134,0.233333333,0.033333333
+1065,Taylor Swift,Should've Said No (Live from SoHo),power,0.1,0.41074276,0.05,0.15,0.5767481
+1066,Lady Gaga,Bad Romance,power,0.005369737,0.05,0.516666667,0.16474031,0.78675115
+1067,Selena Gomez,Good For You (Kasbo Remix),power,0.033333333,0.45,0.05,0.366666667,0.808086
+1068,Post Malone,Ric Flair,power,0.003049439,0.033333333,0.216666667,0.91094875,0.2
+1069,Eminem,Square Dance,power,0.06679493,0.3,0.6,0.8988789,0.033333333
+1070,Maroon 5,If I Never See Your Face Again (Paul Oakenfold Remix),power,0.001865547,0.083333333,0.216666667,0.516666667,0.96842515
+1071,Ariana Grande,​fake smile,power,0.17319389,0.216666667,0.15,0.5929411,0.516666667
+1072,Lady Gaga,Paparazzi / Do What U Want / Dope  (artRAVE paris version),power,0.003186261,0.00056338,0.34,0.9648649,0.2
+1073,vaultboy,everything sucks,power,0.05289495,0.131578947,0.263157895,0.8007146,0.052631579
+1074,Nicki Minaj,Firm Biz '08,power,0.013266886,0.03125,0.78125,0.78828454,0.125
+1075,Billie Eilish,​i love you (Live at Third Man Records),power,0.092347875,0.55,0.20854391,0.26375026,0.3866346
+1076,Lady Gaga,ARTPOP,power,0.019262413,0.083333333,0.266666667,0.9390544,0.5
+1077,Lady Gaga,Bad Kids,power,0.28521925,0.12911575,0.5673714,0.033333333,0.4
+1078,Nicki Minaj,I'm The Best,power,0.00840336,0.3,0.45,0.9729159,0.15
+1079,BeyoncÃ©,Formation,power,0.001981708,0.066666667,0.066666667,0.98626894,0.8
+1080,Eminem,Shady Narcotics,power,0.018594572,0.1,0.029843101,0.9472013,0.7
+1081,Maroon 5,If I Never See Your Face Again (Remix),power,0.001865547,0.05,0.7,0.05,0.96842515
+1082,Cardi B,Broke,power,0.033333333,0.1,0.625892,0.36153573,0.55
+1083,Nicki Minaj,Hit It,power,0.066666667,0.05,0.233333333,0.9721497,0.633333333
+1084,Eminem,"Monkey See, Monkey Do",power,0.033333333,0.000883692,0.8474666,0.12530157,0.883333333
+1085,Lady Gaga,MANiCURE (Demo),power,0.12061574,0.133333333,0.633333333,0.4722592,0.27683732
+1086,Lady Gaga,Yay Ha (Demo),power,0.089664266,0.06165613,0.15798782,0.6847722,0.933333333
+1087,Billie Eilish,​ilomilo,power,0.096153846,0.7880597,0.088653564,0.384615385,0.326923077
+1088,Eminem,"Business - Live At The Palace of Auburn Hills, Detroit / 2002",power,0.14,0.08,0.1,0.90537536,0.4
+1089,Billie Eilish,Shady*,power,0.035714286,0.285714286,0.97958827,0.392857143,0.017857143
+1090,Taylor Swift,Matches,power,0.466666667,0.8707417,0.005548731,0.066666667,0.166666667
+1091,Ariana Grande,Wit It This Christmas,power,0.018867925,0.226415094,0.056603774,0.1849207,0.806238
+1092,BeyoncÃ©,Standing on the Sun Remix,power,0.006087827,0.001967723,0.00694091,0.416666667,0.68721956
+1093,Nicki Minaj,Come on a Cone,power,0.006937336,0.4,0.283333333,0.9003937,0.001604803
+1094,Post Malone,Fuck Yeah Dude*,power,0.016666667,0.15,0.516666667,0.8553337,0.166666667
+1095,Post Malone,Squad,power,0.016666667,0.166666667,0.35,0.85887295,0.05
+1096,Nicki Minaj,Make a Baby,power,0.002895919,0.3,0.45,0.10743898,0.87462246
+1097,NEFFEX,Destiny,power,0.26986995,0.083333333,0.48960528,0.333333333,0.2
+1098,Lady Gaga,Manicure + Cake Like Lady Gaga (artRAVE paris version),power,0.002730327,0.064516129,0.419354839,0.9864529,0.064516129
+1099,Lady Gaga,Jewels N' Drugs,power,0.022441907,0.116666667,0.8214498,0.216666667,0.15
+1100,Lady Gaga,HOODIE,power,0.026245732,0.081910945,0.75,0.58232063,0.25
+1101,Ariana Grande,One Last Time,power,0.05,0.28788194,0.133333333,0.466666667,0.699385
+1102,Lady Gaga,Applause (Demo),power,0.006296496,0.012318774,0.1,0.25,0.953563
+1103,Lady Gaga,Freakshow,power,0.01164648,0.008398703,0.333333333,0.31324235,0.583333333
+1104,BeyoncÃ©,Donât Hurt Yourself (Poetry),power,0.010361557,0.083333333,0.166666667,0.1,0.9213932
+1105,Maroon 5,Through With You (Demo),power,0.00174502,0.366666667,0.4,0.166666667,0.9411462
+1106,"Lost Sky, Chris Linton",Fearless Pt. II,power,0.42165583,0.266666667,0.5332573,0.416666667,0.066666667
+1107,BeyoncÃ©,Broken-Hearted Girl (Catalyst Remix),power,0.083333333,0.45,0.066666667,0.383333333,0.6144794
+1108,Eminem,No Apologies,power,0.5790008,0.07474577,0.366666667,0.55,0.05
+1109,Maroon 5,Through with You,power,0.066666667,0.083333333,0.066666667,0.033333333,0.9411462
+1110,The Score,Can You Hear Me Now,power,0.019968461,0.65845454,0.133333333,0.533333333,0.16107014
+1111,Post Malone,rockstar (Original Version),power,0.066666667,0.1,0.6,0.6745982,0.15
+1112,Maroon 5,Kiwi,power,0.001543968,0.016666667,0.566666667,0.25,0.9905742
+1113,BeyoncÃ©,The Last Great Seduction,power,0.008972544,0.35,0.516666667,0.43569404,0.5093755
+1114,Lady Gaga,Fever (Demo),power,0.152173913,0.108695652,0.108695652,0.3610255,0.61972237
+1115,Nicki Minaj,Hard White,power,0.033333333,0.033333333,0.766666667,0.9749758,0.166666667
+1116,Lady Gaga,The Fame (Demo),power,0.26751494,0.114910215,0.583333333,0.29423508,0.266666667
+1117,Cardi B,Cardi B’s Tattoos,power,0.021180129,0.000989987,0.6627983,0.31152004,0.683333333
+1118,Eminem,I’m Back/Kill You/Under the Influence (Live in California),power,0.018267509,0.05,0.7,0.62758225,0.133333333
+1119,Billie Eilish,​come out and play (Live at Third Man Records),power,0.057578776,0.55,0.1,0.3026444,0.6334667
+1120,Nicki Minaj,New Body - Verse,power,0.006826764,0.266666667,0.47926006,0.5122728,0.333333333
+1121,Eminem,You Don’t Know,power,0.025392674,0.033333333,0.816666667,0.3572101,0.083333333
+1122,Eminem,Hazardous Youth,sorrow,0.024604196,0.333333333,0.666666667,0.41647986,0.00102006
+1123,Ariana Grande,​safety net,sorrow,0.016666667,0.383333333,0.62175494,0.30316898,0.35
+1124,Eminem,Mystical Diss,sorrow,0.008410743,0.035808295,0.8545255,0.08522475,0.016030703
+1125,Eminem,Billie Eilish,sorrow,0.20910436,0.716666667,0.66961294,0.014507285,0.15
+1126,Eminem,Evil Deeds,sorrow,0.010654571,0.233333333,0.65,0.8445928,0.033333333
+1127,Post Malone,Don't Make Me,sorrow,0.01042801,0.002100258,0.68869615,0.29787922,0.000896349
+1128,Post Malone,Feeling Whitney,sorrow,0.033333333,0.933333333,0.064161,0.8068995,0.024848422
+1129,Ariana Grande,Just a Little Bit of Your Heart,sorrow,0.05,0.7,0.1,0.083333333,0.96191627
+1130,Nicki Minaj,L'Ultimo Bicchiere,sorrow,0.007078403,0.233333333,0.316666667,0.6332575,0.416666667
+1131,Lady Gaga,1000 Doves (Piano Demo),sorrow,0.14622805,0.964285714,0.017857143,0.0405625,0.600226
+1132,Taylor Swift,Out of the Woods,sorrow,0.00911615,0.583333333,0.183333333,0.054424144,0.9159121
+1133,BeyoncÃ©,Donât Hurt Yourself,sorrow,0.017419033,0.083333333,0.166666667,0.8161568,0.65
+1134,Justin Bieber,Fall,sorrow,0.033333333,0.266666667,0.233333333,0.116666667,0.97323203
+1135,Post Malone,Blame It On Me,sorrow,0.00432985,0.9494467,0.005846005,0.001375217,0.039002374
+1136,Maroon 5,Not Falling Apart,sorrow,0.07757626,0.8383899,0.386363636,0.136363636,0.159090909
+1137,Maroon 5,Whiskey,sorrow,0.013451399,0.483333333,0.116666667,0.283333333,0.6505069
+1138,Taylor Swift,Tim McGraw (Demo),sorrow,0.10127954,0.816666667,0.009931222,0.6244892,0.26275566
+1139,Taylor Swift,The Last Time,sorrow,0.023906242,0.4,0.133333333,0.266666667,0.6888879
+1140,Nicki Minaj,Tay- Fire Burns,sorrow,0.003656755,0.183333333,0.216666667,0.69710016,0.366666667
+1141,Selena Gomez,Sad Serenade,sorrow,0.009642771,0.4,0.233333333,0.15,0.603357
+1142,Olivia Rodrigo,drivers license,sorrow,0.00160358,0.001637129,0.006138276,0.80617595,0.18444507
+1143,Seafret,Atlantis,sorrow,0.7107129,0.783333333,0.08080572,0.032772113,0.166666667
+1144,Justin Bieber,Heartache,sorrow,0.002090062,0.004736009,0.002928619,0.037541784,0.95270354
+1145,Justin Bieber,That Should Be Me,sorrow,0.166666667,0.433333333,0.1,0.116666667,0.91363746
+1146,Eminem,Kill My Pain (Mixup),sorrow,0.053974666,0.483333333,0.4493683,0.35591334,0.05
+1147,Lady Gaga,Let Love Down,sorrow,0.00342513,0.716666667,0.233333333,0.033333333,0.9551248
+1148,Taylor Swift,Invisible,sorrow,0.002789886,0.010132856,0.001447656,0.010481426,0.9751482
+1149,Justin Bieber,Insecurities,sorrow,0.004162961,0.533333333,0.116666667,0.1,0.9657079
+1150,Ariana Grande,The Christmas Song (Chestnuts Roasting On An Open Fire),sorrow,0.033333333,0.866666667,0.016666667,0.9768836,0.083333333
+1151,Taylor Swift,Teardrops On My Guitar (Acoustic),sorrow,0.066666667,0.65,0.05,0.0379809,0.9427672
+1152,Post Malone,Lounge Act,sorrow,0.019230769,0.884615385,0.019230769,0.019230769,0.9366127
+1153,Maroon 5,Out of Goodbyes,sorrow,0.042698927,0.816666667,0.083333333,0.016666667,0.3851584
+1154,Post Malone,Cold,sorrow,0.030359795,0.516666667,0.05,0.054778628,0.7894461
+1155,Selena Gomez,Loveâs Not Over,sorrow,0.26521984,0.65,0.083333333,0.2429946,0.22828744
+1156,Taylor Swift,Beautiful Ghosts,sorrow,0.45,0.516666667,0.73195755,0.0946328,0.006316617
+1157,Post Malone,No Reason (Version 1),sorrow,0.014803481,0.001632419,0.38762867,0.595068,0.00086742
+1158,Eminem,Space Bound,sorrow,0.05767658,0.6,0.36825177,0.055859797,0.15987933
+1159,Eminem,Never Love Again,sorrow,0.033898305,0.423728814,0.474576271,0.033898305,0.9824974
+1160,Nicki Minaj,Grand Piano,sorrow,0.166666667,0.683333333,0.72807723,0.066666667,0.018428445
+1161,Taylor Swift,Didn't They,sorrow,0.06600304,0.183333333,0.266666667,0.58998555,0.483333333
+1162,Nicki Minaj,Miss Me*,sorrow,0.03197239,0.55327934,0.29151142,0.013169092,0.110067815
+1163,Taylor Swift,Innocent,sorrow,0.05,0.75570077,0.183333333,0.166666667,0.266666667
+1164,Lady Gaga,Love Sick Girl (Demo),sorrow,0.009752004,0.8623141,0.068594776,0.020402726,0.038936324
+1165,Maroon 5,Just a Feeling,sorrow,0.013587072,0.90384,0.002814637,0.083333333,0.07780646
+1166,Post Malone,Hollywood Dreams / Come Down,sorrow,0.009812928,0.716666667,0.016666667,0.9776405,0.033333333
+1167,Cardi B,WAP (Clean),sorrow,0.002428827,0.000955213,0.013554988,0.9814834,0.001577609
+1168,Gracie Abrams,"I miss you, I’m sorry",sorrow,0.00179581,0.120235786,0.81306565,0.020660063,0.044242695
+1169,Lady Gaga,Oh Well,sorrow,0.040971905,0.35241076,0.109735265,0.14042194,0.35646012
+1170,Eminem,Say Goodbye Hollywood,sorrow,0.01247381,0.783333333,0.09201759,0.083333333,0.133333333
+1171,Justin Bieber,Alone,sorrow,0.557692308,0.8162913,0.019230769,0.001882077,0.17125908
+1172,Eminem,Stronger Than I Was,sorrow,0.016666667,0.766666667,0.166666667,0.016666667,0.7113665
+1173,Selena Gomez,Lose You To Love Me (Demo Version),sorrow,0.05,0.9,0.016666667,0.003751983,0.32387114
+1174,Ariana Grande,​successful,sorrow,0.002627186,0.000392465,0.001088421,0.9811973,0.0146946
+1175,Ariana Grande,Touch It,sorrow,0.016666667,0.916666667,0.033333333,0.016666667,0.9498798
+1176,Ariana Grande,​dangerous woman (live),sorrow,0.09211439,0.383333333,0.2,0.10301883,0.7354143
+1177,Eminem,The Kids,sorrow,0.033333333,0.15,0.716666667,0.9221727,0.066666667
+1178,Taylor Swift,"Baby, Don't You Break My Heart Slow",sorrow,0.283333333,0.466666667,0.001747652,0.001407927,0.9540416
+1179,Post Malone,I Know,sorrow,0.15998518,0.340425532,0.29787234,0.27671462,0.27550465
+1180,Justin Bieber,Maria,sorrow,0.19791064,0.009192506,0.12874009,0.65417695,0.009979707
+1181,Ariana Grande,Ariana Grande - pov (terjemahan bahasa indonesia),sorrow,0.05,0.2,0.6438183,0.32237035,0.483333333
+1182,Taylor Swift,seven (the long pond studio sessions),sorrow,0.216666667,0.433333333,0.000640982,0.133333333,0.98939437
+1183,Dean Lewis,How Do I Say Goodbye,sorrow,0.011998787,0.22956888,0.011940188,0.007348701,0.7391435
+1184,Nicki Minaj,Dreams '07,sorrow,0.016600745,0.2,0.21879709,0.7626936,0.516666667
+1185,Nicki Minaj,Marilyn Monroe,sorrow,0.11859785,0.483333333,0.15827487,0.5389728,0.233333333
+1186,Taylor Swift,Brought Up That Way,sorrow,0.043482285,0.95,0.43101546,0.19169216,0.05
+1187,Eminem,Stimulate,sorrow,0.025575608,0.883333333,0.083333333,0.95141804,0.016666667
+1188,Taylor Swift,Girl at Home,sorrow,0.092294626,0.45,0.23330477,0.366666667,0.37899667
+1189,Selena Gomez,Someone Else,sorrow,0.05,0.65,0.5996301,0.19149913,0.17237605
+1190,Taylor Swift,ivy,sorrow,0.018085824,0.19278185,0.006092401,0.002643698,0.78039616
+1191,Taylor Swift,Mean,sorrow,0.002608045,0.5,0.97665566,0.066666667,0.35
+1192,Nicki Minaj,How To Break A Heart,sorrow,0.004907602,0.316666667,0.116666667,0.333333333,0.97363746
+1193,Justin Bieber,Mama’s Boy,sorrow,0.043677744,0.19334786,0.3022164,0.40089878,0.059859138
+1194,Selena Gomez,Unfamiliar (Demo),sorrow,0.46790445,0.29169348,0.14964366,0.06622548,0.02453297
+1195,Maroon 5,Beautiful Goodbye,sorrow,0.008872568,0.40624434,0.516666667,0.366666667,0.5786524
+1196,Nicki Minaj,Letter to Lil Wayne,sorrow,0.009068807,0.466666667,0.25,0.956713,0.133333333
+1197,BeyoncÃ©,Si Yo Fuera un Chico,sorrow,0.116666667,0.4,0.166666667,0.20122515,0.7084967
+1198,Sam Tompkins,Lose It All,sorrow,0.033333333,0.966666667,0.001299608,0.003573252,0.90463
+1199,Nicki Minaj,Up in Flames,sorrow,0.003583177,0.75,0.183333333,0.8336047,0.002016095
+1200,Taylor Swift,epiphany,sorrow,0.066666667,0.883333333,0.8993692,0.033333333,0.016666667
+1201,Eminem,Kim,sorrow,0.050518963,0.866666667,0.70449877,0.2139486,0.033333333
+1202,Billie Eilish,Bury a friend (Zeds Dead Remix),sorrow,0.23656264,0.009008233,0.6057022,0.1473207,0.001406164
+1203,Maroon 5,Misery (Bimbo Jones radio edit),sorrow,0.017821468,0.7275505,0.004236049,0.003194979,0.247197
+1204,Ariana Grande,Shhh,sorrow,0.019230769,0.461538462,0.011138901,0.122404926,0.8540615
+1205,Eminem,Yellow Brick Road,sorrow,0.6201894,0.6,0.233333333,0.29312217,0.016666667
+1206,Eminem,Drips,sorrow,0.004501978,0.003243734,0.065198846,0.92592967,0.001125834
+1207,Ariana Grande,Problem,sorrow,0.011058464,0.049609564,0.0068273,0.00616166,0.9263431
+1208,Ariana Grande,​get well soon,sorrow,0.012604606,0.983333333,0.030142859,0.004634475,0.01857166
+1209,Nicki Minaj,Dear Old Nicki,sorrow,0.012885112,0.13601841,0.45,0.15,0.6958555
+1210,Lauren Spencer Smith,Flowers,sorrow,0.203703704,0.666666667,0.037037037,0.018518519,0.9879439
+1211,Maroon 5,I Can’t Lie,sorrow,0.007190073,0.7627118,0.1,0.066666667,0.333333333
+1212,Taylor Swift,Never Fade,sorrow,0.044454236,0.71318763,0.078996636,0.07189669,0.09146477
+1213,BeyoncÃ©,Kick Him Out (Next Ex),sorrow,0.007801887,0.030221542,0.02786719,0.066842884,0.86726665
+1214,Taylor Swift,epiphany (the long pond studio sessions),sorrow,0.008480628,0.003151765,0.8966983,0.09052314,0.001146284
+1215,Eminem,In Too Deep,sorrow,0.000776729,0.65,0.233333333,0.1,0.989081
+1216,Lady Gaga,Bloody Mary - Dancin In Circle - Paparazzi - Angel Down - Joanne (ACT V),sorrow,0.116666667,0.216666667,0.761125,0.216666667,0.366666667
+1217,Eminem,I Remember (Dedication to Whitey Ford/Everlast Diss),sorrow,0.015681114,0.233333333,0.216666667,0.92680365,0.00206932
+1218,James Arthur,Train Wreck,sorrow,0.5463985,0.8,0.10715523,0.022954594,0.1
+1219,Post Malone,Patient,sorrow,0.012729915,0.283333333,0.86105025,0.12454626,0.133333333
+1220,Lady Gaga,Million Reasons (KVR Remix),sorrow,0.016666667,0.733333333,0.066666667,0.033333333,0.66941935
+1221,Lady Gaga,New York (Demo),sorrow,0.059884038,0.007348907,0.002665184,0.07668078,0.8534212
+1222,Maroon 5,Payphone (No Rap Edit),sorrow,0.018547958,0.216666667,0.366666667,0.166666667,0.80229414
+1223,Ariana Grande,Boyfriend Material,sorrow,0.016666667,0.083333333,0.033333333,0.433333333,0.60221446
+1224,Lady Gaga,Before I Cry,sorrow,0.009327389,0.16062577,0.006859514,0.003919045,0.81926817
+1225,Maroon 5,Must Get Out,sorrow,0.10026917,0.026158947,0.000798348,0.033127144,0.8396464
+1226,Lady Gaga,November,sorrow,0.006941036,0.112723835,0.006355048,0.002308219,0.87167186
+1227,Eminem,Everything,sorrow,0.133333333,0.05,0.65,0.50761944,0.0126115
+1228,Eminem,Marshall Mathers (Snippet),sorrow,0.066666667,0.083333333,0.6540697,0.29909974,0.4
+1229,Nicki Minaj,The Crying Game,sorrow,0.27256566,0.30737233,0.216666667,0.20841654,0.7
+1230,Ariana Grande,Lovin’ It,sorrow,0.004420195,0.015601107,0.000537603,0.004641884,0.97479916
+1231,Ariana Grande,Unreleased Songs [Discography List],sorrow,0.166666667,0.009840824,0.033333333,0.8382052,0.55
+1232,BeyoncÃ©,Creole,sorrow,0.00505601,0.05,0.566666667,0.94393873,0.383333333
+1233,Justin Bieber,Break From Love,sorrow,0.003449154,0.41031328,0.216666667,0.066666667,0.58205676
+1234,Ariana Grande,​the light is coming,sorrow,0.005698984,0.019749932,0.6026777,0.3559442,0.65
+1235,Taylor Swift,Sad Beautiful Tragic,sorrow,0.08243833,0.633333333,0.016666667,0.166666667,0.7311834
+1236,Coldplay,Sparks,sorrow,0.666666667,0.15,0.009910354,0.066666667,0.921931
+1237,Ariana Grande,​bad idea,sorrow,0.016358957,0.93891746,0.05,0.083333333,0.833333333
+1238,Taylor Swift,The Moment I Knew,sorrow,0.183333333,0.3,0.033333333,0.65213114,0.4
+1239,Billie Eilish,TV,sorrow,0.383333333,0.8761671,0.011460885,0.316666667,0.216666667
+1240,Eminem,Demon Inside,sorrow,0.013462375,0.14399411,0.7971167,0.757575758,0.242424242
+1241,Taylor Swift,In The Pouring Rain,sorrow,0.003165419,0.05781306,0.002757805,0.001964331,0.9342994
+1242,Eminem,Déjà Vu,sorrow,0.19363935,0.35,0.233333333,0.63403213,0.05
+1243,Cardi B,Be Careful,sorrow,0.008990111,0.020240655,0.183333333,0.5982589,0.516666667
+1244,Post Malone,"Yours Truly, Austin Post",sorrow,0.005886992,0.000544411,0.0153281,0.9753401,0.002900398
+1245,Lady Gaga,Wish You Were Here,sorrow,0.233333333,0.466666667,0.033333333,0.003096421,0.6324299
+1246,Ariana Grande,Female (Dangerous Woman Tour Visual),sorrow,0.020898376,0.01063055,0.6880527,0.067555405,0.21286298
+1247,Noah Cyrus,Lonely,sorrow,0.255319149,0.3980061,0.4911211,0.191489362,0.340425532
+1248,Ariana Grande,​jada,sorrow,0.006510273,0.000802308,0.90751207,0.08066077,0.004514491
+1249,Post Malone,I Fall Apart (SLANDER Remix),sorrow,0.023347337,0.34397697,0.07440192,0.21338782,0.34488595
+1250,Ariana Grande,Not Afraid of Love,sorrow,0.002463342,0.033333333,0.183333333,0.183333333,0.9833371
+1251,Ariana Grande,True Love,sorrow,0.018181818,0.145454545,0.001609379,0.181818182,0.9713435
+1252,Taylor Swift,Teardrops on My Guitar,sorrow,0.066666667,0.65,0.05,0.034745663,0.94608307
+1253,Eminem,3 a.m.,sorrow,0.010480451,0.7095639,0.916666667,0.033333333,0.033333333
+1254,Justin Bieber,At Least For Now,sorrow,0.387755102,0.306122449,0.163265306,0.50090575,0.32956713
+1255,Taylor Swift,Haunted (Live/2011),sorrow,0.013348191,0.58799535,0.55,0.066666667,0.39185897
+1256,Taylor Swift,Dear John (Live/2011),sorrow,0.183333333,0.326348,0.05,0.4,0.59483635
+1257,Ariana Grande,breathin,sorrow,0.3530577,0.35,0.35,0.4857569,0.2
+1258,Taylor Swift,Need You Now,sorrow,0.000883054,0.004422016,0.000436801,0.000834721,0.99342334
+1259,Post Malone,Nothing Else Matters,sorrow,0.05,0.15,0.566666667,0.033333333,0.9384245
+1260,Post Malone,A Thousand Bad Times,sorrow,0.016666667,0.097470954,0.416666667,0.216666667,0.79285866
+1261,Adele,Easy On Me,sorrow,0.066666667,0.9359182,0.033333333,0.016666667,0.1
+1262,Taylor Swift,By The Way,sorrow,0.41580594,0.183333333,0.266666667,0.44325632,0.13509543
+1263,Nicki Minaj,Out of my face,sorrow,0.003014286,0.001192564,0.000804022,0.99312073,0.001868373
+1264,Post Malone,Up There,sorrow,0.033333333,0.45,0.05,0.9435187,0.466666667
+1265,Ariana Grande,​only 1 (live),sorrow,0.001009486,0.010126475,0.000853751,0.001084121,0.9869262
+1266,Eminem,Cleanin’ Out My Closet,sorrow,0.038548272,0.166666667,0.09605161,0.86064684,0.116666667
+1267,Taylor Swift,This Is Really Happening,sorrow,0.116666667,0.022826664,0.416666667,0.35,0.97324646
+1268,Taylor Swift,Come Back... Be Here,sorrow,0.034466054,0.40089422,0.012400694,0.009988413,0.5422507
+1269,Maroon 5,If I Ain’t Got You (live),sorrow,0.2,0.566666667,0.062228993,0.15786496,0.5192485
+1270,Selena Gomez,De Una Vez,sorrow,0.153846154,0.25,0.059754428,0.13645397,0.7238669
+1271,Selena Gomez,Give You Up,sorrow,0.166666667,0.183333333,0.15,0.116666667,0.7405992
+1272,Ariana Grande,Last Christmas,sorrow,0.005815887,0.4550615,0.016666667,0.083333333,0.8
+1273,Eminem,Farewell,sorrow,0.012072108,0.71783346,0.766666667,0.216666667,0.23838139
+1274,Eminem,Anger Management (Turkish Translation),sorrow,0.15,0.001893633,0.633333333,0.79766166,0.083333333
+1275,Eminem,Never 2 Far,sorrow,0.01836077,0.00140966,0.84352946,0.716666667,0.05
+1276,Eminem,Backstabber,sorrow,0.16271806,0.05,0.62784576,0.4,0.133333333
+1277,Taylor Swift,Afterglow,sorrow,0.007272995,0.5864455,0.14364123,0.009162049,0.25347823
+1278,Post Malone,Jonestown (Interlude),sorrow,0.18040013,0.13750029,0.38235918,0.2896836,0.0100568
+1279,Justin Bieber,Wish You Would (Solo Version),sorrow,0.07089342,0.216666667,0.25,0.8253629,0.133333333
+1280,Post Malone,Myself,sorrow,0.055185813,0.056603774,0.245283019,0.823285,0.264150943
+1281,Eminem,The Way I Am,sorrow,0.04759872,0.001912991,0.1471368,0.80263996,0.000711527
+1282,Justin Bieber,Changes,sorrow,0.222222222,0.555555556,0.069264196,0.49386486,0.2746332
+1283,Post Malone,Wake Me Up,sorrow,0.183333333,0.1,0.64793223,0.29544857,0.433333333
+1284,Eminem,Oh No,sorrow,0.033715818,0.002009601,0.3664226,0.5975172,0.000334816
+1285,Ariana Grande,​break your heart right back (live),sorrow,0.002956078,0.04599187,0.002210916,0.004310435,0.94453067
+1286,Justin Bieber,Don’t Say Goodbye,sorrow,0.003190346,0.03383145,0.083333333,0.083333333,0.9484188
+1287,Sarah Cothran,As the World Caves In,sorrow,0.339622642,0.264150943,0.226415094,0.77036446,0.169811321
+1288,Ariana Grande,Break Free,sorrow,0.049485065,0.8305763,0.024555206,0.006848776,0.08853468
+1289,Selena Gomez,People You Know,sorrow,0.00475338,0.6135062,0.008853783,0.002612897,0.3702737
+1290,Taylor Swift,You All Over Me,sorrow,0.216666667,0.45,0.27722985,0.21731004,0.2
+1291,Justin Bieber,Thick Or Thin,sorrow,0.009871452,0.090909091,0.181818182,0.606060606,0.94972634
+1292,Taylor Swift,cardigan,sorrow,0.042037606,0.383333333,0.233333333,0.36802357,0.55770344
+1293,Nicki Minaj,Dead Wrong,sorrow,0.013218297,0.002744408,0.12361382,0.8575641,0.002859355
+1294,Lady Gaga,Onion Girl,sorrow,0.033447083,0.008147757,0.17501882,0.77935743,0.004028965
+1295,Billie Eilish,‌watch (Live),sorrow,0.066666667,0.3,0.15,0.333333333,0.9553453
+1296,Selena Gomez,Camouflage,sorrow,0.009885023,0.133333333,0.2,0.15,0.8321048
+1297,Ariana Grande,She Got Her Own (Demo Edit),sorrow,0.004415856,0.004071738,0.4029039,0.5623389,0.02626955
+1298,Nicki Minaj,Buy a Heart,sorrow,0.083333333,0.083333333,0.1,0.95274055,0.533333333
+1299,Justin Bieber,Better,sorrow,0.018867925,0.40394822,0.150943396,0.188679245,0.5809516
+1300,Eminem,Maxine,sorrow,0.0334073,0.002925448,0.58259046,0.3804448,0.000631907
+1301,Selena Gomez,Ring,sorrow,0.00577502,0.031040132,0.08945797,0.096123695,0.77760315
+1302,Justin Bieber,Guarded*,sorrow,0.84247833,0.012155039,0.083333333,0.833333333,0.083333333
+1303,Selena Gomez,Vulnerable,sorrow,0.05,0.233333333,0.116666667,0.316666667,0.9933462
+1304,Lady Gaga,Drivin' In Circles (Demo),sorrow,0.0645504,0.79628307,0.233333333,0.033333333,0.733333333
+1305,Taylor Swift,Why She Disappeared [Poem],sorrow,0.39698532,0.02107462,0.41993946,0.816666667,0.166666667
+1306,Freya Ridings,Face in the Crowd,sorrow,0.2,0.283333333,0.15,0.316666667,0.9731343
+1307,Taylor Swift,Perfect Have I Loved,sorrow,0.000686695,0.183333333,0.266666667,0.416666667,0.9919659
+1308,Eminem,Bad Guy,sorrow,0.025455644,0.60611975,0.010632302,0.01114904,0.34664324
+1309,Lady Gaga,Fooled Me Again (Honest Eyes),sorrow,0.333333333,0.21332642,0.31292772,0.32249027,0.483333333
+1310,Taylor Swift,Christmases When You Were Mine,sorrow,0.017619828,0.058355708,0.01608383,0.06581911,0.8421215
+1311,Eminem,Can I Bitch,sorrow,0.01248013,0.05,0.666666667,0.898183,0.066666667
+1312,Maroon 5,My Heart Is Open,sorrow,0.002622125,0.033977155,0.000803512,0.000972403,0.9616248
+1313,Lady Gaga,Earthquake (Then You'd Love Me),sorrow,0.002623926,0.1439464,0.216666667,0.033333333,0.85022587
+1314,Maroon 5,Must Get Out (Demo),sorrow,0.031226555,0.1,0.316666667,0.4,0.93502253
+1315,Selena Gomez,Running Back To Me,sorrow,0.05,0.65,0.083333333,0.183333333,0.55228376
+1316,Billie Eilish,​watch (Xie Remix),sorrow,0.066666667,0.266666667,0.2,0.083333333,0.93613714
+1317,Selena Gomez,Wolves,sorrow,0.015078238,0.14803794,0.001792464,0.005196449,0.82989496
+1318,Eminem,If I Had...,sorrow,0.2,0.016666667,0.6189736,0.29570046,0.183333333
+1319,Bradley Marshall,Hurts The Most,sorrow,0.466666667,0.483333333,0.016666667,0.003857108,0.6877209
+1320,Harry Styles,Falling,sorrow,0.233333333,0.84185,0.083333333,0.033333333,0.066666667
+1321,Selena Gomez,Love Will Remember (Demo),sorrow,0.002174261,0.4,0.15,0.044139754,0.94658214
+1322,Maroon 5,The air i breathe,sorrow,0.025105182,0.71849364,0.116666667,0.116666667,0.266666667
+1323,Justin Bieber,Many Men*,sorrow,0.059782263,0.15,0.45,0.7996439,0.166666667
+1324,Taylor Swift,Cold as You,sorrow,0.028222185,0.652863,0.005652834,0.010376866,0.302885
+1325,Post Malone,Kurt Cobain,sorrow,0.005890126,0.316666667,0.1,0.8997136,0.016666667
+1326,Post Malone,"Hollywood, Bleeding",sorrow,0.037445292,0.63433045,0.045923013,0.033897467,0.2484037
+1327,Post Malone,Come As You Are,sorrow,0.083333333,0.183333333,0.516666667,0.630893,0.183333333
+1328,Maddie Zahm,Fat Funny Friend (sadder),sorrow,0.283333333,0.68108416,0.06514819,0.3,0.133333333
+1329,Nicki Minaj,So Special,sorrow,0.016666667,0.033333333,0.8423208,0.056129392,0.5
+1330,Maroon 5,Sweetest Goodbye,sorrow,0.033333333,0.133333333,0.516666667,0.266666667,0.9495969
+1331,Eminem,The Kids (Unreleased Demo),sorrow,0.00759631,0.057142857,0.457142857,0.9585682,0.085714286
+1332,Ariana Grande,Too Close,sorrow,0.000511301,0.002467858,0.000601744,0.001198096,0.99522096
+1333,Ariana Grande,Untitled*,sorrow,0.066666667,0.166666667,0.6,0.016666667,0.79554594
+1334,Ariana Grande,​in my head interlude (live),sorrow,0.011454286,0.08396308,0.22,0.04,0.8924262
+1335,Justin Bieber,Heartbreaker,sorrow,0.001884715,0.166666667,0.416666667,0.066666667,0.9508762
+1336,Ariana Grande,Love Boy,sorrow,0.001587639,0.216666667,0.15,0.7935093,0.416666667
+1337,Lady Gaga,Million Reasons,sorrow,0.133333333,0.466666667,0.2,0.066666667,0.66941935
+1338,Cardi B,Pull Up,sorrow,0.007588703,0.074074074,0.685185185,0.092592593,0.83763623
+1339,Taylor Swift,Forever & Always,sorrow,0.01016275,0.9631511,0.05,0.233333333,0.65
+1340,Maroon 5,Chilly Winter (Demo),sorrow,0.006015985,0.110303484,0.017553056,0.017908642,0.84821886
+1341,Eminem,Insult to Injury,sorrow,0.015520578,0.02,0.5,0.869991,0.14
+1342,Eminem,Rock Bottom,sorrow,0.12272342,0.011979339,0.067793496,0.7958073,0.001696448
+1343,Maroon 5,Not Coming Home,sorrow,0.016666667,0.9367645,0.166666667,0.333333333,0.133333333
+1344,Eminem,Zeus,sorrow,0.083333333,0.002603515,0.483333333,0.7587888,0.05
+1345,Eminem,"Low Down, Dirty",sorrow,0.006745048,0.023089303,0.26727143,0.85,0.03337096
+1346,Taylor Swift,The Outside,sorrow,0.03375852,0.87007684,0.4,0.116666667,0.35
+1347,Anson Seabra,Trying My Best,sorrow,0.783333333,0.34443444,0.0177532,0.033333333,0.55907667
+1348,Justin Bieber,Memphis,sorrow,0.016666667,0.06712876,0.266666667,0.133333333,0.91026235
+1349,Post Malone,Over Now,sorrow,0.031575765,0.47354916,0.2,0.333333333,0.39064002
+1350,Ariana Grande,​pov,sorrow,0.001609767,0.008898853,0.0002698,0.001546816,0.98767483
+1351,Ariana Grande,Problem (Dawin Remix),sorrow,0.017624507,0.06008858,0.006891157,0.010834981,0.90456086
+1352,Taylor Swift,Making Up for Lost Love,sorrow,0.058611926,0.6402145,0.004283404,0.316666667,0.26596892
+1353,Lady Gaga,Words,sorrow,0.6215924,0.2351743,0.133333333,0.166666667,0.366666667
+1354,Justin Bieber,Wish You Would,sorrow,0.012024993,0.066666667,0.3,0.87892205,0.3
+1355,Maroon 5,Tangled,sorrow,0.026510853,0.27302304,0.827586207,0.086206897,0.07879318
+1356,Lady Gaga,Your Freakin' Car (Demo),sorrow,0.1,0.233333333,0.066666667,0.383333333,0.9297793
+1357,Conan Gray,Heather,sorrow,0.004238147,0.001259943,0.008563223,0.6864257,0.29951304
+1358,Taylor Swift,my tears ricochet,sorrow,0.433333333,0.35,0.032868825,0.033333333,0.6436828
+1359,Ariana Grande,Rollercoaster,sorrow,0.006500272,0.35483871,0.419354839,0.7479421,0.129032258
+1360,Nicki Minaj,Misinformation,sorrow,0.021145081,0.5288336,0.196428571,0.09837496,0.625
+1361,Ariana Grande,​right there (live),sorrow,0.004366186,0.000658954,0.060606061,0.9799788,0.939393939
+1362,Justin Bieber,Hurry Up And Wait,sorrow,0.75079024,0.116666667,0.316666667,0.166666667,0.266666667
+1363,Ariana Grande,Better Days - Live from One Love Manchester,sorrow,0.069624044,0.006871068,0.044358876,0.4151748,0.46397117
+1364,Eminem,Groundhog Day,sorrow,0.10020194,0.016666667,0.85,0.3669407,0.05
+1365,Maroon 5,Maps,sorrow,0.006527658,0.062355265,0.001714024,0.009130943,0.9202721
+1366,Nicki Minaj,Come See About Me,sorrow,0.004489976,0.110852666,0.001511517,0.001709804,0.881436
+1367,Post Malone,School,sorrow,0.028153077,0.39522836,0.65,0.133333333,0.39776367
+1368,Justin Bieber,Fall (Acoustic) [Live],sorrow,0.033333333,0.266666667,0.233333333,0.116666667,0.9718132
+1369,Taylor Swift,I Almost Do,sorrow,0.005681783,0.38657665,0.133333333,0.183333333,0.616666667
+1370,Justin Bieber,Hard 2 Face Reality,sorrow,0.76068616,0.04104417,0.006311767,0.18881086,0.003147058
+1371,Ariana Grande,Right There (7th Heaven Radio Mix),sorrow,0.006429211,0.033333333,0.133333333,0.91836834,0.55
+1372,Justin Bieber,Start Again,sorrow,0.148148148,0.277777778,0.055555556,0.092592593,0.9354895
+1373,Cat Burns,go,sorrow,0.083333333,0.516666667,0.049463198,0.93044484,0.283333333
+1374,d4vd,Romantic Homicide,sorrow,0.003942697,0.92210805,0.007064298,0.001559895,0.065324955
+1375,Ruth B.,Dandelions,sorrow,0.001689802,0.001074962,0.000484395,0.0183974,0.97835344
+1376,Post Malone,No Option,sorrow,0.183333333,0.466666667,0.083333333,0.94158554,0.183333333
+1377,Justin Bieber,Emotional,sorrow,0.004530719,0.7004755,0.00731016,0.001115453,0.2865682
+1378,Ariana Grande,I Don’t Care,sorrow,0.118644068,0.5963317,0.2595421,0.13559322,0.338983051
+1379,Lady Gaga,1000 Doves,sorrow,0.21453844,0.05,0.2,0.23711818,0.733333333
+1380,Ariana Grande,How I Look on You,sorrow,0.043723743,0.21675205,0.07362142,0.10610861,0.5597942
+1381,Justin Bieber,Flatline,sorrow,0.020504769,0.7687056,0.1,0.366666667,0.20118165
+1382,Post Malone,Why Don't You Love Me,sorrow,0.016666667,0.19855037,0.316666667,0.466666667,0.6686228
+1383,Maroon 5,Payphone,sorrow,0.007352201,0.1404626,0.216666667,0.2,0.84200484
+1384,charli d'amelio,if you ask me to,sorrow,0.183333333,0.166666667,0.016666667,0.1,0.9141293
+1385,Ariana Grande,Intro,sorrow,0.004519903,0.00071566,0.009852052,0.033005707,0.9519068
+1386,Justin Bieber,Superficial*,sorrow,0.033333333,0.3,0.15,0.35,0.8844341
+1387,Post Malone,Lithium,sorrow,0.049864057,0.18080951,0.019335374,0.23681818,0.5131729
+1388,Jess Benko,A Soulmate Who Wasn’t Meant to Be,sorrow,0.95,0.27941036,0.002394964,0.001011286,0.71408767
+1389,Lady Gaga,Devastated,sorrow,0.3165834,0.08888626,0.26022306,0.2927266,0.85
+1390,Taylor Swift,What Do You Say,sorrow,0.00137784,0.183333333,0.266666667,0.066666667,0.9817109
+1391,Justin Bieber,All Bad,sorrow,0.014335053,0.08474955,0.73003656,0.283333333,0.55
+1392,Post Malone,My Friends,sorrow,0.05,0.020295585,0.3,0.8937059,0.06637789
+1393,Taylor Swift,Haunted,sorrow,0.012615596,0.70464706,0.6,0.066666667,0.2761385
+1394,BeyoncÃ©,Deja Vu (BeyoncÃ© Experience Live),sorrow,0.007660356,0.1,0.533333333,0.9556233,0.2
+1395,Taylor Swift,The Archer (Live from Paris),sorrow,0.02275422,0.33727378,0.61551577,0.015709555,0.008746715
+1396,Post Malone,Feel,sorrow,0.019609954,0.205882353,0.323529412,0.9446553,0.235294118
+1397,Taylor Swift,Death by a Thousand Cuts,sorrow,0.2479365,0.6124985,0.4,0.266666667,0.166666667
+1398,Taylor Swift,tis the damn season,sorrow,0.166666667,0.483333333,0.066666667,0.5130986,0.283333333
+1399,BeyoncÃ©,Listen,sorrow,0.083333333,0.2569161,0.15,0.333333333,0.6816993
+1400,Ariana Grande,Somewhere Over the Rainbow (Live From Manchester),sorrow,0.5341411,0.007003624,0.03102469,0.38849932,0.039331235
+1401,Taylor Swift,the 1,sorrow,0.066666667,0.5861754,0.25622806,0.233333333,0.1
+1402,Maroon 5,Not Coming Home (Demo),sorrow,0.016666667,0.9057202,0.8,0.05,0.1
+1403,Lady Gaga,Ev'ry Time We Say Goodbye,sorrow,0.2897547,0.095238095,0.119047619,0.6646666,0.333333333
+1404,Taylor Swift,Love To Lose,sorrow,0.020090165,0.074187376,0.011257509,0.24596547,0.6484996
+1405,Eminem,Darkness,sorrow,0.014677849,0.8690953,0.102634534,0.002566183,0.011026123
+1406,Selena Gomez,24-Jul,sorrow,0.004179554,0.111054406,0.290909091,0.001404519,0.88139653
+1407,Eminem,Marshall Mathers,sorrow,0.016666667,0.133333333,0.72254056,0.20195056,0.133333333
+1408,Nicki Minaj,Bring Me Down,sorrow,0.012880566,0.083333333,0.366666667,0.3,0.9314106
+1409,Harry Styles,Matilda,sorrow,0.05139296,0.41849867,0.2868671,0.16528292,0.0779584
+1410,Lady Gaga,No Way,sorrow,0.003927978,0.5911027,0.005313183,0.001050975,0.3986051
+1411,Ariana Grande,​borderline,sorrow,0.016949153,0.002082165,0.084745763,0.5136488,0.4644024
+1412,Taylor Swift,The Story of Us,sorrow,0.007792431,0.14818396,0.003756873,0.003424153,0.83684266
+1413,Lauren Spencer Smith,Best Friend Breakup,sorrow,0.063829787,0.9009251,0.14893617,0.425531915,0.106382979
+1414,Nicki Minaj,Monsé*,sorrow,0.017995775,0.292682927,0.89898854,0.390243902,0.219512195
+1415,Ariana Grande,Piano (Early Version),sorrow,0.033333333,0.65,0.183333333,0.28604537,0.6791189
+1416,Justin Bieber,Overrated,sorrow,0.015668623,0.8845195,0.128205128,0.153846154,0.564102564
+1417,Ashley Singh,Keep Me - Acoustic,sorrow,0.448275862,0.7587417,0.002761836,0.017241379,0.22751187
+1418,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),sorrow,0.1,0.8420329,0.05,0.1,0.366666667
+1419,Eminem,Cocaine,sorrow,0.035714286,0.053571429,0.214285714,0.9206127,0.660714286
+1420,Taylor Swift,Fall Back On You,sorrow,0.023675451,0.133333333,0.066666667,0.7471587,0.566666667
+1421,Justin Bieber,That Should Be Me (Remix),sorrow,0.166666667,0.48776808,0.2,0.25,0.49252906
+1422,Taylor Swift,All You Had to Do Was Stay,sorrow,0.010010459,0.4500332,0.022860201,0.004572932,0.51252323
+1423,Post Malone,I Fall Apart,sorrow,0.008940293,0.08365565,0.012359937,0.0910166,0.8040276
+1424,Ariana Grande,Right here,sorrow,0.07942297,0.083333333,0.533333333,0.8467303,0.25
+1425,Ariana Grande,The Way (Spanglish Version),sorrow,0.016666667,0.066666667,0.166666667,0.6574894,0.533333333
+1426,Taylor Swift,Your Face,sorrow,0.001547511,0.010297738,0.000538191,0.001727395,0.9858892
+1427,Haley Joelle,Two Places at Once,sorrow,0.35,0.5,0.014604222,0.1,0.91667646
+1428,Maroon 5,Sad,sorrow,0.316666667,0.74760246,0.083333333,0.116666667,0.07434274
+1429,Ariana Grande,Love Me Harder (Gregor Salto Amsterdam Mix),sorrow,0.032497432,0.030819234,0.023763219,0.1498186,0.7631015
+1430,Nicki Minaj,Ganja Burn,sorrow,0.016666667,0.433333333,0.9832969,0.083333333,0.116666667
+1431,Taylor Swift,Back to December / Apologize / You're Not Sorry (Live/2011),sorrow,0.166666667,0.55316216,0.383333333,0.15,0.43626794
+1432,Eminem,Stepdad,sorrow,0.06620426,0.02606311,0.916666667,0.8314816,0.001417984
+1433,Eminem,Letter to Tupac’s Mother,sorrow,0.02263504,0.2,0.25,0.69014215,0.45
+1434,Eminem,Remind Me (Intro),sorrow,0.002061131,0.049324874,0.716666667,0.066666667,0.9430443
+1435,Lady Gaga,Angel Down (Work Tape),sorrow,0.195652174,0.130434783,0.369565217,0.7709989,0.195652174
+1436,Post Malone,Oh God,sorrow,0.010607029,0.002409719,0.007208736,0.978365,0.001409533
+1437,Eminem,Guts Over Fear,sorrow,0.015453631,0.1,0.816666667,0.66586787,0.016666667
+1438,Ariana Grande,God is a woman,sorrow,0.002201878,0.183333333,0.133333333,0.05,0.9921698
+1439,Taylor Swift,cardigan (the long pond studio sessions),sorrow,0.25,0.683333333,0.009654501,0.36802357,0.55770344
+1440,Benson Boone,GHOST TOWN,sorrow,0.15,0.6336062,0.04579103,0.333333333,0.23738687
+1441,BeyoncÃ©,Slow Love,sorrow,0.15,0.65,0.016666667,0.033333333,0.9932191
+1442,Lady Gaga,911,sorrow,0.38748756,0.36419007,0.385964912,0.385964912,0.210526316
+1443,Taylor Swift,Stupid Boy,sorrow,0.283333333,0.316666667,0.066666667,0.3,0.8047618
+1444,Eminem,Guilty Conscience (A Cappella),sorrow,0.068863995,0.383333333,0.8969139,0.233333333,0.183333333
+1445,Selena Gomez,Disappear,sorrow,0.03263879,0.769163,0.471698113,0.094339623,0.358490566
+1446,Ariana Grande,​needy,sorrow,0.035087719,0.385964912,0.210526316,0.087719298,0.9660763
+1447,Eminem,Going Through Changes,sorrow,0.017650153,0.2,0.75108576,0.083333333,0.016666667
+1448,Nicki Minaj,You Won't See Me Cry,sorrow,0.066666667,0.84625036,0.35,0.1,0.433333333
+1449,BeyoncÃ©,Partition (Homecoming Live),sorrow,0.216666667,0.003592375,0.083333333,0.90633565,0.683333333
+1450,Taylor Swift,Death by a Thousand Cuts (Live from Paris),sorrow,0.05,0.08496556,0.002517541,0.733333333,0.88778466
+1451,Taylor Swift,Breathe,sorrow,0.0487178,0.35,0.05,0.166666667,0.8018768
+1452,Ariana Grande,All i want,sorrow,0.022994172,0.1,0.016666667,0.083333333,0.94357955
+1453,Taylor Swift,The Other Side of the Door,sorrow,0.026535816,0.94918686,0.007680399,0.001744636,0.014852234
+1454,Nicki Minaj,Can Anybody Hear Me,sorrow,0.09557755,0.183333333,0.666666667,0.47558996,0.05
+1455,Nicki Minaj,High School,sorrow,0.039215686,0.098039216,0.529411765,0.9632674,0.196078431
+1456,Post Malone,Too Much,sorrow,0.1,0.3,0.89326864,0.2,0.25
+1457,Phoebe Bridgers,Scott Street,sorrow,0.05,0.633333333,0.11414908,0.16007243,0.33571842
+1458,Taylor Swift,august,sorrow,0.006936382,0.34021664,0.003729775,0.003759883,0.6453573
+1459,P!nk,When I Get There,sorrow,0.003193494,0.001290674,0.000468248,0.013006187,0.98204136
+1460,Nicki Minaj,Regret In Your Tears,sorrow,0.006586725,0.22525539,0.026081301,0.004504093,0.73757243
+1461,Taylor Swift,Dear John,sorrow,0.0345791,0.36826026,0.009714425,0.048453987,0.5389923
+1462,Taylor Swift,You're Not Sorry,sorrow,0.083333333,0.35,0.05,0.083333333,0.6636879
+1463,Justin Bieber,Omaha Mall,sorrow,0.001850069,0.000420719,0.015966829,0.97935486,0.00240743
+1464,Lady Gaga,Joanne (Where Do You Think You're Goin'?) [Piano Version],sorrow,0.25,0.366666667,0.016666667,0.009270073,0.92878515
+1465,Justin Bieber,Mark My Words,sorrow,0.25,0.340909091,0.045454545,0.022727273,0.9409838
+1466,Post Malone,Never Understand,sorrow,0.059301805,0.007140454,0.24042876,0.69209105,0.001037902
+1467,Ariana Grande,Breathin (SG Lewis Remix),sorrow,0.20129736,0.07770157,0.072782226,0.45132345,0.19689535
+1468,Taylor Swift,Tied Together with a Smile,sorrow,0.004470979,0.20349266,0.06391801,0.010038213,0.71808016
+1469,BeyoncÃ©,Bonnie And Clyde Medley (The Beyonce Experience Live),sorrow,0.004988333,0.1875,0.21875,0.982625,0.28125
+1470,Maroon 5,Losing My Mind,sorrow,0.001941609,0.533333333,0.05,0.316666667,0.93482
+1471,Eminem,"Low, Down, Dirty (Unmastered Sequence version)",sorrow,0.006745048,0.1,0.666666667,0.6695233,0.133333333
+1472,Taylor Swift,the 1 (the long pond studio sessions),sorrow,0.039103087,0.27792847,0.38900453,0.13547155,0.1584924
+1473,Jamie Miller,I Lost Myself In Loving You,sorrow,0.266666667,0.8731789,0.033333333,0.033333333,0.283333333
+1474,Justin Bieber,Take It Out On Me,sorrow,0.17793697,0.22179385,0.383333333,0.25,0.44325042
+1475,Zeph,could you love me while i hate myself,sorrow,0.15,0.5,0.05,0.001325848,0.62549335
+1476,Post Malone,Big Lie,sorrow,0.05,0.116666667,0.533333333,0.83339673,0.016666667
+1477,Lewis Capaldi,Wish You The Best,sorrow,0.003735301,0.16689312,0.001388318,0.001318913,0.8266644
+1478,Nicki Minaj,Tragedy,sorrow,0.002451383,0.002459576,0.10802408,0.8846586,0.002406423
+1479,Taylor Swift,exile (the long pond studio sessions),sorrow,0.1,0.85,0.045660615,0.47828078,0.4099408
+1480,Justin Bieber,How To Love (Remix),sorrow,0.05199076,0.036731794,0.26440102,0.20017314,0.44670328
+1481,Taylor Swift,Back to December,sorrow,0.05,0.62538314,0.25,0.483333333,0.36220166
+1482,Lady Gaga,I'll Never Love Again (Film Version),sorrow,0.009145819,0.048658747,0.00587572,0.07757267,0.85874707
+1483,Eminem,The Kids (Demo),sorrow,0.00759631,0.001306717,0.031097287,0.9585682,0.001431415
+1484,Nicki Minaj,Sorry,sorrow,0.009108646,0.3,0.45,0.1,0.8734815
+1485,Jessie Murph,How Could You,sorrow,0.004682909,0.7724259,0.003781474,0.000935421,0.21817422
+1486,Nicki Minaj,Autobiography,sorrow,0.30752105,0.28278178,0.099819876,0.2817329,0.02814449
+1487,Post Malone,Drain You,sorrow,0.016666667,0.266666667,0.683333333,0.18667306,0.782941
+1488,Maroon 5,Sweetest Goodbye (live),sorrow,0.033333333,0.066666667,0.633333333,0.2,0.9491522
+1489,Justin Bieber,Double Negative*,sorrow,0.07662955,0.8844215,0.116666667,0.033333333,0.816666667
+1490,Ariana Grande,"Oh, Darling",sorrow,0.07676706,0.8,0.0487307,0.44514316,0.4141007
+1491,Post Malone,Circles,sorrow,0.033333333,0.183333333,0.116666667,0.65,0.24676038
+1492,Ariana Grande,Step on Up,sorrow,0.26842582,0.133333333,0.166666667,0.64351404,0.583333333
+1493,Eminem,Nowhere Fast,sorrow,0.18391274,0.007647938,0.34063742,0.46704784,0.000754045
+1494,Ariana Grande,Positions (Clean),sorrow,0.01754386,0.014042554,0.035087719,0.245614035,0.8968184
+1495,Justin Bieber,Nothing Like Us,sorrow,0.583333333,0.25,0.016666667,0.001382298,0.91401505
+1496,Justin Bieber,E.T.A.,romance,0.13776146,0.15,0.031409238,0.38845855,0.75
+1497,Ariana Grande,​sweetener (live),romance,0.006836082,0.05,0.008195026,0.9806287,0.95
+1498,BeyoncÃ©,Get Me Bodied (BeyoncÃ© Experience Live),romance,0.006386196,0.25,0.35,0.9792835,0.4
+1499,BeyoncÃ©,Partition Remix (Unreleased),romance,0.010193337,0.000677275,0.034973852,0.9517382,0.95
+1500,BeyoncÃ©,Run the World (Girls) (Dave AudÃ© Club Remix),romance,0.003662723,0.001603185,0.21190922,0.7803131,0.002511815
+1501,Billie Eilish,​​ocean eyes,romance,0.05228227,0.2215819,0.061723977,0.1,0.8
+1502,BeyoncÃ©,All I Could Do Was Cry,romance,0.083333333,0.05,0.066666667,0.5583074,0.566666667
+1503,Taylor Swift,I'd Lie,romance,0.07484317,0.44343218,0.083333333,0.066666667,0.766666667
+1504,Taylor Swift,Love Story,romance,0.068119064,0.266666667,0.2,0.233333333,0.7803782
+1505,Billie Eilish,Something (The Beatles Cover),romance,0.95,0.002584815,0.003090941,0.01688746,0.97549903
+1506,Charles Aznavour,How Sad Venice Can Be,romance,0.899669,0.5,0.05,0.3,0.005022496
+1507,Eminem,She Loves Me,romance,0.004421365,0.45,0.45,0.7242334,0.09352722
+1508,BeyoncÃ©,Standing On The Sun,romance,0.010856837,0.05,0.1,0.14518023,0.8377809
+1509,Justin Bieber,Hey Girl (Unreleased),romance,0.05,0.05,0.25,0.45,0.9920001
+1510,Billie Eilish,WHEN I WAS OLDER,romance,0.6310535,0.024569534,0.10053809,0.35,0.65
+1511,Billie Eilish,Bad guy (Topic Remix),romance,0.080489315,0.3,0.53586596,0.19128175,0.117876805
+1512,Taylor Swift,You Are in Love,romance,0.019148376,0.05,0.006113868,0.33532473,0.75
+1513,BeyoncÃ©,Haunted,romance,0.015284528,0.001597969,0.19999884,0.7819417,0.8
+1514,BeyoncÃ©,Green Light,romance,0.014445064,0.4159407,0.433333333,0.15,0.416666667
+1515,BeyoncÃ©,Letter To Michelle Obama,romance,0.2737432,0.15,0.065069444,0.63978106,0.8
+1516,BeyoncÃ©,Speechless (BeyoncÃ© Experience Live),romance,0.009085145,0.55,0.000388154,0.1,0.9839352
+1517,Lady Gaga,You and I - Wild Beasts Remix,romance,0.05,0.00192879,0.001587412,0.3,0.98350775
+1518,BeyoncÃ©,Ego (Twinsmatic Remix),romance,0.016666667,0.2,0.116666667,0.066666667,0.9792475
+1519,BeyoncÃ©,Freedom (Homecoming Live),romance,0.074074074,0.259259259,0.771891,0.222222222,0.333333333
+1520,Robbie Williams,Angels,romance,0.776061,0.32183908,0.16091954,0.06560835,0.482758621
+1521,Ed Sheeran,Thinking out Loud,romance,0.130434783,0.326086957,0.043478261,0.152173913,0.990811
+1522,Toni Braxton,Un-Break My Heart,romance,0.08988764,0.5166727,0.002584952,0.101123596,0.662921348
+1523,BeyoncÃ©,Upgrade U (BeyoncÃ© Experience Live),romance,0.022244433,0.000766339,0.89553446,0.07448829,0.89010989
+1524,BeyoncÃ©,Intro,romance,0.016752489,0.031578947,0.09148088,0.8857269,0.810526316
+1525,Taylor Swift,Enchanted,romance,0.085470085,0.111111111,0.111111111,0.11965812,0.97922826
+1526,Ariana Grande,​reMeMber,romance,0.184210526,0.78785896,0.092105263,0.118421053,0.473684211
+1527,Ariana Grande,"​break up with your girlfriend, i’m bored (live)",romance,0.005144163,0.0100733,0.027027027,0.051151805,0.972972973
+1528,Justin Bieber,Take You,romance,0.095238095,0.396825397,0.063492063,0.111111111,0.91164273
+1529,BeyoncÃ©,Halo (Dave AudÃ© Club Remix),romance,0.008258416,0.000610264,0.003629129,0.023472155,0.9640301
+1530,Ariana Grande,​shut up,romance,0.019230769,0.461538462,0.010781633,0.9199375,0.461538462
+1531,Ariana Grande,​goodnight n go,romance,0.001308259,0.1,0.05,0.010050936,0.9849274
+1532,BeyoncÃ©,The Formation World Tour,romance,0.006274956,0.005034936,0.45,0.93969727,0.5
+1533,Cardi B,Booty*,romance,0.016129032,0.001260368,0.306451613,0.84241563,0.677419355
+1534,Ariana Grande,Honeymoon Avenue,romance,0.017699115,0.017699115,0.088495575,0.91348904,0.796460177
+1535,Justin Bieber,All I Want Is You,romance,0.016666667,0.033333333,0.183333333,0.133333333,0.97152585
+1536,BeyoncÃ©,Roc,romance,0.001006431,0.000988771,0.120481928,0.002077281,0.99563545
+1537,Ariana Grande,​everytime,romance,0.008799082,0.14582646,0.210526316,0.103755884,0.736842105
+1538,Billie Eilish,Secret,romance,0.073170732,0.004979062,0.12195122,0.06097561,0.94451
+1539,BeyoncÃ©,Sandcastles,romance,0.032967033,0.4271506,0.076923077,0.043956044,0.769230769
+1540,BeyoncÃ©,Daddy Lessons (Remix),romance,0.002704844,0.0078125,0.5078125,0.98708284,0.390625
+1541,Ariana Grande,​successful (live),romance,0.00842671,0.024390244,0.024390244,0.7769749,0.926829268
+1542,Taylor Swift,Ain't Nothing 'Bout You,romance,0.001791955,0.116666667,0.05,0.033333333,0.9865188
+1543,Maroon 5,Closer (Live),romance,0.05,0.52529645,0.066666667,0.033333333,0.833333333
+1544,Selena Gomez,Perfect,romance,0.000618793,0.133333333,0.1,0.166666667,0.9899693
+1545,BeyoncÃ©,A Woman Like Me,romance,0.016666667,0.09699579,0.066666667,0.018620906,0.883333333
+1546,BeyoncÃ©,Iâm Alone Now,romance,0.060724627,0.785709,0.133333333,0.033333333,0.683333333
+1547,Billie Eilish,​call me back,romance,0.17514433,0.7719727,0.021985173,0.016749255,0.783333333
+1548,Billie Eilish,Cant Help Falling In Love,romance,0.428571429,0.017857143,0.001528885,0.071428571,0.9840516
+1549,Justin Bieber,One Less Lonely Girl (French Vocal),romance,0.009968469,0.6381892,0.583333333,0.116666667,0.33673212
+1550,BeyoncÃ©,Baby Boy [Juniorâs World Mixshow],romance,0.028975422,0.039215686,0.215686275,0.235294118,0.9057977
+1551,Ariana Grande,Love,romance,0.05,0.183333333,0.183333333,0.1,0.9857781
+1552,BeyoncÃ©,Mi Gente [Homecoming Live],romance,0.011107555,0.017241379,0.037916448,0.94724685,0.965517241
+1553,Taylor Swift,Look At You Like That*,romance,0.005167743,0.183333333,0.266666667,0.066666667,0.869902
+1554,Ariana Grande,​better off,romance,0.023899786,0.81193817,0.105263158,0.087719298,0.649122807
+1555,Billie Eilish,Six Feet Under (BLU J Remix),romance,0.016666667,0.133333333,0.133333333,0.25,0.95078015
+1556,Justin Bieber,Holy (Acoustic),romance,0.083333333,0.466666667,0.083333333,0.21942541,0.56521463
+1557,Selena Gomez,Kinda Crazy,romance,0.05,0.083333333,0.050230928,0.41383266,0.683333333
+1558,Billie Eilish,Bored,romance,0.220338983,0.457627119,0.017101765,0.050847458,0.9362173
+1559,Eminem,Listen To Your Heart,romance,0.15899111,0.42844564,0.283333333,0.216666667,0.26733422
+1560,Ariana Grande,Hope Is The Song,romance,0.29542398,0.157894737,0.40241212,0.2927858,0.649122807
+1561,BeyoncÃ©,Cali Girl Dreams,romance,0.016666667,0.016666667,0.1,0.97779036,0.866666667
+1562,BeyoncÃ©,Sorry (Homecoming Live),romance,0.08772678,0.18271008,0.030985428,0.67086864,0.9191548
+1563,Dusty Springfield,If You Go Away,romance,0.116666667,0.166666667,0.003904361,0.016666667,0.9723442
+1564,Eminem,Hailie’s Song,romance,0.32439828,0.1,0.55,0.449489,0.35
+1565,BeyoncÃ©,Fingertips/Master Blaster (Jamminâ)/Higher Ground [Live at the âStevie Wonder Tribute âSongs In The Key of Lifeâ],romance,0.032002825,0.016666667,0.7,0.93880576,0.25
+1566,Billie Eilish,​​party favor,romance,0.1,0.183333333,0.41123047,0.20281872,0.7
+1567,Nicki Minaj,Your Love,romance,0.030131565,0.004868546,0.033333333,0.88536626,0.966666667
+1568,Ariana Grande,​nasty,romance,0.010189927,0.033333333,0.066666667,0.066666667,0.9167293
+1569,Ariana Grande,34+35 (DJ Siembab Remix),romance,0.016469633,0.06,0.5188673,0.4565818,0.74
+1570,Cardi B,Up,romance,0.017856957,0.001479758,0.69867676,0.28166893,0.826923077
+1571,BeyoncÃ©,Forward,romance,0.50245535,0.016666667,0.11866947,0.372134,0.866666667
+1572,BeyoncÃ©,Start Over,romance,0.05,0.378589,0.033333333,0.066666667,0.633333333
+1573,Ariana Grande,​blazed,romance,0.012836695,0.001001597,0.024028724,0.6702491,0.916666667
+1574,BeyoncÃ©,Black Culture,romance,0.008008523,0.001374051,0.004977229,0.88812125,1
+1575,Justin Bieber,All That Matters,romance,0.05,0.04166629,0.15,0.116666667,0.9172529
+1576,BeyoncÃ©,Beautiful Liar (BeyoncÃ© Experience Live),romance,0.06913693,0.3221944,0.1875,0.0625,0.729166667
+1577,Justin Bieber,Looking For You,romance,0.030051133,0.066666667,0.25,0.5516975,0.533333333
+1578,Ariana Grande,7 rings (live)​,romance,0.006395398,0.000662518,0.05,0.98410344,0.95
+1579,BeyoncÃ©,Work It Out,romance,0.033333333,0.1,0.3382918,0.50793684,0.783333333
+1580,Lady Gaga,Second Time Around,romance,0.014024147,0.9217118,0.027018739,0.033333333,0.95
+1581,BeyoncÃ©,Partition,romance,0.016666667,0.000768759,0.033333333,0.98044306,0.883333333
+1582,Ellie Goulding,How Long Will I Love You,romance,0.176470588,0.333333333,0.156862745,0.078431373,0.99375147
+1583,Taylor Swift,Delicate (Seeb Remix),romance,0.133333333,0.166666667,0.133333333,0.183333333,0.99346995
+1584,Taylor Swift,Teardrops On My Guitar (Cahill Radio Edit),romance,0.016666667,0.033333333,0.15,0.183333333,0.9427672
+1585,Enrique Iglesias,Hero,romance,0.166666667,0.566666667,0.083333333,0.083333333,0.9630687
+1586,Lara Fabian,Love by Grace,romance,0.2,0.7217727,0.016666667,0.001882628,0.466666667
+1587,Billie Eilish,​bury a friend (Elijah Hill Remix),romance,0.23815763,0.5,0.584979,0.1660476,0.15
+1588,Justin Bieber,Come Around Me,romance,0.05,0.000954912,0.001031698,0.003611352,0.9936433
+1589,BeyoncÃ©,Summertime,romance,0.1,0.166666667,0.05,0.973571,0.666666667
+1590,Ariana Grande,Break Free (Avicii Remix),romance,0.008238575,0.9266315,0.25,0.133333333,0.483333333
+1591,BeyoncÃ©,BLACK PARADE (Extended),romance,0.010773437,0.000988711,0.028622592,0.9590866,1
+1592,Selena Gomez,Perfect (Unreleased),romance,0.018181818,0.036363636,0.254545455,0.036363636,0.9876857
+1593,Billie Eilish,Watch (Cole Jackson Remix),romance,0.00123491,0.042961262,0.183333333,0.266666667,0.9524565
+1594,BeyoncÃ©,If Looks Could Kill (You Would Be Dead),romance,0.016666667,0.133333333,0.070289575,0.9217801,0.733333333
+1595,Ronan Keating,When You Say Nothing At All,romance,0.2,0.35,0.116666667,0.066666667,0.99455136
+1596,Maroon 5,This Love (Cut Copy Galactic Beach House Mix),romance,0.014048338,0.93446153,0.366666667,0.05,0.04378954
+1597,BeyoncÃ©,Everything I Do,romance,0.05,0.016666667,0.733333333,0.2,0.99347395
+1598,BeyoncÃ©,"Me, Myself & I (Remix)",romance,0.018662749,0.15,0.483333333,0.7441299,0.15
+1599,BeyoncÃ©,Irreplaceable (BeyoncÃ© Experience Live),romance,0.1,0.266666667,0.27198043,0.43925217,0.2143736
+1600,Maroon 5,If I Fell,romance,0.016666667,0.033333333,0.066666667,0.45,0.9882436
+1601,Billie Eilish,‌ocean eyes (Live),romance,0.383333333,0.6810869,0.02044161,0.05,0.35
+1602,Ariana Grande,Pink Champagne,romance,0.002686512,0.1,0.55,0.99112433,0.25
+1603,Cardi B,Thru Your Phone,romance,0.033333333,0.1,0.3066663,0.6811747,0.55
+1604,Lady Gaga,Electric Kiss,romance,0.02965815,0.616666667,0.066666667,0.9158125,0.03756222
+1605,BeyoncÃ©,Settle 4 U,romance,0.003121133,0.033333333,0.133333333,0.216666667,0.96671194
+1606,BeyoncÃ©,Hello (Live),romance,0.033333333,0.05351999,0.583333333,0.083333333,0.8733962
+1607,BeyoncÃ©,Time To Come Home,romance,0.6824141,0.03389168,0.018834097,0.2579349,0.9
+1608,Billie Eilish,Hostage (sonn Remix),romance,0.266666667,0.10618831,0.000837816,0.583333333,0.88653016
+1609,BeyoncÃ©,Hard To Say Goodbye,romance,0.008047489,0.222222222,0.333333333,0.111111111,0.8867385
+1610,Cardi B,I Gotta Hurt You,romance,0.05,0.8655336,0.25,0.266666667,0.316666667
+1611,BeyoncÃ©,Intro - Live,romance,0.02293731,0.016666667,0.266666667,0.91495675,0.166666667
+1612,Ariana Grande,The Way It Is,romance,0.03299799,0.066666667,0.65816,0.22199495,0.533333333
+1613,BeyoncÃ©,Hello,romance,0.033333333,0.05315882,0.583333333,0.083333333,0.8513129
+1614,Justin Bieber,Get Me,romance,0.016666667,0.010930015,0.166666667,0.566666667,0.97169816
+1615,Eminem,So Bad,romance,0.003088862,0.1,0.566666667,0.1,0.8363814
+1616,BeyoncÃ©,Sweet Dreams,romance,0.28270638,0.066666667,0.133333333,0.26175088,0.666666667
+1617,Lady Gaga,Shallow (Joe Biden Election Night Rally 2020),romance,0.045497917,0.053571429,0.049887765,0.6359768,0.642857143
+1618,BeyoncÃ©,Anger,romance,0.00345866,0.05,0.166666667,0.033333333,0.9689144
+1619,Eminem,Beautiful (Radio Edit),romance,0.022098469,0.883333333,0.083333333,0.022144005,0.2109954
+1620,BeyoncÃ©,Amor Gitano,romance,0.007242489,0.066666667,0.083333333,0.383333333,0.7163207
+1621,BeyoncÃ©,Listen (Live),romance,0.033333333,0.183333333,0.133333333,0.433333333,0.8634917
+1622,Ariana Grande,One Last Time (Gazzo Remix),romance,0.016666667,0.3685547,0.1,0.533333333,0.61891365
+1623,BeyoncÃ©,Lost Yo Mind,romance,0.05,0.4529036,0.3636927,0.066666667,0.533333333
+1624,BeyoncÃ©,Baby Boy (Live),romance,0.022656592,0.013373539,0.133333333,0.5026044,0.733333333
+1625,BeyoncÃ©,Smash Into You (Lost Daze Remix),romance,0.002859286,0.1,0.083333333,0.666666667,0.9595414
+1626,Justin Bieber,Forever,romance,0.02976598,0.12592465,0.516666667,0.15,0.828951
+1627,BeyoncÃ©,Blue,romance,0.05,0.066666667,0.216666667,0.183333333,0.98793215
+1628,Billie Eilish,​sHE’s brOKen,romance,0.389830508,0.71872437,0.021516273,0.033898305,0.203389831
+1629,Ariana Grande,​make up,romance,0.021276596,0.021276596,0.042553191,0.085106383,0.9855312
+1630,Adele,Make You Feel My Love,romance,0.133333333,0.333333333,0.116666667,0.08528395,0.7278443
+1631,BeyoncÃ©,Dangerously In Love 2,romance,0.1,0.383333333,0.1,0.2,0.99515826
+1632,Justin Bieber,I Wanna Be,romance,0.007155608,0.07387801,0.483333333,0.483333333,0.9050351
+1633,Billie Eilish,The Hill,romance,0.6146793,0.20495427,0.25,0.3,0.25
+1634,Ariana Grande,Baby I (a-Director’s Cut Radio Edit),romance,0.016666667,0.8062814,0.083333333,0.05,0.833333333
+1635,Maroon 5,This Love (Junior Sirius edit),romance,0.04209003,0.2,0.166666667,0.416666667,0.8315197
+1636,"Lady Gaga, Bradley Cooper",I'll Never Love Again,romance,0.233333333,0.466666667,0.033333333,0.003608751,0.57725346
+1637,Lady Gaga,Always Remember Us This Way,romance,0.083333333,0.35,0.116666667,0.133333333,0.80566335
+1638,Eminem,River,romance,0.050779782,0.8198365,0.233333333,0.2,0.1
+1639,Taylor Swift,Dress,romance,0.003549426,0.017519472,0.233333333,0.35,0.97564554
+1640,BeyoncÃ©,Green Light (HBA Remix),romance,0.015958035,0.001709726,0.37246934,0.607943,0.566666667
+1641,BeyoncÃ©,Sweet Dreams (OK DAC Remix),romance,0.05242403,0.066666667,0.516666667,0.15160544,0.7859942
+1642,Lady Gaga,Brown Eyes,romance,0.083333333,0.6,0.066666667,0.07940581,0.89071774
+1643,BeyoncÃ©,Baby Boy (Alternative Version),romance,0.021187292,0.08317591,0.133333333,0.59771365,0.733333333
+1644,BeyoncÃ©,Sweet Dreams (Dave Spoon Remix),romance,0.28270638,0.033333333,0.216666667,0.26175088,0.583333333
+1645,Ariana Grande,Piano,romance,0.35,0.5,0.05,0.92059016,0.1
+1646,Ariana Grande,​you,romance,0.79296553,0.35,0.05,0.166666667,0.433333333
+1647,BeyoncÃ©,Drunk in Love,romance,0.066666667,0.083333333,0.2,0.68291074,0.45
+1648,Michael Bublé,You Don't Know Me,romance,0.1,0.05,0.033333333,0.283333333,0.9949751
+1649,Taylor Swift,Lover (Remix),romance,0.05,0.25,0.116666667,0.22902428,0.7326317
+1650,Eminem,Everything I Do,romance,0.2,0.016666667,0.69251573,0.27461553,0.183333333
+1651,Justin Bieber,I Would,romance,0.05,0.003378119,0.15,0.116666667,0.84552354
+1652,Justin Bieber,Reckless Love (HXLY KXSS Edit),romance,0.044791944,0.5446752,0.518518519,0.018518519,0.222222222
+1653,Justin Bieber,Faithful,romance,0.016862664,0.1,0.54,0.2,0.9012841
+1654,Ariana Grande,​hopeless romantic*,romance,0.027777778,0.222222222,0.1036589,0.7199584,0.472222222
+1655,Ariana Grande,Jason’s Song (Gave It Away),romance,0.033333333,0.92946887,0.2,0.216666667,0.216666667
+1656,BeyoncÃ©,7/11 (Homecoming Live),romance,0.07171712,0.083333333,0.17695752,0.7463045,0.75
+1657,Eminem,Old Time’s Sake,romance,0.019750856,0.016666667,0.866666667,0.7928121,0.000854964
+1658,BeyoncÃ©,Rather Die Young,romance,0.016666667,0.15,0.1,0.15,0.94383425
+1659,Taylor Swift,Love Story (Digital Dog Remix),romance,0.068119064,0.1,0.05,0.35,0.7803782
+1660,Billie Eilish,​when the party’s over (SAYA Remix),romance,0.033333333,0.43076533,0.066666667,0.466666667,0.5301791
+1661,Ariana Grande,no tears left to cry,romance,0.03050822,0.083333333,0.416666667,0.8268331,0.5
+1662,Eminem,Favorite Bitch,romance,0.013153942,0.333333333,0.18353385,0.77916956,0.006167252
+1663,BeyoncÃ©,Check On It (Live),romance,0.04709939,0.033333333,0.5,0.83232504,0.4
+1664,Justin Bieber,Boyfriend (Remix),romance,0.002699434,0.033333333,0.116666667,0.95955575,0.733333333
+1665,Lady Gaga,Charlotte Nights,romance,0.016666667,0.0628687,0.1,0.30823445,0.866666667
+1666,Kelly Clarkson,Because of You,romance,0.10982496,0.483333333,0.066666667,0.05,0.79675585
+1667,BeyoncÃ©,Countdown (Homecoming Live),romance,0.020808583,0.00416426,0.433333333,0.15,0.8982356
+1668,BeyoncÃ©,Suga Mama,romance,0.1,0.35,0.1,0.35116166,0.5544871
+1669,Taylor Swift,I Want You Back (Live/2011),romance,0.033333333,0.6708508,0.233333333,0.366666667,0.3105978
+1670,Ariana Grande,Them Changes (BBC Radio 1 Live Lounge),romance,0.083333333,0.8308156,0.183333333,0.483333333,0.15783279
+1671,BeyoncÃ©,"Me, Myself and I",romance,0.066666667,0.03065874,0.083333333,0.583333333,0.9587455
+1672,BeyoncÃ©,Blow (Country Club Martini Crew Remix Edit),romance,0.005077566,0.05,0.166666667,0.2,0.95134306
+1673,Lady Gaga,Stuck on Fuckin' You,romance,0.005800306,0.02200023,0.35,0.004893645,0.9661265
+1674,Eminem,Cum on Everybody,romance,0.001825659,0.000503308,0.5,0.9904039,0.2
+1675,Katie Melua,I Cried For You,romance,0.433333333,0.133333333,0.000959436,0.116666667,0.9576778
+1676,Ariana Grande,One Last Time (Fedez Remix),romance,0.033333333,0.2570171,0.25,0.416666667,0.72909003
+1677,BeyoncÃ©,The Closer I Get to You,romance,0.1,0.233333333,0.216666667,0.083333333,0.9856596
+1678,Lady Gaga,Fashion of His Love,romance,0.033333333,0.070160575,0.016666667,0.216666667,0.9205857
+1679,Lady Gaga,In Like With You,romance,0.233333333,0.466666667,0.033333333,0.000775125,0.9111509
+1680,Cardi B,What A Girl Likes,romance,0.002278835,0.001448604,0.361702128,0.7757163,0.638297872
+1681,Ariana Grande,Intro (C&C),romance,0.318181818,0.00121917,0.181818182,0.9730608,0.363636364
+1682,BeyoncÃ©,Hip Hop Star,romance,0.017264389,0.15,0.283333333,0.88668907,0.466666667
+1683,Taylor Swift,Lover (Piano/Vocal),romance,0.17987475,0.683333333,0.066666667,0.7418038,0.1
+1684,BeyoncÃ©,Single Ladies (Put a Ring on It) [Homecoming Live],romance,0.003551525,0.033333333,0.133333333,0.8171916,0.8
+1685,Billie Eilish,Ocean Eyes (Young Bombs Remix),romance,0.045621905,0.61176306,0.333333333,0.15,0.287796
+1686,Mariah Carey,Without You,romance,0.15,0.44745487,0.066666667,0.05,0.5328295
+1687,Taylor Swift,You Belong with Me,romance,0.12932959,0.233333333,0.40417212,0.39104462,0.566666667
+1688,Ariana Grande,Quit (Demo),romance,0.052936547,0.2,0.216666667,0.40994453,0.483333333
+1689,Taylor Swift,King of My Heart,romance,0.016666667,0.166666667,0.083333333,0.15,0.9551537
+1690,BeyoncÃ©,Ring The Alarm (Tranzformas Remix),romance,0.008332844,0.133333333,0.116666667,0.366666667,0.8897339
+1691,Justin Bieber,Die in Your Arms,romance,0.002032887,0.266666667,0.283333333,0.216666667,0.7772923
+1692,BeyoncÃ©,Dance for You,romance,0.083333333,0.116666667,0.15,0.166666667,0.9660572
+1693,BeyoncÃ©,Sexy Lilâ Thug (Remix),romance,0.001865395,0.000524681,0.383333333,0.98586243,0.316666667
+1694,BeyoncÃ©,Green Light Medley (The Beyonce Experience Live),romance,0.005636066,0.25,0.7835522,0.233333333,0.283333333
+1695,Justin Bieber,Can’t Live Without You,romance,0.001450824,0.35,0.05,0.166666667,0.981009
+1696,Ariana Grande,Problem (Dave Aude Twerk Edit),romance,0.006165052,0.06995251,0.283333333,0.266666667,0.91681653
+1697,Ariana Grande,Ain’t About What You Got,romance,0.101694915,0.3266733,0.220338983,0.152542373,0.5165864
+1698,BeyoncÃ©,Outro,romance,0.008856448,0.000350662,0.181818182,0.94753546,0.818181818
+1699,Michael Bublé,When I Fall in Love,romance,0.466666667,0.266666667,0.033333333,0.000698264,0.9969144
+1700,Ariana Grande,​love language,romance,0.016666667,0.05,0.066666667,0.283333333,0.97405607
+1701,Billie Eilish,‌bellyache (Live),romance,0.233333333,0.516666667,0.020713715,0.9436391,0.15
+1702,Billie Eilish,​bury a friend (Live at Third Man Records),romance,0.06643377,0.009840656,0.50327504,0.41049603,0.333333333
+1703,BeyoncÃ©,Krazy In Luv [Mauriceâs Nu Soul Remix],romance,0.004050466,0.04433357,0.000834101,0.002356467,0.9484255
+1704,Eminem,Love the Way You Lie,romance,0.083333333,0.2504095,0.616666667,0.071940586,0.5479656
+1705,Ariana Grande,Into You (3LAU Remix),romance,0.016666667,0.266666667,0.183333333,0.3,0.9279453
+1706,Billie Eilish,Six Feet Under,romance,0.283333333,0.4,0.016666667,0.03904881,0.93283784
+1707,BeyoncÃ©,Drunk in Love (Remix),romance,0.016666667,0.15,0.15,0.96621096,0.483333333
+1708,Billie Eilish,​xanny,romance,0.066666667,0.033333333,0.116666667,0.95716465,0.45
+1709,BeyoncÃ©,Statement on Jay Z and Solange fight,romance,0.6538038,0.004876185,0.061139952,0.27159402,0.866666667
+1710,Ariana Grande,Rolling in the Deep,romance,0.066666667,0.166666667,0.6,0.016666667,0.9935029
+1711,Taylor Swift,Love Story - 2020 Re-recording (Snippet),romance,0.003026728,0.05807367,0.000790567,0.84375,0.9353966
+1712,Selena Gomez,Hands to Myself,romance,0.003919687,0.033333333,0.3,0.116666667,0.96658385
+1713,BeyoncÃ©,Irreplaceable (Live),romance,0.1,0.266666667,0.133333333,0.433333333,0.79349905
+1714,Justin Bieber,Forever (2020 Demo),romance,0.018080484,0.07601924,0.516666667,0.15,0.8925688
+1715,Taylor Swift,Love Story (Pop Mix),romance,0.068119064,0.133333333,0.1,0.2,0.7803782
+1716,BeyoncÃ©,Dreamgirls Medley (The Beyonce Experience Live),romance,0.033333333,0.316666667,0.266666667,0.9337032,0.2
+1717,Maroon 5,This Love (C. “Tricky” Stewart Remix),romance,0.016949153,0.78239626,0.152542373,0.186440678,0.20131269
+1718,BeyoncÃ©,Naughty Girl [Calderone Quayle Club Mix],romance,0.000915983,0.05,0.583333333,0.266666667,0.98329943
+1719,Taylor Swift,Enchanted (Live/2011),romance,0.366666667,0.133333333,0.15,0.1,0.97922826
+1720,Taylor Swift,This Love,romance,0.2,0.35,0.01968739,0.233333333,0.79029167
+1721,Lady Gaga,Blueberry Kisses,romance,0.035714286,0.25,0.142857143,0.392857143,0.96409947
+1722,BeyoncÃ©,Best Thing I Never Had (Lars B Remix),romance,0.005270681,0.068955414,0.316666667,0.35,0.9134006
+1723,Taylor Swift,Thinkin' 'Bout You,romance,0.02118113,0.283333333,0.316666667,0.40252668,0.48620525
+1724,Billie Eilish,Bury a friend[Harel Atias remix],romance,0.15276419,0.066666667,0.5922322,0.25,0.216666667
+1725,BeyoncÃ©,Party,romance,0.004680901,0.033333333,0.283333333,0.98884064,0.616666667
+1726,Billie Eilish,​guess*,romance,0.128205128,0.282051282,0.307692308,0.69693923,0.230769231
+1727,BeyoncÃ©,Darling Nicki (Minaj),romance,0.285714286,0.000384654,0.05224536,0.93967867,0.0070464
+1728,Justin Bieber,Thought of You,romance,0.033333333,0.016666667,0.233333333,0.15,0.98533577
+1729,BeyoncÃ©,Say My Name (Live),romance,0.01135615,0.117544346,0.5703644,0.433333333,0.35
+1730,Patrizio Buanne,Il Mondo,romance,0.033333333,0.5,0.05,0.016666667,0.9831009
+1731,Billie Eilish,Bored (Yamill Remix),romance,0.07341567,0.6408117,0.266666667,0.416666667,0.25
+1732,Post Malone,About a Girl,romance,0.016666667,0.183333333,0.4,0.333333333,0.6945149
+1733,Lara Fabian,You're Not From Here,romance,0.733333333,0.216666667,0.016666667,0.033333333,0.9621796
+1734,Eva Cassidy,Songbird,romance,0.183333333,0.033333333,0.066666667,0.033333333,0.9958034
+1735,BeyoncÃ©,Daddy Lessons,romance,0.005302737,0.001054861,0.433333333,0.97093946,0.45
+1736,Billie Eilish,Paparazzi Instagram Monologue,romance,0.016666667,0.05,0.433333333,0.58378285,0.2
+1737,BeyoncÃ©,Video Phone (Extended Remix),romance,0.033333333,0.05,0.183333333,0.8553623,0.716666667
+1738,BeyoncÃ©,DÃ©jÃ  Vu (Freemasons Radio - with Rap),romance,0.007748684,0.033333333,0.4,0.54949987,0.41986308
+1739,Selena Gomez,Feel Me (Live from Revival Tour),romance,0.018181818,0.036363636,0.472727273,0.054545455,0.9129081
+1740,Billie Eilish,​watch,romance,0.086206897,0.172413793,0.482758621,0.086206897,0.9553453
+1741,Barbra Streisand,Somewhere,romance,0.316666667,0.366666667,0.016666667,0.09463734,0.8767394
+1742,Billie Eilish,​idontwannabeyouanymore (Live at Third Man Records),romance,0.483333333,0.1706274,0.033333333,0.11196874,0.5952633
+1743,Carla Bruni,The Winner Takes It All,romance,0.5,0.183333333,0.6087587,0.16776706,0.316666667
+1744,BeyoncÃ©,Single Ladies (Put a Ring On It) [DJ Escape & Tony Coluccio Remix] {Club Version},romance,0.005050681,0.083333333,0.333333333,0.945379,0.133333333
+1745,Justin Bieber,New One,romance,0.007977985,0.066666667,0.533333333,0.9684216,0.233333333
+1746,BeyoncÃ©,My Man,romance,0.033333333,0.2935952,0.066666667,0.116666667,0.67716455
+1747,Billie Eilish,Telegraph Ave,romance,0.05,0.183333333,0.466666667,0.86427754,0.15
+1748,Taylor Swift,Hopelessly Devoted To You,romance,0.017241379,0.275862069,0.002376831,0.620689655,0.7210907
+1749,Ariana Grande,Baby I,romance,0.006137931,0.9104851,0.133333333,0.066666667,0.8
+1750,BeyoncÃ©,Check On It [Junior Vasquez Club Mix],romance,0.04709939,0.000830641,0.616666667,0.83232504,0.216666667
+1751,Eminem,Love Game,romance,0.018752972,0.133333333,0.70336795,0.383333333,0.116666667
+1752,Simply Red,A Song For You,romance,0.2,0.35,0.083333333,0.116666667,0.95326096
+1753,Lady Gaga,Fashion of His Love (Fernando Garibay Remix),romance,0.033333333,0.25138122,0.183333333,0.047601182,0.75
+1754,BeyoncÃ©,Fighting Temptation,romance,0.033333333,0.316666667,0.416666667,0.9608731,0.133333333
+1755,BeyoncÃ©,Lemonade Film (Script),romance,0.233333333,0.083333333,0.35,0.63309574,0.2
+1756,Selena Gomez,Feel Me (Demo),romance,0.016666667,0.066666667,0.416666667,0.083333333,0.98981804
+1757,Billie Eilish,COPYCAT[itsyo_boiiii remix],romance,0.038758952,0.00659682,0.8403276,0.10651315,0.007803506
+1758,BeyoncÃ©,Get Me Bodied,romance,0.004038821,0.016666667,0.316666667,0.9827498,0.633333333
+1759,Maroon 5,Secret (Demo),romance,0.024633741,0.216666667,0.366666667,0.3040162,0.6549367
+1760,Taylor Swift,Lover,romance,0.1,0.233333333,0.083333333,0.216666667,0.9927067
+1761,Ariana Grande,imagine,romance,0.021029046,0.083333333,0.066666667,0.9012066,0.766666667
+1762,Taylor Swift,Can't Stop Loving You (Live Lounge),romance,0.333333333,0.066666667,0.033333333,0.433333333,0.9414703
+1763,Ariana Grande,Into You / Dangerous Woman Medley,romance,0.004775056,0.1,0.5,0.25,0.87752634
+1764,Justin Bieber,Oh Girl,romance,0.033333333,0.316666667,0.316666667,0.266666667,0.9911122
+1765,Billie Eilish,Hotline Bling (Flyboy Remix),romance,0.133333333,0.083333333,0.019569462,0.37634197,0.783333333
+1766,Billie Eilish,​because i’m in love with you*,romance,0.68627451,0.019607843,0.00097211,0.274509804,0.980358
+1767,Taylor Swift,Sparks Fly (Original Version),romance,0.016666667,0.166666667,0.25,0.1,0.9786768
+1768,Billie Eilish,​idontwannabeyouanymore (Elijah Hill Remix),romance,0.010853305,0.8801744,0.266666667,0.05,0.683333333
+1769,Ariana Grande,Sweetener World Tour Dates,romance,0.00541792,1,0.07277872,0.905843,0.004774946
+1770,Selena Gomez,Let Me Love You (Demo),romance,0.119047619,0.19047619,0.142857143,0.095238095,0.9820722
+1771,Eminem,Crazy in Love,romance,0.003373995,0.04413452,0.916666667,0.033333333,0.8634884
+1772,BeyoncÃ©,So Much Damn Swag (Interlude) [Homecoming Live],romance,0.011227978,0.001377737,0.033333333,0.96751404,0.966666667
+1773,BeyoncÃ©,Sweet Dreams (Live at Wynn Las Vegas),romance,0.098039216,0.006942496,0.117647059,0.34712803,0.705882353
+1774,Billie Eilish,​if you want me,romance,0.283333333,0.15,0.083333333,0.183333333,0.9941393
+1775,Cardi B,11/18/19 Freestyle,romance,0.34906098,0.016666667,0.5811923,0.4,0.25
+1776,Justin Bieber,Favorite Girl (Acoustic) [Live],romance,0.066666667,0.366666667,0.016666667,0.333333333,0.99368393
+1777,BeyoncÃ©,B&J,romance,0.216666667,0.00045657,0.10777004,0.85184157,0.683333333
+1778,BeyoncÃ©,Get Me Bodied (Live),romance,0.004038821,0.016666667,0.066666667,0.9827498,0.783333333
+1779,Ariana Grande,Knew Better / Forever Boy,romance,0.05,0.216666667,0.2,0.133333333,0.92131865
+1780,BeyoncÃ©,Love on Top (DJ Escape & Tony Coluccio Remix),romance,0.005402596,0.033333333,0.266666667,0.9736789,0.25
+1781,Ariana Grande,Knew Better Part Two,romance,0.05,0.05,0.083333333,0.083333333,0.974327
+1782,Maroon 5,Woman (Demo),romance,0.133333333,0.233333333,0.033333333,0.25,0.9904951
+1783,Cardi B,Lick,romance,0.016666667,0.001851876,0.85,0.80573714,0.133333333
+1784,Ariana Grande,​r.e.m (live),romance,0.006599333,0.050847458,0.254237288,0.06779661,0.94704026
+1785,Billie Eilish,​hostage,romance,0.566666667,0.116666667,0.016666667,0.066666667,0.9893959
+1786,Maroon 5,She Will Be Loved,romance,0.021520909,0.383333333,0.283333333,0.133333333,0.8255766
+1787,BeyoncÃ©,End of Time (JIMEK Remix),romance,0.010521358,0.1,0.25,0.05,0.9516924
+1788,Ariana Grande,Better Left Unsaid,romance,0.033333333,0.2,0.266666667,0.1,0.8807811
+1789,Taylor Swift,Teardrops on my Guitar (Live from Clear Channel Stripped 2008),romance,0.016666667,0.466666667,0.116666667,0.333333333,0.94608307
+1790,BeyoncÃ©,Outro (Speak My Mind),romance,0.016666667,0.05,0.49468815,0.49088913,0.583333333
+1791,Lady Gaga,We Could Be Lovers,romance,0.233333333,0.7571994,0.14654714,0.03659492,0.266666667
+1792,Lady Gaga,You and I - Metronomy Remix,romance,0.283333333,0.116666667,0.033333333,0.09648268,0.87521577
+1793,Ruth B.,Paper Airplanes,romance,0.116666667,0.3,0.033333333,0.033333333,0.99355716
+1794,BeyoncÃ©,Whatâs Good With You,romance,0.033333333,0.416666667,0.266666667,0.16396567,0.80333805
+1795,BeyoncÃ©,BeyoncÃ© VMAâs 2014,romance,0.20325045,0.006279345,0.012208567,0.7650899,0.013171773
+1796,Taylor Swift,Ours (Live/2011),romance,0.133333333,0.283333333,0.033333333,0.5,0.8753093
+1797,BeyoncÃ©,Crazy In Love (The Beyonce Experience Live),romance,0.045130905,0.078670315,0.783333333,0.5851138,0.2630347
+1798,BeyoncÃ©,The Spot (Jail),romance,0.05,0.000981852,0.283333333,0.8111729,0.183333333
+1799,Justin Bieber,Boyfriend (Acoustic),romance,0.083333333,0.166666667,0.05,0.166666667,0.98316795
+1800,Seal,Kiss from a Rose,romance,0.116666667,0.433333333,0.033333333,0.05,0.9506038
+1801,BeyoncÃ©,Rocket,romance,0.010170036,0.3,0.15,0.044552878,0.94026786
+1802,Billie Eilish,COPYCAT[live in London],romance,0.038758952,0.033333333,0.8403276,0.316666667,0.416666667
+1803,Ronan Keating,If Tomorrow Never Comes,romance,0.316666667,0.20075062,0.083333333,0.133333333,0.78430384
+1804,Melody Gardot,Once I Was Loved,romance,0.9,0.5121092,0.14313179,0.037409905,0.19614328
+1805,Maroon 5,Kiss,romance,0.25,0.266666667,0.05,0.316666667,0.98100394
+1806,Ariana Grande,Miss Me*,romance,0.031530585,0.216666667,0.15,0.216666667,0.9109089
+1807,BeyoncÃ©,Love Me...,romance,0.010350883,0.15,0.9522812,0.033333333,0.683333333
+1808,Ariana Grande,Nobody Does It Better,romance,0.05,0.92973495,0.133333333,0.166666667,0.633333333
+1809,BeyoncÃ©,Diva (Karmatronic Club Remix),romance,0.004720623,0.001726642,0.28029397,0.70742524,0.583333333
+1810,Billie Eilish,​​my boy (TroyBoi Remix),romance,0.004817935,0.9521589,0.6,0.216666667,0.05
+1811,Eminem,Superman,romance,0.006134378,0.05,0.266666667,0.633333333,0.9664746
+1812,Melody Gardot,If Ever I Recall Your Face,romance,0.716666667,0.166666667,0.009663753,0.116666667,0.9705296
+1813,Eminem,I Kissed a Boy,romance,0.003428699,0.00042417,0.316666667,0.9795822,0.166666667
+1814,BeyoncÃ©,MY POWER,romance,0.008327889,0.1,0.8597303,0.12346669,0.65
+1815,Justin Bieber,One Love,romance,0.016666667,0.003965296,0.016666667,0.233333333,0.9911402
+1816,BeyoncÃ©,BIGGER,romance,0.583477,0.3,0.2870404,0.316666667,0.316666667
+1817,Billie Eilish,Fingers Crossed,romance,0.05,0.3,0.70628417,0.07101055,0.15
+1818,Justin Bieber,Favorite Girl,romance,0.000494236,0.016666667,0.6,0.00192139,0.99461335
+1819,Whitney Houston,Greatest Love of All,romance,0.383333333,0.166666667,0.052435618,0.6653091,0.383333333
+1820,Ariana Grande,34+35 (Remix),romance,0.033333333,0.1,0.37559846,0.5989488,0.55
+1821,Ariana Grande,Problem (No Rap Version),romance,0.034482759,0.06727626,0.224137931,0.051724138,0.914599
+1822,Leonard Cohen,Suzanne,romance,0.8,0.2,0.019023368,0.041854337,0.93416977
+1823,Eminem,The Apple,romance,0.083333333,0.033333333,0.666666667,0.29920888,0.006016199
+1824,Ariana Grande,In My Head (Music Video Version),romance,0.066666667,0.1,0.2,0.05,0.8674613
+1825,Cardi B,Lit Thot,romance,0.066666667,0.001021353,0.7531834,0.23756546,0.283333333
+1826,Maroon 5,Never Gonna Leave This Bed (Acoustic),romance,0.033333333,0.616666667,0.116666667,0.00357125,0.9083802
+1827,BeyoncÃ©,Free Fall,romance,0.233333333,0.616666667,0.47541475,0.33361852,0.016666667
+1828,BeyoncÃ©,"Me, Myself and I (BeyoncÃ© Experience Live)",romance,0.041066967,0.316666667,0.266666667,0.42754,0.49650759
+1829,BeyoncÃ©,Bow Down (Homecoming Live),romance,0.033333333,0.15,0.166666667,0.97377837,0.483333333
+1830,Billie Eilish,Hostage[killer frost remix],romance,0.483333333,0.2,0.033333333,0.066666667,0.9893959
+1831,Lady Gaga,Always remember us this way Greek translation,romance,0.037472624,0.066666667,0.13124794,0.6135076,0.9
+1832,Billie Eilish,You should see me in a crown[live from Ellen],romance,0.7490239,0.237288136,0.06779661,0.186440678,0.220338983
+1833,Justin Bieber,Boyfriend,romance,0.004148447,0.01754386,0.263157895,0.087719298,0.9742974
+1834,Ariana Grande,Vienna (cover song),romance,0.25,0.2888202,0.366666667,0.13949339,0.20152101
+1835,Nicki Minaj,My Heart 2 You,romance,0.10907234,0.49578002,0.433333333,0.05,0.466666667
+1836,Ariana Grande,Snow In California,romance,0.022598207,0.133333333,0.003150006,0.5000877,0.533333333
+1837,Justin Bieber,Heroine (Let’s Stay Together),romance,0.5,0.5,0.001260568,0.004747943,0.83512014
+1838,Post Malone,The One,romance,0.016666667,0.116666667,0.47737342,0.5092716,0.133333333
+1839,Lady Gaga,"Bewitched, Bothered and Bewildered",romance,0.216666667,0.166666667,0.31624883,0.45347616,0.533333333
+1840,Taylor Swift,Superman,romance,0.19210193,0.383333333,0.07961033,0.5933589,0.383333333
+1841,Ariana Grande,Touch It (Final Fantasy Brave Exvius Remix),romance,0.002614513,0.183333333,0.416666667,0.15,0.98447555
+1842,Justin Bieber,All I Want Is You (Acoustic),romance,0.016666667,0.033333333,0.183333333,0.133333333,0.97593653
+1843,Selena Gomez,Can't Steal Our Love,romance,0.5729594,0.25,0.483333333,0.15,0.1753371
+1844,BeyoncÃ©,I Been On,romance,0.05,0.166666667,0.3818411,0.6080795,0.433333333
+1845,BeyoncÃ©,Back Up,romance,0.033333333,0.1,0.3515018,0.62938124,0.783333333
+1846,BeyoncÃ©,Drunk In Love (T.I. Remix),romance,0.016666667,0.15,0.15,0.9546395,0.483333333
+1847,Billie Eilish,​bellyache (Marian Hill Remix),romance,0.133333333,0.34046784,0.42711446,0.216666667,0.183333333
+1848,Ariana Grande,Sniffer Dogs,romance,0.58580065,0.25,0.15,0.27538794,0.416666667
+1849,BeyoncÃ©,I Was Here,romance,0.53675306,0.166666667,0.3669076,0.216666667,0.433333333
+1850,Ariana Grande,Side To Side,romance,0.011459486,0.083333333,0.083333333,0.9321549,0.7
+1851,Caro Emerald,A Night Like This,romance,0.05,0.516666667,0.034786604,0.7769091,0.283333333
+1852,Justin Bieber,Take You (Acoustic),romance,0.333333333,0.1,0.066666667,0.54542416,0.4347074
+1853,BeyoncÃ©,If I Were a Boy,romance,0.8184176,0.1,0.116666667,0.183333333,0.566666667
+1854,Robbie Williams,Eternity - Orchestral Version,romance,0.283333333,0.616666667,0.002432255,0.32085386,0.63578755
+1855,Taylor Swift,Mine,romance,0.020631123,0.25,0.383333333,0.233333333,0.7172636
+1856,BeyoncÃ©,Baby Boy (Homecoming Live),romance,0.014049743,0.009602488,0.083333333,0.24591804,0.85
+1857,Elvis Costello,She,romance,0.15,0.633333333,0.03601202,0.6901257,0.166666667
+1858,Joe Cocker,You Are So Beautiful,romance,0.37037037,0.074074074,0.296296296,0.08725698,0.9032603
+1859,Ariana Grande,positions,romance,0.029354263,0.009876224,0.070175439,0.192982456,0.8201577
+1860,BeyoncÃ©,Crazy In Love (Remix),romance,0.116666667,0.7098577,0.316666667,0.15,0.20211071
+1861,Justin Bieber,PYD,romance,0.30996266,0.566666667,0.1713686,0.5111163,0.216666667
+1862,BeyoncÃ©,Hold Up,romance,0.166666667,0.92860425,0.4,0.05,0.3
+1863,Patrizio Buanne,On An Evening In Roma,romance,0.020833333,0.291666667,0.0625,0.9686826,0.479166667
+1864,Ariana Grande,Venuss*,romance,0.06203713,0.43309304,0.4494116,0.216666667,0.283333333
+1865,Ariana Grande,Problem (Wayne G Radio Edit),romance,0.005465631,0.066666667,0.333333333,0.25,0.923965
+1866,Selena Gomez,Wild Love,romance,0.283333333,0.35,0.1445036,0.7196605,0.366666667
+1867,Eminem,Love You More,romance,0.066666667,0.333333333,0.4,0.183333333,0.9430253
+1868,Cardi B,Bodak Yellow (Remix),romance,0.002391168,0.016666667,0.79522824,0.35,0.4
+1869,Adele,Someone Like You,romance,0.733333333,0.32905146,0.05,0.002200337,0.653962

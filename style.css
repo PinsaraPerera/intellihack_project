@@ -1,0 +1,91 @@
+/* [data-testid="stAppViewContainer"]{
+    background: rgb(22, 93, 69);
+} */
+[data-testid="stMarkdownContainer"]{
+    color: rgb(220, 202, 202);
+}
+[kind="secondaryFormSubmit"]{
+    background: rgba(138, 130, 130, 0);
+    border: 1px solid black;
+}
+div.css-q8sbsg > p,
+div.css-x78sv8 > p {
+    font-size: 20px;
+    font-weight: 700;
+}
+div.input{
+    background: transparent;
+}
+/* .st-e5{
+    background-color: rgb(41, 126, 20, 0.8);
+} */
+/* .st-e7{
+    background-color: rgb(171, 29, 29, 0.8);
+} */
+/* .st-dg{
+    background-color: rgb(38, 39, 48,0.4);
+} */
+.joy,.romance,.calm,.power,.sorrow{
+    border: 1px white solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.emotion{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+.outer{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    padding: 20px;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+                -6px -6px 10px -1px rgba(120, 117, 117, 0.7);
+
+}
+.inner{
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                -0.5px -0.5px 0px rgba(255,255,255,1),
+                0.5px 0.5px 0px rgba(0,0,0,0.15),
+                0px 12px 10px -10px rgba(0,0,0,0.05);
+}
+#number{
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+}
+circle{
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    stroke-dasharray: 425;
+    stroke-dashoffset: 425;
+    animation: anim 2s linear forwards;
+}
+.icon{
+    position: absolute;
+    top: -7px;
+    left: -7px;
+}
+.e1tzin5v2:nth-of-type(18){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button:hover{
+    background-color: rgb(38, 39, 48,0.4);
+}
+
+
+
